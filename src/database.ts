@@ -1,5 +1,6 @@
 import { connect, connection, Mongoose } from 'mongoose';
 import { config } from './config';
+import { glob } from 'glob';
 
 export const connectToDatabase = async (): Promise<Mongoose> => {
   const mongooseConnection = connect(config.mongo.uri, config.mongo.options);
@@ -8,7 +9,7 @@ export const connectToDatabase = async (): Promise<Mongoose> => {
     process.exit(-1);
   });
   return mongooseConnection;
-}
+};
 
 export const dropCollections = async (): Promise<boolean[]> => {
   const db: any = connection.db;
@@ -23,17 +24,29 @@ export const dropCollections = async (): Promise<boolean[]> => {
 
 export const pingDatabase = async (): Promise<boolean> => {
   const db: any = connection.db;
-  return db.admin().ping()
+  return db
+    .admin()
+    .ping()
     .then((res: any) => !!res && res?.ok === 1);
-}
+};
 
 export const seedDatabase = async (directory: string): Promise<void> => {
   return dropCollections()
-    .then(() => {
+    .then(() => listSeedFiles(directory))
+    .then((files) => console.log(files));
+};
 
-
+const listSeedFiles = async (directory: string): Promise<string[]> => {
+  return new Promise((resolve, reject) => {
+    glob(directory + '/*.json', function (err, files) {
+      if (err) {
+        reject(err);
+      } else {
+        resolve(files);
+      }
     });
-}
+  });
+};
 
 // const seedDatabase = async (): Promise<any> => {
 //   console.log(`Initializing db with seed: ${config.dbSeedName}`);

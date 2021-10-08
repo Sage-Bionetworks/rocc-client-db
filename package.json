@@ -14,17 +14,19 @@
   },
   "keywords": [],
   "author": {
-    "name" : "Thomas Schaffter",
-    "email" : "thomas.schaffter@protonmail.com",
-    "url" : "https://github.com/tschaffter"
+    "name": "Thomas Schaffter",
+    "email": "thomas.schaffter@protonmail.com",
+    "url": "https://github.com/tschaffter"
   },
   "license": "Apache-2.0",
   "dependencies": {
     "commander": "^8.2.0",
+    "glob": "^7.2.0",
     "lodash-es": "^4.17.21",
     "mongoose": "^6.0.9"
   },
   "devDependencies": {
+    "@types/glob": "^7.1.4",
     "@types/mongoose": "^5.11.97",
     "@types/node": "^16.10.3",
     "nodemon": "^2.0.13",

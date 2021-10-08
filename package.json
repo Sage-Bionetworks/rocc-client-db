@@ -13,7 +13,11 @@
     "package": "pkg ."
   },
   "keywords": [],
-  "author": "Thomas Schaffter",
+  "author": {
+    "name" : "Thomas Schaffter",
+    "email" : "thomas.schaffter@protonmail.com",
+    "url" : "https://github.com/tschaffter"
+  },
   "license": "Apache-2.0",
   "dependencies": {
     "commander": "^8.2.0",

@@ -1,7 +1,7 @@
 {
   "name": "@sage-bionetworks/rocc-client-db",
   "version": "0.1.0",
-  "description": "Client for ROCC DB instances",
+  "description": "Client for managing a ROCC DB instance.",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
   "scripts": {
@@ -33,7 +33,7 @@
     "typescript": "^4.4.3"
   },
   "bin": {
-    "rocc-client-db": "./dist/index.js"
+    "rocc-client-db": "./dist/src/index.js"
   },
   "pkg": {
     "scripts": "dist/**/*.js",

@@ -29,11 +29,13 @@
     "typescript": "^4.4.3"
   },
   "bin": {
-    "rocc-db-client": "./dist/index.js"
+    "rocc-client-db": "./dist/index.js"
   },
   "pkg": {
     "scripts": "dist/**/*.js",
-    "targets": [ "node16-linux-x64" ],
+    "targets": [
+      "node16-linux-x64"
+    ],
     "outputPath": "dist"
   }
 }

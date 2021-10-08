@@ -25,7 +25,14 @@ export const pingDatabase = async (): Promise<boolean> => {
   const db: any = connection.db;
   return db.admin().ping()
     .then((res: any) => !!res && res?.ok === 1);
+}
 
+export const seedDatabase = async (directory: string): Promise<void> => {
+  return dropCollections()
+    .then(() => {
+
+
+    });
 }
 
 // const seedDatabase = async (): Promise<any> => {

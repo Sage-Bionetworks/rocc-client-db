@@ -1,5 +1,5 @@
 import { Command } from 'commander';
-import { connectToDatabase, dropCollections, pingDatabase } from './database';
+import { connectToDatabase, dropCollections, pingDatabase, seedDatabase } from './database';
 import { config } from './config';
 import * as Pkg from '../package.json';
 
@@ -24,7 +24,7 @@ export class App {
     this.program
       .command('seed')
       .description(
-        'seed the db with the JSON files from the directory specified'
+        'empty and seed the db with the JSON files from the directory specified'
       )
       .argument('<directory>')
       .action((directory: string) => this.seed(directory))
@@ -36,18 +36,6 @@ export class App {
       .option('--password <password>', 'MongoDB password', 'roccmongo');
   }
 
-  private async seed(directory: string): Promise<void> {
-    return connectToDatabase()
-      .then(dropCollections)
-      .then((success) => {
-        process.exit(success ? 0 : -1);
-      })
-      .catch((err: any) => {
-        console.log(err);
-        process.exit(-1);
-      });
-  }
-
   private async ping(): Promise<void> {
     return connectToDatabase()
       .then(pingDatabase)
@@ -55,6 +43,16 @@ export class App {
         console.log(pong ? 'pong' : 'No pong received');
         process.exit(pong ? 0 : -1);
       })
+      .catch((err: any) => {
+        console.log(err);
+        process.exit(-1);
+      });
+  }
+
+  private async seed(directory: string): Promise<void> {
+    return connectToDatabase()
+      .then(() => seedDatabase(directory))
+      .then(() => process.exit(0))
       .catch((err: any) => {
         console.log(err);
         process.exit(-1);

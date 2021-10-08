@@ -1,6 +1,11 @@
 import { connect, connection, Mongoose } from 'mongoose';
 import { config } from './config';
 import { glob } from 'glob';
+import * as path from 'path';
+
+interface SeedFiles {
+  [users: string]: string;
+}
 
 export const connectToDatabase = async (): Promise<Mongoose> => {
   const mongooseConnection = connect(config.mongo.uri, config.mongo.options);
@@ -30,19 +35,37 @@ export const pingDatabase = async (): Promise<boolean> => {
     .then((res: any) => !!res && res?.ok === 1);
 };
 
-export const seedDatabase = async (directory: string): Promise<void> => {
+export const seedDatabase = async (directory: string): Promise<any[]> => {
   return dropCollections()
     .then(() => listSeedFiles(directory))
-    .then((files) => console.log(files));
+    .then(seedFiles => {
+      let promises: Promise<any>[] = [];
+      if (seedFiles['users']) {
+        promises.push(seedUsers(seedFiles['users']));
+      }
+      return Promise.all(promises);
+    });
 };
 
-const listSeedFiles = async (directory: string): Promise<string[]> => {
+const seedUsers = async (seedFile: string): Promise<any> => {
+
+  return Promise.resolve(undefined);
+}
+
+const listSeedFiles = async (directory: string): Promise<SeedFiles> => {
   return new Promise((resolve, reject) => {
-    glob(directory + '/*.json', function (err, files) {
+    glob(directory + '/*.json', { ignore: 'nodir' }, function (err, files) {
       if (err) {
         reject(err);
       } else {
-        resolve(files);
+        // TODO consider throwing an error if an unknown json file is found
+        // in the directory specified
+        let seedFiles: SeedFiles = {};
+        files.forEach(file => {
+          let key = path.basename(file, '.json');
+          seedFiles[key] = file;
+        });
+        resolve(seedFiles);
       }
     });
   });

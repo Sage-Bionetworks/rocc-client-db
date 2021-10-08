@@ -1,4 +1,14 @@
-import { connection } from 'mongoose';
+import { connect, connection, Mongoose } from 'mongoose';
+import { config } from './config';
+
+export const connectToDatabase = async (): Promise<Mongoose> => {
+  const mongooseConnection = connect(config.mongo.uri, config.mongo.options);
+  connection.on('error', (err: any) => {
+    console.error(`MongoDB connection error: ${err}`);
+    process.exit(-1);
+  });
+  return mongooseConnection;
+}
 
 export const dropCollections = async (): Promise<boolean[]> => {
   const db: any = connection.db;

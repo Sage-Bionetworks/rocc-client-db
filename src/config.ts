@@ -1,11 +1,9 @@
 export const config = {
-  dbSeedName: process.env.SEED_NAME || 'development',
-
   mongo: {
     options: {
-      user: process.env.DB_USERNAME || 'roccmongo',
-      pass: process.env.DB_PASSWORD || 'roccmongo'
+      user: 'roccmongo',
+      pass: 'roccmongo'
     },
-    uri: process.env.DB_URI || 'mongodb://localhost:27017/rocc'
+    uri: 'mongodb://localhost:27017/rocc'
   },
 };

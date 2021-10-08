@@ -1,6 +1,5 @@
-import { connect, connection, Mongoose } from 'mongoose';
 import { Command } from 'commander';
-import { dropCollections, pingDatabase } from './database';
+import { connectToDatabase, dropCollections, pingDatabase } from './database';
 import { config } from './config';
 import * as Pkg from '../package.json';
 
@@ -19,7 +18,8 @@ export class App {
     this.program
       .command('ping')
       .description('ping the MongoDB instance')
-      .action(() => this.ping());
+      .action(() => this.ping())
+      .hook('preAction', () => this.setConfig(this.program.opts()));
 
     this.program
       .command('seed')
@@ -27,7 +27,8 @@ export class App {
         'seed the db with the JSON files from the directory specified'
       )
       .argument('<directory>')
-      .action((directory: string) => this.seed(directory));
+      .action((directory: string) => this.seed(directory))
+      .hook('preAction', () => this.setConfig(this.program.opts()));
 
     this.program
       .option('--uri <uri>', 'MongoDB uri', 'mongodb://localhost:27017/rocc')
@@ -36,7 +37,7 @@ export class App {
   }
 
   private async seed(directory: string): Promise<void> {
-    return this.connect()
+    return connectToDatabase()
       .then(dropCollections)
       .then((success) => {
         process.exit(success ? 0 : -1);
@@ -48,7 +49,7 @@ export class App {
   }
 
   private async ping(): Promise<void> {
-    return this.connect()
+    return connectToDatabase()
       .then(pingDatabase)
       .then((pong) => {
         console.log(pong ? 'pong' : 'No pong received');
@@ -60,18 +61,10 @@ export class App {
       });
   }
 
-  private async connect(): Promise<Mongoose> {
-    const options = this.program.opts();
-    const connectOptions = {
-      user: options.username,
-      pass: options.password,
-    };
-    const mongooseConnection = connect(options.uri, connectOptions);
-    connection.on('error', (err: any) => {
-      console.error(`MongoDB connection error: ${err}`);
-      process.exit(-1);
-    });
-    return mongooseConnection;
+  private setConfig(options: any): void {
+    config.mongo.uri = options.uri;
+    config.mongo.options.user = options.username;
+    config.mongo.options.pass = options.password;
   }
 
   public async run(): Promise<void> {

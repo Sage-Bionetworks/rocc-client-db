@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "615f3d85031c35c7ab6a4c6a",
+      "email": "admin@admin.org",
+      "login": "admin",
+      "name": "Admin User",
+      "bio": "A great bio"
+    }
+  ]
+}

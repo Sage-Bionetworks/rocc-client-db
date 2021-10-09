@@ -1,4 +1,4 @@
-import { connect, connection, Mongoose } from 'mongoose';
+import { connect, connection, disconnect, Mongoose } from 'mongoose';
 import { config } from './config';
 import { glob } from 'glob';
 import * as path from 'path';
@@ -11,22 +11,41 @@ interface SeedFiles {
 
 export const connectToDatabase = async (): Promise<Mongoose> => {
   const mongooseConnection = connect(config.mongo.uri, config.mongo.options);
+  connection.on('connected', function() {
+    console.log(`Mongoose connected to ${config.mongo.uri}`);
+  });
   connection.on('error', (err: any) => {
-    console.error(`MongoDB connection error: ${err}`);
-    process.exit(-1);
+    console.error(`Mongoose connection error: ${err}`);
+  });
+  connection.on('disconnected', function() {
+    console.log('Mongoose disconnected');
   });
   return mongooseConnection;
 };
 
-export const dropCollections = async (): Promise<boolean[]> => {
+export const disconnectFromDatabase = async (): Promise<void> => {
+  console.log('Disconnecting from db');
+  return disconnect();
+};
+
+export const dropCollections = async (): Promise<boolean> => {
   const db: any = connection.db;
   return db
     .listCollections()
     .toArray()
-    .then((collections: any[]) =>
-      collections.map((collection) => db.dropCollection(collection.name))
+    .then((collections: any[]) => {
+      console.log('collections listed');
+      return collections.map((collection) => {
+        console.log(`Removing collection ${collection.name}`);
+        return db.dropCollection(collection.name);
+      })
+    }
     )
-    .then((promises: Promise<boolean>[]) => Promise.all(promises));
+    .then((promises: Promise<boolean>[]) => Promise.all(promises))
+    .then(() => {
+      console.log('here');
+      return true;
+    });
 };
 
 export const pingDatabase = async (): Promise<boolean> => {

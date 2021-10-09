@@ -28,4 +28,5 @@ const AccountSchema = new Schema<Account>(
   options
 );
 
+console.log('create account model');
 export const AccountModel = model('Account', AccountSchema);

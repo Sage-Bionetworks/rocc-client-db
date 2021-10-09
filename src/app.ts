@@ -1,10 +1,19 @@
 import { Command } from 'commander';
-import { connectToDatabase, dropCollections, pingDatabase, seedDatabase } from './database';
+import {
+  connectToDatabase,
+  disconnectFromDatabase,
+  dropCollections,
+  pingDatabase,
+  seedDatabase,
+} from './database';
 import { config } from './config';
 import * as Pkg from '../package.json';
+import { Mongoose } from 'mongoose';
+import { timeStamp } from 'console';
 
 export class App {
-  private program: any;
+  private program: Command;
+  private mongoose!: Mongoose;
 
   constructor() {
     this.program = new Command();
@@ -22,13 +31,19 @@ export class App {
       .hook('preAction', () => this.setConfig(this.program.opts()));
 
     this.program
-      .command('seed')
-      .description(
-        'empty and seed the db with the JSON files from the directory specified'
-      )
-      .argument('<directory>')
-      .action((directory: string) => this.seed(directory))
+      .command('remove-collections')
+      .description('remove all collections')
+      .action(() => this.removeCollections())
       .hook('preAction', () => this.setConfig(this.program.opts()));
+
+    // this.program
+    //   .command('seed')
+    //   .description(
+    //     'empty and seed the db with the JSON files from the directory specified'
+    //   )
+    //   .argument('<directory>')
+    //   .action((directory: string) => this.seed(directory))
+    //   .hook('preAction', () => this.setConfig(this.program.opts()));
 
     this.program
       .option('--uri <uri>', 'MongoDB uri', 'mongodb://localhost:27017/rocc')
@@ -36,28 +51,63 @@ export class App {
       .option('--password <password>', 'MongoDB password', 'roccmongo');
   }
 
+  public async gracefulShutdown(msg: string, callback: any): Promise<void> {
+    console.log('gracefulShutdown');
+    if (this.mongoose) {
+      await this.mongoose.connection.close();
+    }
+    return new Promise((resolve, reject) => {
+      callback();
+      resolve();
+    });
+
+    // if (this.mongoose) {
+    //   console.log('disconnect');
+    //   this.mongoose.connection.close(() => {
+    //     console.log('Mongoose disconnected' + (!!msg ? ` through ${msg}` : ''));
+    //     callback();
+    //   });
+    // } else {
+    //   callback();
+    // }
+  }
+
   private async ping(): Promise<void> {
     return connectToDatabase()
+      .then((mongoose) => (this.mongoose = mongoose))
       .then(pingDatabase)
       .then((pong) => {
         console.log(pong ? 'pong' : 'No pong received');
-        process.exit(pong ? 0 : -1);
+        return pong ? 0 : -1;
       })
+      .then((exitStatus) => this.gracefulShutdown('', () => {
+        process.exit(exitStatus);
+      }))
       .catch((err: any) => {
         console.log(err);
         process.exit(-1);
       });
   }
 
-  private async seed(directory: string): Promise<void> {
+  private async removeCollections(): Promise<void> {
     return connectToDatabase()
-      .then(() => seedDatabase(directory))
+      .then(() => dropCollections())
       .then(() => process.exit(0))
       .catch((err: any) => {
         console.log(err);
         process.exit(-1);
       });
   }
+
+  // private async seed(directory: string): Promise<void> {
+  //   return connectToDatabase()
+  //     .then(() => seedDatabase(directory))
+  //     .then(() => process.exit(0))
+  //     .catch((err: any) => {
+  //       console.log(err);
+  //       process.exit(-1);
+  //     });
+  // }
 
   private setConfig(options: any): void {
     config.mongo.uri = options.uri;

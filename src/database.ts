@@ -6,7 +6,7 @@ import { promises } from 'fs';
 import { UserModel, OrganizationModel, OrgMembershipModel } from './models';
 
 interface SeedFiles {
-  [users: string]: string;
+  [key: string]: string;
 }
 
 export const connectToDatabase = async (): Promise<Mongoose> => {
@@ -102,7 +102,8 @@ const listSeedFiles = async (directory: string): Promise<SeedFiles> => {
         reject(err);
       } else {
         // TODO consider throwing an error if an unexpected json file is found
-        // in the directory specified
+        // in the directory specified, e.g. when a key is not in the interface
+        // SeedFiles
         let seedFiles: SeedFiles = {};
         files.forEach((file) => {
           let key = path.basename(file, '.json');

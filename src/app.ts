@@ -62,7 +62,6 @@ export class App {
   }
 
   private async ping(): Promise<void> {
-
     try {
       this.mongoose = await connectToDatabase();
       const pong = await pingDatabase();

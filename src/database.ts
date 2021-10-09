@@ -79,7 +79,7 @@ const listSeedFiles = async (directory: string): Promise<SeedFiles> => {
       if (err) {
         reject(err);
       } else {
-        // TODO consider throwing an error if an unknown json file is found
+        // TODO consider throwing an error if an unexpected json file is found
         // in the directory specified
         let seedFiles: SeedFiles = {};
         files.forEach((file) => {
@@ -91,21 +91,3 @@ const listSeedFiles = async (directory: string): Promise<SeedFiles> => {
     });
   });
 };
-
-// const seedDatabase = async (): Promise<any> => {
-//   console.log(`Initializing db with seed: ${config.dbSeedName}`);
-
-//   let promises = [];
-//   let promise;
-
-//   promise = UserModel.create({})  // seeds.users
-//     .then(() => console.log('Finished populating users'))
-//     .catch(err => console.log('Error populating users', err));
-//   promises.push(promise);
-
-//   // .then(() => (seeds.apps ? App.create(seeds.apps).then(() => console.log('finished populating apps')) : null))
-//   // .catch(err => console.log('error populating apps', err));
-//   // promises.push(promise);
-
-//   return Promise.all(promises);
-// }

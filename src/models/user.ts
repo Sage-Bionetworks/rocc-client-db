@@ -10,7 +10,7 @@ export interface User extends Account {
   passwordHash: string;
 }
 
-const UserSchema = new Schema<User>({
+export const UserSchema = new Schema<User>({
   email: {
     type: String,
     required: true,

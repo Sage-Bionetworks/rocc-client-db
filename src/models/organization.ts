@@ -2,7 +2,7 @@ import { ObjectId, Schema } from 'mongoose';
 import { Account, AccountModel, AccountType } from './account';
 import validator from 'validator';
 
-interface Organization extends Account {
+export interface Organization extends Account {
   email: string;
   name: string;
   avatarUrl?: string;
@@ -10,7 +10,7 @@ interface Organization extends Account {
   description?: string;
 }
 
-const OrganizationSchema = new Schema<Organization>({
+export const OrganizationSchema = new Schema<Organization>({
   email: {
     type: String,
     required: true,

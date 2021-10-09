@@ -11,13 +11,13 @@ interface SeedFiles {
 
 export const connectToDatabase = async (): Promise<Mongoose> => {
   const mongooseConnection = connect(config.mongo.uri, config.mongo.options);
-  connection.on('connected', function() {
+  connection.on('connected', function () {
     console.log(`Mongoose connected to ${config.mongo.uri}`);
   });
   connection.on('error', (err: any) => {
     console.error(`Mongoose connection error: ${err}`);
   });
-  connection.on('disconnected', function() {
+  connection.on('disconnected', function () {
     console.log('Mongoose disconnected');
   });
   return mongooseConnection;
@@ -33,9 +33,8 @@ export const dropCollections = async (): Promise<boolean> => {
       return collections.map((collection) => {
         console.log(`Removing collection ${collection.name}`);
         return db.dropCollection(collection.name);
-      })
-    }
-    )
+      });
+    })
     .then((promises: Promise<boolean>[]) => Promise.all(promises))
     .then(() => {
       console.log('here');
@@ -52,19 +51,18 @@ export const pingDatabase = async (): Promise<boolean> => {
 };
 
 export const seedDatabase = async (directory: string): Promise<boolean> => {
-  return dropCollections()
-    .then(() => listSeedFiles(directory))
-    .then((seedFiles) => {
-      let promises: Promise<any>[] = [];
-      if (seedFiles['users']) {
-        promises.push(seedUsers(seedFiles['users']));
-      }
-      if (seedFiles['organizations']) {
-        promises.push(seedOrganizations(seedFiles['organizations']));
-      }
-      return Promise.all(promises);
-    })
-    .then(() => true);
+  await dropCollections();
+  const seedFiles = await listSeedFiles(directory);
+  if (seedFiles['users']) {
+    await seedUsers(seedFiles['users']);
+  }
+  if (seedFiles['organizations']) {
+    await seedOrganizations(seedFiles['organizations']);
+  }
+  if (seedFiles['org-memberships']) {
+    await seedOrgMemberships(seedFiles['org-memberships']);
+  }
+  return Promise.resolve(true);
 };
 
 const readSeedFile = async (seedFile: string): Promise<any> => {
@@ -86,6 +84,15 @@ const seedOrganizations = async (seedFile: string): Promise<any> => {
     .then((orgs) => OrganizationModel.create(orgs.organizations))
     .then(() => console.log('Organizations seeding completed'))
     .catch((err: any) => console.error('Unable to seed organizations', err));
+};
+
+const seedOrgMemberships = async (seedFile: string): Promise<any> => {
+  return readSeedFile(seedFile)
+    .then((orgMemberships) =>
+      OrganizationModel.create(orgMemberships.orgMemberships)
+    )
+    .then(() => console.log('Org memberships seeding completed'))
+    .catch((err: any) => console.error('Unable to seed org memberships', err));
 };
 
 const listSeedFiles = async (directory: string): Promise<SeedFiles> => {

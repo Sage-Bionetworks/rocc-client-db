@@ -19,7 +19,7 @@ const options = {
   timestamps: true,
 };
 
-const AccountSchema = new Schema<Account>(
+export const AccountSchema = new Schema<Account>(
   {
     _id: { type: Schema.Types.ObjectId, required: true },
     login: { type: String, required: true },

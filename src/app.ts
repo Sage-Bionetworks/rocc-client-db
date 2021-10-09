@@ -56,20 +56,8 @@ export class App {
     if (this.mongoose) {
       await this.mongoose.connection.close();
     }
-    return new Promise((resolve, reject) => {
-      callback();
-      resolve();
-    });
-
-    // if (this.mongoose) {
-    //   console.log('disconnect');
-    //   this.mongoose.connection.close(() => {
-    //     console.log('Mongoose disconnected' + (!!msg ? ` through ${msg}` : ''));
-    //     callback();
-    //   });
-    // } else {
-    //   callback();
-    // }
+    callback();
+    return Promise.resolve();
   }
 
   private async ping(): Promise<void> {
@@ -80,9 +68,11 @@ export class App {
         console.log(pong ? 'pong' : 'No pong received');
         return pong ? 0 : -1;
       })
-      .then((exitStatus) => this.gracefulShutdown('', () => {
-        process.exit(exitStatus);
-      }))
+      .then((exitStatus) =>
+        this.gracefulShutdown('', () => {
+          process.exit(exitStatus);
+        })
+      )
       .catch((err: any) => {
         console.log(err);
         process.exit(-1);

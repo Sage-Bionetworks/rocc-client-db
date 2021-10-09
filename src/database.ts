@@ -75,14 +75,14 @@ const readSeedFile = async (seedFile: string): Promise<any> => {
 const seedUsers = async (seedFile: string): Promise<any> => {
   return readSeedFile(seedFile)
     .then((users) => UserModel.create(users.users))
-    .then(() => console.log('📦 Users seeding completed'))
+    .then(() => console.log('🌱 Users seeding completed'))
     .catch((err: any) => console.error('Unable to seed users', err));
 };
 
 const seedOrganizations = async (seedFile: string): Promise<any> => {
   return readSeedFile(seedFile)
     .then((orgs) => OrganizationModel.create(orgs.organizations))
-    .then(() => console.log('📦 Organizations seeding completed'))
+    .then(() => console.log('🌱 Organizations seeding completed'))
     .catch((err: any) => console.error('Unable to seed organizations', err));
 };
 
@@ -91,7 +91,7 @@ const seedOrgMemberships = async (seedFile: string): Promise<any> => {
     .then((orgMemberships) =>
       OrgMembershipModel.create(orgMemberships.orgMemberships)
     )
-    .then(() => console.log('📦 Org memberships seeding completed'))
+    .then(() => console.log('🌱 Org memberships seeding completed'))
     .catch((err: any) => console.error('Unable to seed org memberships', err));
 };
 

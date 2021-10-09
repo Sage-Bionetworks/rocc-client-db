@@ -1,8 +1,8 @@
 import { model, ObjectId, Schema } from 'mongoose';
 
 export enum AccountType {
-  USER = 'User',
-  ORGANIZATION = 'Organization',
+  User = 'User',
+  Organization = 'Organization',
 }
 
 export interface Account {

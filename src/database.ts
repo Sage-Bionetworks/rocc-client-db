@@ -45,9 +45,9 @@ export const seedDatabase = async (directory: string): Promise<any[]> => {
       if (seedFiles['users']) {
         promises.push(seedUsers(seedFiles['users']));
       }
-      // if (seedFiles['organizations']) {
-      //   promises.push(seedOrganizations(seedFiles['organizations']));
-      // }
+      if (seedFiles['organizations']) {
+        promises.push(seedOrganizations(seedFiles['organizations']));
+      }
       return Promise.all(promises);
     });
 };

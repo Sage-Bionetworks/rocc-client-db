@@ -1,34 +1,31 @@
 import { ObjectId, Schema } from 'mongoose';
-import { AccountModel } from './account';
+import { Account, AccountModel, AccountType } from './account';
 import validator from 'validator';
 
-interface Organization {
-  _id: ObjectId;
-  login: string;
-  name: string;
+interface Organization extends Account {
   email: string;
+  name: string;
+  avatarUrl?: string;
+  websiteUrl?: string;
+  description?: string;
 }
 
-const options = {
-  discriminatorKey: 'type',
-  collection: 'account',
-};
-
-const OrganizationSchema = new Schema<Organization>(
-  {
-    _id: { type: Schema.Types.ObjectId, required: true },
-    login: { type: String, required: true },
-    name: { type: String, required: true },
-    email: {
-      type: String,
-      required: true,
-      validate: [validator.isEmail, 'invalid email'],
-    },
+const OrganizationSchema = new Schema<Organization>({
+  email: {
+    type: String,
+    required: true,
+    validate: [validator.isEmail, 'invalid email'],
   },
-  options
-);
+  name: { type: String, required: true },
+  avatarUrl: { type: String, validate: [validator.isURL, 'invalid avatarUrl'] },
+  websiteUrl: {
+    type: String,
+    validate: [validator.isURL, 'invalid websiteUrl'],
+  },
+  description: { type: String },
+});
 
 export const OrganizationModel = AccountModel.discriminator<Organization>(
-  'Organization',
+  AccountType.Organization,
   OrganizationSchema
 );

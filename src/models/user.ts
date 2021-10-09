@@ -28,6 +28,6 @@ const UserSchema = new Schema<User>({
 });
 
 export const UserModel = AccountModel.discriminator<User>(
-  AccountType.USER,
+  AccountType.User,
   UserSchema
 );

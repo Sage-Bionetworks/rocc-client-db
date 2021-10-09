@@ -1,9 +1,9 @@
-import { connect, connection, disconnect, Mongoose } from 'mongoose';
+import { connect, connection, Mongoose } from 'mongoose';
 import { config } from './config';
 import { glob } from 'glob';
 import * as path from 'path';
 import { promises } from 'fs';
-import { UserModel, OrganizationModel } from './models';
+import { UserModel, OrganizationModel, OrgMembershipModel } from './models';
 
 interface SeedFiles {
   [users: string]: string;
@@ -89,7 +89,7 @@ const seedOrganizations = async (seedFile: string): Promise<any> => {
 const seedOrgMemberships = async (seedFile: string): Promise<any> => {
   return readSeedFile(seedFile)
     .then((orgMemberships) =>
-      OrganizationModel.create(orgMemberships.orgMemberships)
+      OrgMembershipModel.create(orgMemberships.orgMemberships)
     )
     .then(() => console.log('Org memberships seeding completed'))
     .catch((err: any) => console.error('Unable to seed org memberships', err));

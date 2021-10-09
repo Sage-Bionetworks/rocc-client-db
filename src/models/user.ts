@@ -27,7 +27,13 @@ const UserSchema = new Schema<User>({
   },
 });
 
+UserSchema.pre<User>('validate', function (next) {
+  this.type = AccountType.User;
+  next();
+});
+
 export const UserModel = AccountModel.discriminator<User>(
   AccountType.User,
-  UserSchema
+  UserSchema,
+  'Account.User'
 );

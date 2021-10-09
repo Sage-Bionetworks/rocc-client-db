@@ -14,7 +14,7 @@ export interface Account {
 }
 
 const options = {
-  discriminatorKey: 'type',
+  discriminatorKey: '_cls',
   collection: 'account',
   timestamps: true,
 };
@@ -23,7 +23,7 @@ const AccountSchema = new Schema<Account>(
   {
     _id: { type: Schema.Types.ObjectId, required: true },
     login: { type: String, required: true },
-    type: { type: String, enum: AccountType },
+    type: { type: String, enum: AccountType, required: true },
   },
   options
 );

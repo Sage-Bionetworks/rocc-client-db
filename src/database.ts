@@ -23,11 +23,6 @@ export const connectToDatabase = async (): Promise<Mongoose> => {
   return mongooseConnection;
 };
 
-export const disconnectFromDatabase = async (): Promise<void> => {
-  console.log('Disconnecting from db');
-  return disconnect();
-};
-
 export const dropCollections = async (): Promise<boolean> => {
   const db: any = connection.db;
   return db
@@ -56,7 +51,7 @@ export const pingDatabase = async (): Promise<boolean> => {
     .then((res: any) => !!res && res?.ok === 1);
 };
 
-export const seedDatabase = async (directory: string): Promise<any[]> => {
+export const seedDatabase = async (directory: string): Promise<boolean> => {
   return dropCollections()
     .then(() => listSeedFiles(directory))
     .then((seedFiles) => {
@@ -68,7 +63,8 @@ export const seedDatabase = async (directory: string): Promise<any[]> => {
         promises.push(seedOrganizations(seedFiles['organizations']));
       }
       return Promise.all(promises);
-    });
+    })
+    .then(() => true);
 };
 
 const readSeedFile = async (seedFile: string): Promise<any> => {

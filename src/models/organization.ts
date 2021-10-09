@@ -25,7 +25,13 @@ const OrganizationSchema = new Schema<Organization>({
   description: { type: String },
 });
 
+OrganizationSchema.pre<Organization>('validate', function (next) {
+  this.type = AccountType.Organization;
+  next();
+});
+
 export const OrganizationModel = AccountModel.discriminator<Organization>(
   AccountType.Organization,
-  OrganizationSchema
+  OrganizationSchema,
+  'Account.Organization'
 );

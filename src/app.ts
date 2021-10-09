@@ -1,7 +1,6 @@
 import { Command } from 'commander';
 import {
   connectToDatabase,
-  disconnectFromDatabase,
   dropCollections,
   pingDatabase,
   seedDatabase,
@@ -37,14 +36,14 @@ export class App {
       .action(() => this.removeCollections())
       .hook('preAction', () => this.setConfig(this.program.opts()));
 
-    // this.program
-    //   .command('seed')
-    //   .description(
-    //     'empty and seed the db with the JSON files from the directory specified'
-    //   )
-    //   .argument('<directory>')
-    //   .action((directory: string) => this.seed(directory))
-    //   .hook('preAction', () => this.setConfig(this.program.opts()));
+    this.program
+      .command('seed')
+      .description(
+        'empty and seed the db with the JSON files from the directory specified'
+      )
+      .argument('<directory>')
+      .action((directory: string) => this.seed(directory))
+      .hook('preAction', () => this.setConfig(this.program.opts()));
 
     this.program
       .option('--uri <uri>', 'MongoDB uri', 'mongodb://localhost:27017/rocc')
@@ -92,15 +91,20 @@ export class App {
     }
   }
 
-  // private async seed(directory: string): Promise<void> {
-  //   return connectToDatabase()
-  //     .then(() => seedDatabase(directory))
-  //     .then(() => process.exit(0))
-  //     .catch((err: any) => {
-  //       console.log(err);
-  //       process.exit(-1);
-  //     });
-  // }
+  private async seed(directory: string): Promise<void> {
+    try {
+      this.mongoose = await connectToDatabase();
+      const success = await seedDatabase(directory);
+      return this.gracefulShutdown('', () => {
+        process.exit(success ? 0 : -1);
+      });
+    } catch (err) {
+      console.error(err);
+      return this.gracefulShutdown('', () => {
+        process.exit(-1);
+      });
+    }
+  }
 
   private setConfig(options: any): void {
     config.mongo.uri = options.uri;

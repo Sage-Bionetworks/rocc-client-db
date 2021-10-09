@@ -1,35 +1,33 @@
 import { ObjectId, Schema } from 'mongoose';
-import { AccountModel } from './account';
+import { Account, AccountModel, AccountType } from './account';
 import validator from 'validator';
 
-interface User {
-  _id: ObjectId;
-  login: string;
-  name: string;
+export interface User extends Account {
   email: string;
-  bio?: string;
+  name: string;
   avatarUrl?: string;
+  bio?: string;
+  passwordHash: string;
 }
 
-const options = {
-  discriminatorKey: 'type',
-  collection: 'account',
-};
-
-const UserSchema = new Schema<User>(
-  {
-    _id: { type: Schema.Types.ObjectId, required: true },
-    login: { type: String, required: true },
-    name: { type: String, required: true },
-    email: {
-      type: String,
-      required: true,
-      validate: [validator.isEmail, 'invalid email'],
-    },
-    bio: { type: String },
-    avatarUrl: { type: String, validate: [validator.isURL, 'invalid avatarUrl'] },
+const UserSchema = new Schema<User>({
+  email: {
+    type: String,
+    required: true,
+    validate: [validator.isEmail, 'invalid email'],
   },
-  options
-);
+  name: { type: String, required: true },
+  avatarUrl: { type: String, validate: [validator.isURL, 'invalid avatarUrl'] },
+  bio: { type: String },
+  passwordHash: {
+    type: String,
+    required: true,
+    default:
+      'pbkdf2:sha256:150000$L0qjkMps$37a3151f2bfe7d95f2fd990d9d8696c40354afc8e1bc713797ed45a191c33ce0',
+  },
+});
 
-export const UserModel = AccountModel.discriminator<User>('User', UserSchema);
+export const UserModel = AccountModel.discriminator<User>(
+  AccountType.USER,
+  UserSchema
+);

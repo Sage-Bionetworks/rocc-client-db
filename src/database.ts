@@ -3,7 +3,7 @@ import { config } from './config';
 import { glob } from 'glob';
 import * as path from 'path';
 import { promises } from 'fs';
-import { UserModel } from './models';
+import { UserModel, OrganizationModel } from './models';
 
 interface SeedFiles {
   [users: string]: string;
@@ -45,22 +45,32 @@ export const seedDatabase = async (directory: string): Promise<any[]> => {
       if (seedFiles['users']) {
         promises.push(seedUsers(seedFiles['users']));
       }
+      // if (seedFiles['organizations']) {
+      //   promises.push(seedOrganizations(seedFiles['organizations']));
+      // }
       return Promise.all(promises);
     });
 };
 
-const readSeedFile = async (seedFile: string): Promise<string> => {
+const readSeedFile = async (seedFile: string): Promise<any> => {
   return promises
     .readFile(seedFile, 'utf8')
-    .then((data) => JSON.parse(data).users)
+    .then((data) => JSON.parse(data))
     .catch((err: any) => console.error('Unable to read seed file', err));
 };
 
 const seedUsers = async (seedFile: string): Promise<any> => {
   return readSeedFile(seedFile)
-    .then((users) => UserModel.create(users))
+    .then((users) => UserModel.create(users.users))
     .then(() => console.log('Users seeding completed'))
     .catch((err: any) => console.error('Unable to seed users', err));
+};
+
+const seedOrganizations = async (seedFile: string): Promise<any> => {
+  return readSeedFile(seedFile)
+    .then((orgs) => OrganizationModel.create(orgs.organizations))
+    .then(() => console.log('Organizations seeding completed'))
+    .catch((err: any) => console.error('Unable to seed organizations', err));
 };
 
 const listSeedFiles = async (directory: string): Promise<SeedFiles> => {

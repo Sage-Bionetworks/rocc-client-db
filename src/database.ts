@@ -3,6 +3,7 @@ import { config } from './config';
 import { glob } from 'glob';
 import * as path from 'path';
 import { promises } from 'fs';
+import { UserModel } from './models';
 
 interface SeedFiles {
   [users: string]: string;
@@ -39,7 +40,7 @@ export const pingDatabase = async (): Promise<boolean> => {
 export const seedDatabase = async (directory: string): Promise<any[]> => {
   return dropCollections()
     .then(() => listSeedFiles(directory))
-    .then(seedFiles => {
+    .then((seedFiles) => {
       let promises: Promise<any>[] = [];
       if (seedFiles['users']) {
         promises.push(seedUsers(seedFiles['users']));
@@ -48,14 +49,19 @@ export const seedDatabase = async (directory: string): Promise<any[]> => {
     });
 };
 
-const seedUsers = async (seedFile: string): Promise<any> => {
-  return promises.readFile(seedFile, 'utf8')
-    .then(data => JSON.parse(data))
-    .then(users => console.log(users));
+const readSeedFile = async (seedFile: string): Promise<string> => {
+  return promises
+    .readFile(seedFile, 'utf8')
+    .then((data) => JSON.parse(data).users)
+    .catch((err: any) => console.error('Unable to read seed file', err));
+};
 
-  // const dataObject = JSON.parse(fs.readFileSync(seddFile));
-  // return Promise.resolve(undefined);
-}
+const seedUsers = async (seedFile: string): Promise<any> => {
+  return readSeedFile(seedFile)
+    .then((users) => UserModel.create(users))
+    .then(() => console.log('Users seeding completed'))
+    .catch((err: any) => console.error('Unable to seed users', err));
+};
 
 const listSeedFiles = async (directory: string): Promise<SeedFiles> => {
   return new Promise((resolve, reject) => {
@@ -66,7 +72,7 @@ const listSeedFiles = async (directory: string): Promise<SeedFiles> => {
         // TODO consider throwing an error if an unknown json file is found
         // in the directory specified
         let seedFiles: SeedFiles = {};
-        files.forEach(file => {
+        files.forEach((file) => {
           let key = path.basename(file, '.json');
           seedFiles[key] = file;
         });

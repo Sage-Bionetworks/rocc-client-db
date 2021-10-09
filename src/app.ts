@@ -10,6 +10,7 @@ import { config } from './config';
 import * as Pkg from '../package.json';
 import { Mongoose } from 'mongoose';
 import { timeStamp } from 'console';
+import { createHistogram } from 'perf_hooks';
 
 export class App {
   private program: Command;
@@ -61,32 +62,35 @@ export class App {
   }
 
   private async ping(): Promise<void> {
-    return connectToDatabase()
-      .then((mongoose) => (this.mongoose = mongoose))
-      .then(pingDatabase)
-      .then((pong) => {
-        console.log(pong ? 'pong' : 'No pong received');
-        return pong ? 0 : -1;
-      })
-      .then((exitStatus) =>
-        this.gracefulShutdown('', () => {
-          process.exit(exitStatus);
-        })
-      )
-      .catch((err: any) => {
-        console.log(err);
+
+    try {
+      this.mongoose = await connectToDatabase();
+      const pong = await pingDatabase();
+      console.log(pong ? 'pong' : 'No pong received');
+      return this.gracefulShutdown('', () => {
+        process.exit(pong ? 0 : -1);
+      });
+    } catch (err) {
+      console.error(err);
+      return this.gracefulShutdown('', () => {
         process.exit(-1);
       });
+    }
   }
 
   private async removeCollections(): Promise<void> {
-    return connectToDatabase()
-      .then(() => dropCollections())
-      .then(() => process.exit(0))
-      .catch((err: any) => {
-        console.log(err);
+    try {
+      this.mongoose = await connectToDatabase();
+      const success = await dropCollections();
+      return this.gracefulShutdown('', () => {
+        process.exit(success ? 0 : -1);
+      });
+    } catch (err) {
+      console.error(err);
+      return this.gracefulShutdown('', () => {
         process.exit(-1);
       });
+    }
   }
 
   // private async seed(directory: string): Promise<void> {

@@ -1,7 +1,7 @@
 import { Command } from 'commander';
 import {
   connectToDatabase,
-  dropCollections,
+  removeCollections,
   pingDatabase,
   seedDatabase,
 } from './database';
@@ -79,7 +79,7 @@ export class App {
   private async removeCollections(): Promise<void> {
     try {
       this.mongoose = await connectToDatabase();
-      const success = await dropCollections();
+      const success = await removeCollections();
       return this.gracefulShutdown('', () => {
         process.exit(success ? 0 : -1);
       });

@@ -23,35 +23,26 @@ export const connectToDatabase = async (): Promise<Mongoose> => {
   return mongooseConnection;
 };
 
-export const dropCollections = async (): Promise<boolean> => {
+export const removeCollections = async (): Promise<boolean> => {
   const db: any = connection.db;
-  return db
-    .listCollections()
-    .toArray()
-    .then((collections: any[]) => {
-      console.log('collections listed');
-      return collections.map((collection) => {
-        console.log(`Removing collection ${collection.name}`);
-        return db.dropCollection(collection.name);
-      });
-    })
-    .then((promises: Promise<boolean>[]) => Promise.all(promises))
-    .then(() => {
-      console.log('here');
-      return true;
-    });
+  const collections = await db.listCollections().toArray();
+  const promises: Promise<any>[] = collections.map((collection: any) => {
+    return db
+      .dropCollection(collection.name)
+      .then(() => console.log(`Collection ${collection.name} removed`))
+      .catch((err: any) => console.error('Unable to remove collection', err));
+  });
+  await Promise.all(promises);
+  return true;
 };
 
 export const pingDatabase = async (): Promise<boolean> => {
-  const db: any = connection.db;
-  return db
-    .admin()
-    .ping()
-    .then((res: any) => !!res && res?.ok === 1);
+  const res = await connection.db.admin().ping();
+  return !!res && res?.ok === 1;
 };
 
 export const seedDatabase = async (directory: string): Promise<boolean> => {
-  await dropCollections();
+  await removeCollections();
   const seedFiles = await listSeedFiles(directory);
   if (seedFiles['users']) {
     await seedUsers(seedFiles['users']);

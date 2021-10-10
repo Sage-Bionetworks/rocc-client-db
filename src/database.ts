@@ -1,4 +1,4 @@
-import { connect, connection, Mongoose } from 'mongoose';
+import { connect, connection, Model, Mongoose } from 'mongoose';
 import { config } from './config';
 import { glob } from 'glob';
 import * as path from 'path';
@@ -46,16 +46,28 @@ export const seedDatabase = async (directory: string): Promise<boolean> => {
   await removeCollections();
   const seedFiles = await listSeedFiles(directory);
   if (seedFiles['users']) {
-    await seedUsers(seedFiles['users']);
+    await seedCollection(seedFiles['users'], 'users', UserModel);
   }
   if (seedFiles['organizations']) {
-    await seedOrganizations(seedFiles['organizations']);
+    await seedCollection(
+      seedFiles['organizations'],
+      'organizations',
+      OrganizationModel
+    );
   }
   if (seedFiles['org-memberships']) {
-    await seedOrgMemberships(seedFiles['org-memberships']);
+    await seedCollection(
+      seedFiles['org-memberships'],
+      'orgMemberships',
+      OrgMembershipModel
+    );
   }
   if (seedFiles['challenge-platforms']) {
-    await seedChallengePlatforms(seedFiles['challenge-platforms']);
+    await seedCollection(
+      seedFiles['challenge-platforms'],
+      'challengePlatforms',
+      ChallengePlatformModel
+    );
   }
   return Promise.resolve(true);
 };
@@ -67,36 +79,15 @@ const readSeedFile = async (seedFile: string): Promise<any> => {
     .catch((err: any) => console.error('Unable to read seed file', err));
 };
 
-const seedUsers = async (seedFile: string): Promise<any> => {
+const seedCollection = async <T>(
+  seedFile: string,
+  name: string,
+  model: Model<T>
+): Promise<any> => {
   return readSeedFile(seedFile)
-    .then((users) => UserModel.create(users.users))
-    .then(() => console.log('🌱 Users seeding completed'))
-    .catch((err: any) => console.error('Unable to seed users', err));
-};
-
-const seedOrganizations = async (seedFile: string): Promise<any> => {
-  return readSeedFile(seedFile)
-    .then((orgs) => OrganizationModel.create(orgs.organizations))
-    .then(() => console.log('🌱 Organizations seeding completed'))
-    .catch((err: any) => console.error('Unable to seed organizations', err));
-};
-
-const seedOrgMemberships = async (seedFile: string): Promise<any> => {
-  return readSeedFile(seedFile)
-    .then((orgMemberships) =>
-      OrgMembershipModel.create(orgMemberships.orgMemberships)
-    )
-    .then(() => console.log('🌱 Org memberships seeding completed'))
-    .catch((err: any) => console.error('Unable to seed org memberships', err));
-};
-
-const seedChallengePlatforms = async (seedFile: string): Promise<any> => {
-  return readSeedFile(seedFile)
-    .then((challengePlatforms) =>
-      ChallengePlatformModel.create(challengePlatforms['challengePlatforms'])
-    )
-    .then(() => console.log('🌱 Challenge platforms seeding completed'))
-    .catch((err: any) => console.error('Unable to seed challenge platforms', err));
+    .then((data) => model.create(data[name]))
+    .then(() => console.log(`🌱 ${name} seeding completed`))
+    .catch((err: any) => console.error(`Unable to seed ${name}`, err));
 };
 
 const listSeedFiles = async (directory: string): Promise<SeedFiles> => {

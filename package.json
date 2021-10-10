@@ -1,5 +1,5 @@
 {
-  "name": "@sage-bionetworks/rocc-client-db",
+  "name": "@sage-bionetworks/rocc-db-client",
   "version": "0.1.0",
   "description": "Client for managing a ROCC DB instance.",
   "main": "dist/src/index.js",
@@ -38,7 +38,7 @@
     "typescript": "^4.4.3"
   },
   "bin": {
-    "rocc-client-db": "./dist/src/index.js"
+    "rocc-db-client": "./dist/src/index.js"
   },
   "pkg": {
     "scripts": "dist/**/*.js",

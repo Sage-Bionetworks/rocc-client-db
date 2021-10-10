@@ -8,8 +8,7 @@ import {
 import { config } from './config';
 import * as Pkg from '../package.json';
 import { Mongoose } from 'mongoose';
-import { timeStamp } from 'console';
-import { createHistogram } from 'perf_hooks';
+import { logger } from './logger';
 
 export class App {
   private program: Command;
@@ -17,6 +16,7 @@ export class App {
 
   constructor() {
     this.program = new Command();
+    logger.info('Plop');
 
     this.program
       .name('rocc-client')

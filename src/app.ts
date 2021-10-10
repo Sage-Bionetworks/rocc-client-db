@@ -38,7 +38,7 @@ export class App {
     this.program
       .command('seed')
       .description(
-        'empty and seed the db with the JSON files from the directory specified'
+        'empty and seed the db with the JSON files from the directory specified',
       )
       .argument('<directory>')
       .action((directory: string) => this.seed(directory))

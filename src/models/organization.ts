@@ -33,5 +33,5 @@ OrganizationSchema.pre<Organization>('validate', function (next) {
 export const OrganizationModel = AccountModel.discriminator<Organization>(
   AccountType.Organization,
   OrganizationSchema,
-  'Account.Organization'
+  'Account.Organization',
 );

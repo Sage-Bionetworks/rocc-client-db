@@ -76,7 +76,7 @@ const readSeedFile = async (seedFile: string): Promise<any> => {
 const seedCollection = async <T>(
   seedFile: string,
   name: string,
-  model: Model<T>
+  model: Model<T>,
 ): Promise<any> => {
   return readSeedFile(seedFile)
     .then((data) => model.create(data[name]))

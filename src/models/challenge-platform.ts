@@ -30,10 +30,10 @@ export const ChallengePlatformSchema = new Schema<ChallengePlatform>(
       validate: [validator.isURL, 'invalid avatarUrl'],
     },
   },
-  options
+  options,
 );
 
 export const ChallengePlatformModel = model(
   'ChallengePlatform',
-  ChallengePlatformSchema
+  ChallengePlatformSchema,
 );

@@ -57,7 +57,7 @@ export const ChallengeSchema = new Schema<Challenge>(
     topics: { type: [String], default: [] },
     doi: { type: String },
   },
-  options
+  options,
 );
 
 export const ChallengeModel = model('Challenge', ChallengeSchema);

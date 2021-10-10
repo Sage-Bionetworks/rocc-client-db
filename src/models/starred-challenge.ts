@@ -14,10 +14,10 @@ const StarredChallengeSchema = new Schema<StarredChallenge>(
     userId: { type: String, required: true },
     challengeId: { type: String, required: true },
   },
-  options
+  options,
 );
 
 export const StarredChallengeModel = model(
   'StarredChallenge',
-  StarredChallengeSchema
+  StarredChallengeSchema,
 );

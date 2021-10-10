@@ -35,7 +35,7 @@ export const OrgMembershipSchema = new Schema<OrgMembership>(
     },
     userId: { type: Schema.Types.ObjectId, ref: 'User', required: true },
   },
-  options
+  options,
 );
 
 export const OrgMembershipModel = model('OrgMembership', OrgMembershipSchema);

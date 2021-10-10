@@ -25,7 +25,7 @@ export const AccountSchema = new Schema<Account>(
     login: { type: String, required: true },
     type: { type: String, enum: AccountType, required: true },
   },
-  options
+  options,
 );
 
 export const AccountModel = model('Account', AccountSchema);

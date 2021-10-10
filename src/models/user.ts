@@ -35,5 +35,5 @@ UserSchema.pre<User>('validate', function (next) {
 export const UserModel = AccountModel.discriminator<User>(
   AccountType.User,
   UserSchema,
-  'Account.User'
+  'Account.User',
 );

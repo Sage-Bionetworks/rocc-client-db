@@ -6,6 +6,7 @@ import { promises } from 'fs';
 import {
   ChallengeModel,
   ChallengePlatformModel,
+  ChallengeReadmeModel,
   OrganizationModel,
   OrgMembershipModel,
   UserModel,
@@ -50,34 +51,18 @@ export const pingDatabase = async (): Promise<boolean> => {
 export const seedDatabase = async (directory: string): Promise<boolean> => {
   await removeCollections();
   const seedFiles = await listSeedFiles(directory);
-  if (seedFiles['users']) {
-    await seedCollection(seedFiles['users'], 'users', UserModel);
+  let seeds = [
+    { name: 'users', model: UserModel },
+    { name: 'organizations', model: OrganizationModel },
+    { name: 'orgMemberships', model: OrgMembershipModel },
+    { name: 'challengePlatforms', model: ChallengePlatformModel },
+    { name: 'challenges', model: ChallengeModel },
+    { name: 'challengeReadmes', model: ChallengeReadmeModel },
+  ] as any[];
+  for (const seed of seeds) {
+    await seedCollection(seedFiles[seed.name], seed.name, seed.model);
   }
-  if (seedFiles['organizations']) {
-    await seedCollection(
-      seedFiles['organizations'],
-      'organizations',
-      OrganizationModel
-    );
-  }
-  if (seedFiles['org-memberships']) {
-    await seedCollection(
-      seedFiles['org-memberships'],
-      'orgMemberships',
-      OrgMembershipModel
-    );
-  }
-  if (seedFiles['challenge-platforms']) {
-    await seedCollection(
-      seedFiles['challenge-platforms'],
-      'challengePlatforms',
-      ChallengePlatformModel
-    );
-  }
-  if (seedFiles['challenges']) {
-    await seedCollection(seedFiles['challenges'], 'challenges', ChallengeModel);
-  }
-  return Promise.resolve(true);
+  return true;
 };
 
 const readSeedFile = async (seedFile: string): Promise<any> => {

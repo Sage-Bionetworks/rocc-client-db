@@ -1,37 +1,104 @@
-import { connection } from 'mongoose';
+import { connect, connection, Model, Mongoose } from 'mongoose';
+import { config } from './config';
+import { glob } from 'glob';
+import * as path from 'path';
+import { promises } from 'fs';
+import {
+  ChallengeModel,
+  ChallengePlatformModel,
+  ChallengeReadmeModel,
+  OrganizationModel,
+  OrgMembershipModel,
+  UserModel,
+} from './models';
 
-export const dropCollections = async (): Promise<boolean[]> => {
+interface SeedFiles {
+  [key: string]: string;
+}
+
+export const connectToDatabase = async (): Promise<Mongoose> => {
+  const mongooseConnection = connect(config.mongo.uri, config.mongo.options);
+  connection.on('connected', function () {
+    console.log(`Mongoose connected to ${config.mongo.uri}`);
+  });
+  connection.on('error', (err: any) => {
+    console.error(`Mongoose connection error: ${err}`);
+  });
+  connection.on('disconnected', function () {
+    console.log('Mongoose disconnected');
+  });
+  return mongooseConnection;
+};
+
+export const removeCollections = async (): Promise<boolean> => {
   const db: any = connection.db;
-  return db
-    .listCollections()
-    .toArray()
-    .then((collections: any[]) =>
-      collections.map((collection) => db.dropCollection(collection.name))
-    )
-    .then((promises: Promise<boolean>[]) => Promise.all(promises));
+  const collections = await db.listCollections().toArray();
+  const promises: Promise<any>[] = collections.map((collection: any) => {
+    return db
+      .dropCollection(collection.name)
+      .then(() => console.log(`Collection ${collection.name} removed`))
+      .catch((err: any) => console.error('Unable to remove collection', err));
+  });
+  await Promise.all(promises);
+  return true;
 };
 
 export const pingDatabase = async (): Promise<boolean> => {
-  const db: any = connection.db;
-  return db.admin().ping()
-    .then((res: any) => !!res && res?.ok === 1);
+  const res = await connection.db.admin().ping();
+  return !!res && res?.ok === 1;
+};
 
-}
+export const seedDatabase = async (directory: string): Promise<boolean> => {
+  await removeCollections();
+  const seedFiles = await listSeedFiles(directory);
+  let seeds = [
+    { name: 'users', model: UserModel },
+    { name: 'organizations', model: OrganizationModel },
+    { name: 'orgMemberships', model: OrgMembershipModel },
+    { name: 'challengePlatforms', model: ChallengePlatformModel },
+    { name: 'challenges', model: ChallengeModel },
+    { name: 'challengeReadmes', model: ChallengeReadmeModel },
+  ] as any[];
+  for (const seed of seeds) {
+    await seedCollection(seedFiles[seed.name], seed.name, seed.model);
+  }
+  return true;
+};
 
-// const seedDatabase = async (): Promise<any> => {
-//   console.log(`Initializing db with seed: ${config.dbSeedName}`);
+const readSeedFile = async (seedFile: string): Promise<any> => {
+  return promises
+    .readFile(seedFile, 'utf8')
+    .then((data) => JSON.parse(data))
+    .catch((err: any) => console.error('Unable to read seed file', err));
+};
 
-//   let promises = [];
-//   let promise;
+const seedCollection = async <T>(
+  seedFile: string,
+  name: string,
+  model: Model<T>
+): Promise<any> => {
+  return readSeedFile(seedFile)
+    .then((data) => model.create(data[name]))
+    .then(() => console.log(`🌱 Seeding ${name} completed`))
+    .catch((err: any) => console.error(`Unable to seed ${name}`, err));
+};
 
-//   promise = UserModel.create({})  // seeds.users
-//     .then(() => console.log('Finished populating users'))
-//     .catch(err => console.log('Error populating users', err));
-//   promises.push(promise);
-
-//   // .then(() => (seeds.apps ? App.create(seeds.apps).then(() => console.log('finished populating apps')) : null))
-//   // .catch(err => console.log('error populating apps', err));
-//   // promises.push(promise);
-
-//   return Promise.all(promises);
-// }
+const listSeedFiles = async (directory: string): Promise<SeedFiles> => {
+  return new Promise((resolve, reject) => {
+    glob(directory + '/*.json', { ignore: 'nodir' }, function (err, files) {
+      if (err) {
+        reject(err);
+      } else {
+        // TODO consider throwing an error if an unexpected json file is found
+        // in the directory specified, e.g. when a key is not in the interface
+        // SeedFiles
+        let seedFiles: SeedFiles = {};
+        files.forEach((file) => {
+          let key = path.basename(file, '.json');
+          seedFiles[key] = file;
+        });
+        resolve(seedFiles);
+      }
+    });
+  });
+};

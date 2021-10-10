@@ -1,14 +1,31 @@
-import { Schema, model } from 'mongoose';
+import { model, ObjectId, Schema } from 'mongoose';
 
-interface Account {
-  login: string;
+export enum AccountType {
+  User = 'User',
+  Organization = 'Organization',
 }
 
-const AccountSchema = new Schema<Account>(
+export interface Account {
+  _id: ObjectId;
+  login: string;
+  type: AccountType;
+  createdAt: Date;
+  updatedAt: Date;
+}
+
+const options = {
+  discriminatorKey: '_cls',
+  collection: 'account',
+  timestamps: true,
+};
+
+export const AccountSchema = new Schema<Account>(
   {
-    login: { type: String, required: true }
+    _id: { type: Schema.Types.ObjectId, required: true },
+    login: { type: String, required: true },
+    type: { type: String, enum: AccountType, required: true },
   },
-  { collection: 'account' }
+  options
 );
 
 export const AccountModel = model('Account', AccountSchema);

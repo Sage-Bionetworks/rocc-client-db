@@ -1,11 +1,19 @@
-import { connect, connection, Mongoose } from 'mongoose';
 import { Command } from 'commander';
-import { dropCollections, pingDatabase } from './database';
+import {
+  connectToDatabase,
+  removeCollections,
+  pingDatabase,
+  seedDatabase,
+} from './database';
 import { config } from './config';
 import * as Pkg from '../package.json';
+import { Mongoose } from 'mongoose';
+import { timeStamp } from 'console';
+import { createHistogram } from 'perf_hooks';
 
 export class App {
-  private program: any;
+  private program: Command;
+  private mongoose!: Mongoose;
 
   constructor() {
     this.program = new Command();
@@ -19,15 +27,23 @@ export class App {
     this.program
       .command('ping')
       .description('ping the MongoDB instance')
-      .action(() => this.ping());
+      .action(() => this.ping())
+      .hook('preAction', () => this.setConfig(this.program.opts()));
+
+    this.program
+      .command('remove-collections')
+      .description('remove all collections')
+      .action(() => this.removeCollections())
+      .hook('preAction', () => this.setConfig(this.program.opts()));
 
     this.program
       .command('seed')
       .description(
-        'seed the db with the JSON files from the directory specified'
+        'empty and seed the db with the JSON files from the directory specified'
       )
       .argument('<directory>')
-      .action((directory: string) => this.seed(directory));
+      .action((directory: string) => this.seed(directory))
+      .hook('preAction', () => this.setConfig(this.program.opts()));
 
     this.program
       .option('--uri <uri>', 'MongoDB uri', 'mongodb://localhost:27017/rocc')
@@ -35,43 +51,65 @@ export class App {
       .option('--password <password>', 'MongoDB password', 'roccmongo');
   }
 
-  private async seed(directory: string): Promise<void> {
-    return this.connect()
-      .then(dropCollections)
-      .then((success) => {
-        process.exit(success ? 0 : -1);
-      })
-      .catch((err: any) => {
-        console.log(err);
-        process.exit(-1);
-      });
+  public async gracefulShutdown(msg: string, callback: any): Promise<void> {
+    console.log('gracefulShutdown');
+    if (this.mongoose) {
+      await this.mongoose.connection.close();
+    }
+    callback();
+    return Promise.resolve();
   }
 
   private async ping(): Promise<void> {
-    return this.connect()
-      .then(pingDatabase)
-      .then((pong) => {
-        console.log(pong ? 'pong' : 'No pong received');
+    try {
+      this.mongoose = await connectToDatabase();
+      const pong = await pingDatabase();
+      console.log(pong ? 'pong' : 'No pong received');
+      return this.gracefulShutdown('', () => {
         process.exit(pong ? 0 : -1);
-      })
-      .catch((err: any) => {
-        console.log(err);
+      });
+    } catch (err) {
+      console.error(err);
+      return this.gracefulShutdown('', () => {
         process.exit(-1);
       });
+    }
   }
 
-  private async connect(): Promise<Mongoose> {
-    const options = this.program.opts();
-    const connectOptions = {
-      user: options.username,
-      pass: options.password,
-    };
-    const mongooseConnection = connect(options.uri, connectOptions);
-    connection.on('error', (err: any) => {
-      console.error(`MongoDB connection error: ${err}`);
-      process.exit(-1);
-    });
-    return mongooseConnection;
+  private async removeCollections(): Promise<void> {
+    try {
+      this.mongoose = await connectToDatabase();
+      const success = await removeCollections();
+      return this.gracefulShutdown('', () => {
+        process.exit(success ? 0 : -1);
+      });
+    } catch (err) {
+      console.error(err);
+      return this.gracefulShutdown('', () => {
+        process.exit(-1);
+      });
+    }
+  }
+
+  private async seed(directory: string): Promise<void> {
+    try {
+      this.mongoose = await connectToDatabase();
+      const success = await seedDatabase(directory);
+      return this.gracefulShutdown('', () => {
+        process.exit(success ? 0 : -1);
+      });
+    } catch (err) {
+      console.error(err);
+      return this.gracefulShutdown('', () => {
+        process.exit(-1);
+      });
+    }
+  }
+
+  private setConfig(options: any): void {
+    config.mongo.uri = options.uri;
+    config.mongo.options.user = options.username;
+    config.mongo.options.pass = options.password;
   }
 
   public async run(): Promise<void> {

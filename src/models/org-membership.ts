@@ -1,6 +1,4 @@
 import { model, ObjectId, Schema } from 'mongoose';
-import { OrganizationSchema } from './organization';
-import { UserSchema } from './user';
 
 export enum OrgMembershipState {
   Active = 'active',
@@ -22,6 +20,7 @@ export interface OrgMembership {
 
 const options = {
   collection: 'org_membership',
+  timestamps: true,
 };
 
 export const OrgMembershipSchema = new Schema<OrgMembership>(

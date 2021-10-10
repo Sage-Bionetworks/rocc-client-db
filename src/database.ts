@@ -4,6 +4,7 @@ import { glob } from 'glob';
 import * as path from 'path';
 import { promises } from 'fs';
 import { UserModel, OrganizationModel, OrgMembershipModel } from './models';
+import { ChallengePlatformModel } from './models/challenge-platform';
 
 interface SeedFiles {
   [key: string]: string;
@@ -53,6 +54,9 @@ export const seedDatabase = async (directory: string): Promise<boolean> => {
   if (seedFiles['org-memberships']) {
     await seedOrgMemberships(seedFiles['org-memberships']);
   }
+  if (seedFiles['challenge-platforms']) {
+    await seedChallengePlatforms(seedFiles['challenge-platforms']);
+  }
   return Promise.resolve(true);
 };
 
@@ -84,6 +88,15 @@ const seedOrgMemberships = async (seedFile: string): Promise<any> => {
     )
     .then(() => console.log('🌱 Org memberships seeding completed'))
     .catch((err: any) => console.error('Unable to seed org memberships', err));
+};
+
+const seedChallengePlatforms = async (seedFile: string): Promise<any> => {
+  return readSeedFile(seedFile)
+    .then((challengePlatforms) =>
+      ChallengePlatformModel.create(challengePlatforms['challengePlatforms'])
+    )
+    .then(() => console.log('🌱 Challenge platforms seeding completed'))
+    .catch((err: any) => console.error('Unable to seed challenge platforms', err));
 };
 
 const listSeedFiles = async (directory: string): Promise<SeedFiles> => {

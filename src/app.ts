@@ -52,7 +52,7 @@ export class App {
   }
 
   public async gracefulShutdown(msg: string, callback: any): Promise<void> {
-    console.log('gracefulShutdown');
+    logger.debug('Gracefully shutdown');
     if (this.mongoose) {
       await this.mongoose.connection.close();
     }
@@ -69,7 +69,7 @@ export class App {
         process.exit(pong ? 0 : -1);
       });
     } catch (err) {
-      console.error(err);
+      logger.error('Unable to ping the database', err);
       return this.gracefulShutdown('', () => {
         process.exit(-1);
       });
@@ -84,7 +84,7 @@ export class App {
         process.exit(success ? 0 : -1);
       });
     } catch (err) {
-      console.error(err);
+      logger.error('Unable to remove the collections', err);
       return this.gracefulShutdown('', () => {
         process.exit(-1);
       });
@@ -99,7 +99,7 @@ export class App {
         process.exit(success ? 0 : -1);
       });
     } catch (err) {
-      console.error(err);
+      logger.error('Unable to seed the database', err);
       return this.gracefulShutdown('', () => {
         process.exit(-1);
       });

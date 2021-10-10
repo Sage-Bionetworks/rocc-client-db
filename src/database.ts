@@ -38,7 +38,7 @@ export const removeCollections = async (): Promise<boolean> => {
     return db
       .dropCollection(collection.name)
       .then(() => logger.info(`Collection ${collection.name} removed`))
-      .catch((err: any) => logger.error('Unable to remove collection', err));  // TODO: find a way to show object win winston
+      .catch((err: any) => logger.error('Unable to remove collection', err)); // TODO: find a way to show object win winston
   });
   await Promise.all(promises);
   return true;
@@ -70,7 +70,7 @@ const readSeedFile = async (seedFile: string): Promise<any> => {
   return promises
     .readFile(seedFile, 'utf8')
     .then((data) => JSON.parse(data))
-    .catch((err: any) => console.error('Unable to read seed file', err));
+    .catch((err: any) => logger.error('Unable to read seed file', err));
 };
 
 const seedCollection = async <T>(
@@ -80,8 +80,8 @@ const seedCollection = async <T>(
 ): Promise<any> => {
   return readSeedFile(seedFile)
     .then((data) => model.create(data[name]))
-    .then(() => console.log(`🌱 Seeding ${name} completed`))
-    .catch((err: any) => console.error(`Unable to seed ${name}`, err));
+    .then(() => logger.info(`🌱 Seeding ${name} completed`))
+    .catch((err: any) => logger.error(`Unable to seed ${name}`, err));
 };
 
 const listSeedFiles = async (directory: string): Promise<SeedFiles> => {

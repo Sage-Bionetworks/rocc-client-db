@@ -61,6 +61,10 @@ class Logger {
     winston.addColors(colors);
   }
 
+  public setLevel(level: Level): void {
+    this.logger.level = level;
+  }
+
   public debug(message: string, callback?: any) {
     this.logger.debug(message, callback);
   }

@@ -8,7 +8,7 @@ import {
 import { config } from './config';
 import * as Pkg from '../package.json';
 import { Mongoose } from 'mongoose';
-import { logger } from './logger';
+import { logger, Level } from './logger';
 
 export class App {
   private program: Command;
@@ -45,6 +45,7 @@ export class App {
       .hook('preAction', () => this.setConfig(this.program.opts()));
 
     this.program
+      .option('-d, --debug', 'output extra debugging')
       .option('--uri <uri>', 'MongoDB uri', 'mongodb://localhost:27017/rocc')
       .option('--username <username>', 'MongoDB username', 'roccmongo')
       .option('--password <password>', 'MongoDB password', 'roccmongo');
@@ -109,6 +110,9 @@ export class App {
     config.mongo.uri = options.uri;
     config.mongo.options.user = options.username;
     config.mongo.options.pass = options.password;
+    if (options.debug) {
+      logger.setLevel(Level.Debug);
+    }
   }
 
   public async run(): Promise<void> {

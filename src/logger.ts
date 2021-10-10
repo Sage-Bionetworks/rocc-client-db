@@ -1,5 +1,5 @@
-import winston from 'winston';
 import util from 'util';
+import winston from 'winston';
 
 export enum Level {
   Debug = 'debug',
@@ -17,19 +17,13 @@ const colors = {
   error: 'red',
 };
 
-const transports = [
-  new winston.transports.Console(),
-  // new winston.transports.File({
-  //   filename: 'logs/error.log',
-  //   level: Level.Error,
-  // }),
-  // new winston.transports.File({ filename: 'logs/all.log' }),
-];
+const transports = [new winston.transports.Console()];
 
 const combineMessageAndSplat = () => {
   return {
     transform: (info: any) => {
       // combine message and args if any
+      // https://github.com/winstonjs/winston/issues/1427#issuecomment-811184784
       info.message = util.format(
         info.message,
         ...(info[Symbol.for('splat')] || [])

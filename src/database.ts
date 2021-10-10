@@ -11,6 +11,7 @@ import {
   OrgMembershipModel,
   UserModel,
 } from './models';
+import { logger } from './logger';
 
 interface SeedFiles {
   [key: string]: string;
@@ -19,13 +20,13 @@ interface SeedFiles {
 export const connectToDatabase = async (): Promise<Mongoose> => {
   const mongooseConnection = connect(config.mongo.uri, config.mongo.options);
   connection.on('connected', function () {
-    console.log(`Mongoose connected to ${config.mongo.uri}`);
+    logger.verbose(`Mongoose connected to ${config.mongo.uri}`);
   });
   connection.on('error', (err: any) => {
-    console.error(`Mongoose connection error: ${err}`);
+    logger.error(`Mongoose connection error: ${err}`);
   });
   connection.on('disconnected', function () {
-    console.log('Mongoose disconnected');
+    logger.verbose('Mongoose disconnected');
   });
   return mongooseConnection;
 };
@@ -36,8 +37,8 @@ export const removeCollections = async (): Promise<boolean> => {
   const promises: Promise<any>[] = collections.map((collection: any) => {
     return db
       .dropCollection(collection.name)
-      .then(() => console.log(`Collection ${collection.name} removed`))
-      .catch((err: any) => console.error('Unable to remove collection', err));
+      .then(() => logger.info(`Collection ${collection.name} removed`))
+      .catch((err: any) => logger.error('Unable to remove collection', err));  // TODO: find a way to show object win winston
   });
   await Promise.all(promises);
   return true;

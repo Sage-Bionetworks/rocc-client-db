@@ -16,7 +16,6 @@ export class App {
 
   constructor() {
     this.program = new Command();
-    logger.info('Plop');
 
     this.program
       .name('rocc-client')
@@ -64,7 +63,7 @@ export class App {
     try {
       this.mongoose = await connectToDatabase();
       const pong = await pingDatabase();
-      console.log(pong ? 'pong' : 'No pong received');
+      logger.info(pong ? 'pong' : 'No pong received');
       return this.gracefulShutdown('', () => {
         process.exit(pong ? 0 : -1);
       });

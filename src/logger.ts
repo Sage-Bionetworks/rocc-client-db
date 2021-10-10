@@ -61,8 +61,24 @@ class Logger {
     winston.addColors(colors);
   }
 
+  public debug(message: string, callback?: any) {
+    this.logger.debug(message, callback);
+  }
+
+  public verbose(message: string, callback?: any) {
+    this.logger.verbose(message, callback);
+  }
+
   public info(message: string, callback?: any) {
     this.logger.info(message, callback);
+  }
+
+  public warn(message: string, callback?: any) {
+    this.logger.warn(message, callback);
+  }
+
+  public error(message: string, callback?: any) {
+    this.logger.error(message, callback);
   }
 }
 

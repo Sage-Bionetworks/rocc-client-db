@@ -13,6 +13,7 @@ export interface ChallengePlatform {
 
 const options = {
   collection: 'challenge_platform',
+  timestamps: true,
 };
 
 export const ChallengePlatformSchema = new Schema<ChallengePlatform>(

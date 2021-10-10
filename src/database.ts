@@ -3,8 +3,13 @@ import { config } from './config';
 import { glob } from 'glob';
 import * as path from 'path';
 import { promises } from 'fs';
-import { UserModel, OrganizationModel, OrgMembershipModel } from './models';
-import { ChallengePlatformModel } from './models/challenge-platform';
+import {
+  ChallengeModel,
+  ChallengePlatformModel,
+  OrganizationModel,
+  OrgMembershipModel,
+  UserModel,
+} from './models';
 
 interface SeedFiles {
   [key: string]: string;
@@ -69,6 +74,9 @@ export const seedDatabase = async (directory: string): Promise<boolean> => {
       ChallengePlatformModel
     );
   }
+  if (seedFiles['challenges']) {
+    await seedCollection(seedFiles['challenges'], 'challenges', ChallengeModel);
+  }
   return Promise.resolve(true);
 };
 
@@ -86,7 +94,7 @@ const seedCollection = async <T>(
 ): Promise<any> => {
   return readSeedFile(seedFile)
     .then((data) => model.create(data[name]))
-    .then(() => console.log(`🌱 ${name} seeding completed`))
+    .then(() => console.log(`🌱 Seeding ${name} completed`))
     .catch((err: any) => console.error(`Unable to seed ${name}`, err));
 };
 

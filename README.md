@@ -1,8 +1,8 @@
 # ROCC DB Client
 
-[![GitHub Release](https://img.shields.io/github/release/Sage-Bionetworks/rocc-client-db.svg?include_prereleases&color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/Sage-Bionetworks/rocc-client-db/releases)
-[![GitHub CI](https://img.shields.io/github/workflow/status/Sage-Bionetworks/rocc-client-db/CI.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/Sage-Bionetworks/rocc-client-db)
-[![GitHub License](https://img.shields.io/github/license/Sage-Bionetworks/rocc-client-db.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/Sage-Bionetworks/rocc-client-db)
+[![GitHub Release](https://img.shields.io/github/release/Sage-Bionetworks/rocc-db-client.svg?include_prereleases&color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/Sage-Bionetworks/rocc-db-client/releases)
+[![GitHub CI](https://img.shields.io/github/workflow/status/Sage-Bionetworks/rocc-db-client/CI.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/Sage-Bionetworks/rocc-db-client)
+[![GitHub License](https://img.shields.io/github/license/Sage-Bionetworks/rocc-db-client.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/Sage-Bionetworks/rocc-db-client)
 
 Command-line interface (CLI) for managing a ROCC DB instance.
 
@@ -19,7 +19,7 @@ Build and package the client:
 
 Run the client:
 
-    ./dist/rocc-client-db help
+    ./dist/rocc-db-client help
     Usage: rocc-client [global options] command
 
     Client for managing a ROCC DB instance.
@@ -42,4 +42,4 @@ Run the client:
 
 <!-- Links -->
 
-[Apache License 2.0]: https://github.com/Sage-Bionetworks/rocc-client-db/blob/develop/LICENSE
+[Apache License 2.0]: https://github.com/Sage-Bionetworks/rocc-db-client/blob/develop/LICENSE

@@ -8,8 +8,7 @@ import {
 import { config } from './config';
 import * as Pkg from '../package.json';
 import { Mongoose } from 'mongoose';
-import { timeStamp } from 'console';
-import { createHistogram } from 'perf_hooks';
+import { logger, Level } from './logger';
 
 export class App {
   private program: Command;
@@ -46,13 +45,14 @@ export class App {
       .hook('preAction', () => this.setConfig(this.program.opts()));
 
     this.program
+      .option('-d, --debug', 'output extra debugging')
       .option('--uri <uri>', 'MongoDB uri', 'mongodb://localhost:27017/rocc')
       .option('--username <username>', 'MongoDB username', 'roccmongo')
       .option('--password <password>', 'MongoDB password', 'roccmongo');
   }
 
   public async gracefulShutdown(msg: string, callback: any): Promise<void> {
-    console.log('gracefulShutdown');
+    logger.debug('Gracefully shutdown');
     if (this.mongoose) {
       await this.mongoose.connection.close();
     }
@@ -64,12 +64,12 @@ export class App {
     try {
       this.mongoose = await connectToDatabase();
       const pong = await pingDatabase();
-      console.log(pong ? 'pong' : 'No pong received');
+      logger.info(pong ? 'pong' : 'No pong received');
       return this.gracefulShutdown('', () => {
         process.exit(pong ? 0 : -1);
       });
     } catch (err) {
-      console.error(err);
+      logger.error('Unable to ping the database', err);
       return this.gracefulShutdown('', () => {
         process.exit(-1);
       });
@@ -84,7 +84,7 @@ export class App {
         process.exit(success ? 0 : -1);
       });
     } catch (err) {
-      console.error(err);
+      logger.error('Unable to remove the collections', err);
       return this.gracefulShutdown('', () => {
         process.exit(-1);
       });
@@ -99,7 +99,7 @@ export class App {
         process.exit(success ? 0 : -1);
       });
     } catch (err) {
-      console.error(err);
+      logger.error('Unable to seed the database', err);
       return this.gracefulShutdown('', () => {
         process.exit(-1);
       });
@@ -110,6 +110,9 @@ export class App {
     config.mongo.uri = options.uri;
     config.mongo.options.user = options.username;
     config.mongo.options.pass = options.password;
+    if (options.debug) {
+      logger.setLevel(Level.Debug);
+    }
   }
 
   public async run(): Promise<void> {

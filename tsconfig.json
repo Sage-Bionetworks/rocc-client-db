@@ -6,7 +6,7 @@
     "resolveJsonModule": true,
     "strict": true,
     // "allowSyntheticDefaultImports": false,
-    // "esModuleInterop": true,
+    "esModuleInterop": true,
     "declaration": true,
     "target": "ES2020",
     "module": "commonjs",

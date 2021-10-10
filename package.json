@@ -24,7 +24,8 @@
     "glob": "^7.2.0",
     "lodash-es": "^4.17.21",
     "mongoose": "^6.0.9",
-    "validator": "^13.6.0"
+    "validator": "^13.6.0",
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "@types/glob": "^7.1.4",

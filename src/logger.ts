@@ -1,20 +1,5 @@
 import winston from 'winston';
-
-// const options = {
-//   console: {
-//     level: 'debug',
-//     handleExceptions: true,
-//     json: false,
-//     colorize: true,
-//   },
-// };
-
-// const logger: winston.Logger = winston.createLogger({
-//   transports: [
-//       new winston.transports.Console(options.console)
-//   ],
-//   exitOnError: false, // do not exit on handled exceptions
-// });
+import util from 'util';
 
 export enum Level {
   Debug = 'debug',
@@ -41,9 +26,23 @@ const transports = [
   // new winston.transports.File({ filename: 'logs/all.log' }),
 ];
 
+const combineMessageAndSplat = () => {
+  return {
+    transform: (info: any) => {
+      // combine message and args if any
+      info.message = util.format(
+        info.message,
+        ...(info[Symbol.for('splat')] || [])
+      );
+      return info;
+    },
+  };
+};
+
 const format = winston.format.combine(
   winston.format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss:ms' }),
   winston.format.colorize({ all: true }),
+  combineMessageAndSplat(),
   winston.format.printf(
     (info) => `${info.timestamp} ${info.level}: ${info.message}`
   )
@@ -65,24 +64,24 @@ class Logger {
     this.logger.level = level;
   }
 
-  public debug(message: string, callback?: any) {
-    this.logger.debug(message, callback);
+  public debug(message: string, ...meta: any[]) {
+    this.logger.debug(message, ...meta);
   }
 
-  public verbose(message: string, callback?: any) {
-    this.logger.verbose(message, callback);
+  public verbose(message: string, ...meta: any[]) {
+    this.logger.verbose(message, ...meta);
   }
 
-  public info(message: string, callback?: any) {
-    this.logger.info(message, callback);
+  public info(message: string, ...meta: any[]) {
+    this.logger.info(message, ...meta);
   }
 
-  public warn(message: string, callback?: any) {
-    this.logger.warn(message, callback);
+  public warn(message: string, ...meta: any[]) {
+    this.logger.warn(message, ...meta);
   }
 
-  public error(message: string, callback?: any) {
-    this.logger.error(message, callback);
+  public error(message: string, ...meta: any[]) {
+    this.logger.error(message, ...meta);
   }
 }
 

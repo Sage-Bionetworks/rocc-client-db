@@ -52,7 +52,7 @@ export const pingDatabase = async (): Promise<boolean> => {
 export const seedDatabase = async (directory: string): Promise<boolean> => {
   await removeCollections();
   const seedFiles = await listSeedFiles(directory);
-  let seeds = [
+  const seeds = [
     { name: 'users', model: UserModel },
     { name: 'organizations', model: OrganizationModel },
     { name: 'orgMemberships', model: OrgMembershipModel },
@@ -93,9 +93,9 @@ const listSeedFiles = async (directory: string): Promise<SeedFiles> => {
         // TODO consider throwing an error if an unexpected json file is found
         // in the directory specified, e.g. when a key is not in the interface
         // SeedFiles
-        let seedFiles: SeedFiles = {};
+        const seedFiles: SeedFiles = {};
         files.forEach((file) => {
-          let key = path.basename(file, '.json');
+          const key = path.basename(file, '.json');
           seedFiles[key] = file;
         });
         resolve(seedFiles);

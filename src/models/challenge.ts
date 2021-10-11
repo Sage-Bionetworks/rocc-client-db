@@ -1,11 +1,13 @@
 import { model, ObjectId, Schema } from 'mongoose';
 import validator from 'validator';
 
+/* eslint-disable no-unused-vars */
 export enum ChallengeStatus {
   Active = 'active',
   Upcoming = 'upcoming',
   Completed = 'completed',
 }
+/* eslint-enable no-unused-vars */
 
 export interface Challenge {
   _id: ObjectId;

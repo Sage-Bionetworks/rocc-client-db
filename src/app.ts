@@ -5,7 +5,7 @@ import {
   pingDatabase,
   seedDatabase,
 } from './database'
-import { config } from './config';
+import { config } from './config'
 import * as Pkg from '../package.json';
 import { Mongoose } from 'mongoose';
 import { logger, Level } from './logger';

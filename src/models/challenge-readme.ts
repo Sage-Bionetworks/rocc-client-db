@@ -1,7 +1,7 @@
 import { model, ObjectId, Schema } from 'mongoose';
 
 export interface ChallengeReadme {
-  _id?: ObjectId;  // TODO make required after adding _id to JSON seed
+  _id?: ObjectId; // TODO make required after adding _id to JSON seed
   text: string;
   challengeId: ObjectId;
   createdAt: Date;
@@ -15,7 +15,7 @@ const options = {
 
 export const ChallengeReadmeSchema = new Schema<ChallengeReadme>(
   {
-    _id: { type: Schema.Types.ObjectId, auto: true },  // TODO make required after adding _id to JSON seed
+    _id: { type: Schema.Types.ObjectId, auto: true }, // TODO make required after adding _id to JSON seed
     text: { type: String, required: true },
     challengeId: {
       type: Schema.Types.ObjectId,

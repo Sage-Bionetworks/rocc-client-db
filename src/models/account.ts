@@ -1,9 +1,11 @@
 import { model, ObjectId, Schema } from 'mongoose';
 
+/* eslint-disable no-unused-vars */
 export enum AccountType {
   User = 'User',
   Organization = 'Organization',
 }
+/* eslint-enable no-unused-vars */
 
 export interface Account {
   _id: ObjectId;

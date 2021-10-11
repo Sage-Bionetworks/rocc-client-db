@@ -1,5 +1,6 @@
 import { model, ObjectId, Schema } from 'mongoose';
 
+/* eslint-disable no-unused-vars */
 export enum OrgMembershipState {
   Active = 'active',
   Pending = 'pending',
@@ -9,6 +10,7 @@ export enum OrgMembershipRole {
   Admin = 'admin',
   Member = 'member',
 }
+/* eslint-enable no-unused-vars */
 
 export interface OrgMembership {
   _id: ObjectId;

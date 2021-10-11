@@ -38,7 +38,7 @@ export const removeCollections = async (): Promise<boolean> => {
     return db
       .dropCollection(collection.name)
       .then(() => logger.info(`Collection ${collection.name} removed`))
-      .catch((err: any) => logger.error('Unable to remove collection', err)); // TODO: find a way to show object win winston
+      .catch((err: any) => logger.error('Unable to remove collection', err));
   });
   await Promise.all(promises);
   return true;

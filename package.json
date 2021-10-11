@@ -58,6 +58,11 @@
     ],
     "outputPath": "dist"
   },
+  "lint-staged": {
+    "src/**/*.{ts}": [
+      "npm run lint"
+    ]
+  },
   "husky": {
     "hooks": {
       "pre-commit": "npm run lint"

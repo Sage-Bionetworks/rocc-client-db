@@ -1,6 +1,7 @@
 import util from 'util';
 import winston from 'winston';
 
+/* eslint-disable no-unused-vars */
 export enum Level {
   Debug = 'debug',
   Verbose = 'verbose',
@@ -8,6 +9,7 @@ export enum Level {
   Warn = 'warn',
   Error = 'error',
 }
+/* eslint-enable no-unused-vars */
 
 const colors = {
   debug: 'white',
@@ -45,7 +47,7 @@ const format = winston.format.combine(
 class Logger {
   private logger!: winston.Logger;
 
-  constructor() {
+  constructor () {
     this.logger = winston.createLogger({
       level: Level.Info,
       transports: transports,
@@ -54,27 +56,27 @@ class Logger {
     winston.addColors(colors);
   }
 
-  public setLevel(level: Level): void {
+  public setLevel (level: Level): void {
     this.logger.level = level;
   }
 
-  public debug(message: string, ...meta: any[]) {
+  public debug (message: string, ...meta: any[]) {
     this.logger.debug(message, ...meta);
   }
 
-  public verbose(message: string, ...meta: any[]) {
+  public verbose (message: string, ...meta: any[]) {
     this.logger.verbose(message, ...meta);
   }
 
-  public info(message: string, ...meta: any[]) {
+  public info (message: string, ...meta: any[]) {
     this.logger.info(message, ...meta);
   }
 
-  public warn(message: string, ...meta: any[]) {
+  public warn (message: string, ...meta: any[]) {
     this.logger.warn(message, ...meta);
   }
 
-  public error(message: string, ...meta: any[]) {
+  public error (message: string, ...meta: any[]) {
     this.logger.error(message, ...meta);
   }
 }

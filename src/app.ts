@@ -4,7 +4,7 @@ import {
   removeCollections,
   pingDatabase,
   seedDatabase,
-} from './database'
+} from './database';
 import { config } from './config';
 import * as Pkg from '../package.json';
 import { Mongoose } from 'mongoose';
@@ -14,7 +14,7 @@ export class App {
   private program: Command;
   private mongoose!: Mongoose;
 
-  constructor() {
+  constructor () {
     this.program = new Command();
 
     this.program
@@ -51,7 +51,7 @@ export class App {
       .option('--password <password>', 'MongoDB password', 'roccmongo');
   }
 
-  public async gracefulShutdown(msg: string, callback: any): Promise<void> {
+  public async gracefulShutdown (msg: string, callback: any): Promise<void> {
     logger.debug('Gracefully shutdown');
     if (this.mongoose) {
       await this.mongoose.connection.close();
@@ -60,7 +60,7 @@ export class App {
     return Promise.resolve();
   }
 
-  private async ping(): Promise<void> {
+  private async ping (): Promise<void> {
     try {
       this.mongoose = await connectToDatabase();
       const pong = await pingDatabase();
@@ -76,7 +76,7 @@ export class App {
     }
   }
 
-  private async removeCollections(): Promise<void> {
+  private async removeCollections (): Promise<void> {
     try {
       this.mongoose = await connectToDatabase();
       const success = await removeCollections();
@@ -91,7 +91,7 @@ export class App {
     }
   }
 
-  private async seed(directory: string): Promise<void> {
+  private async seed (directory: string): Promise<void> {
     try {
       this.mongoose = await connectToDatabase();
       const success = await seedDatabase(directory);
@@ -106,7 +106,7 @@ export class App {
     }
   }
 
-  private setConfig(options: any): void {
+  private setConfig (options: any): void {
     config.mongo.uri = options.uri;
     config.mongo.options.user = options.username;
     config.mongo.options.pass = options.password;
@@ -115,7 +115,7 @@ export class App {
     }
   }
 
-  public async run(): Promise<void> {
+  public async run (): Promise<void> {
     await this.program.parseAsync(process.argv);
   }
 }

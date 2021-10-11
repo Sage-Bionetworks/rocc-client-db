@@ -61,7 +61,7 @@
     "outputPath": "dist"
   },
   "lint-staged": {
-    "src/**/*.{ts}": [
+    "src/**/*.ts": [
       "npm run lint"
     ]
   },

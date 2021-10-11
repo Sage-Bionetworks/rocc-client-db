@@ -12,7 +12,8 @@
     "test": "npm run build && node dist/src/index.js --help",
     "package": "pkg .",
     "lint": "eslint src/**/*.ts",
-    "lint:fix": "eslint src/**/*.ts --fix"
+    "lint:fix": "eslint src/**/*.ts --fix",
+    "lint-staged": "lint-staged"
   },
   "keywords": [],
   "author": {

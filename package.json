@@ -41,6 +41,8 @@
     "eslint-plugin-import": "^2.24.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0",
+    "husky": "7.0.2",
+    "lint-staged": "11.2.3",
     "nodemon": "^2.0.13",
     "pkg": "^5.3.3",
     "ts-node": "^10.2.1",
@@ -55,5 +57,10 @@
       "node16-linux-x64"
     ],
     "outputPath": "dist"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
   }
 }

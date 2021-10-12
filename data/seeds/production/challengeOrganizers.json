@@ -1,0 +1,14 @@
+{
+  "challengeOrganizers": [
+    {
+      "_id": "6165cc720299dde0745e43a9",
+      "login": "jsmith",
+      "name": "John Smith",
+      "roles": [
+        "ChallengeLead",
+        "InfrastructureLead"
+      ],
+      "challengeId": "616495feaa5d34dc78be8e9d"
+    }
+  ]
+}

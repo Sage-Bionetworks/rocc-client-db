@@ -36,7 +36,7 @@ const combineMessageAndSplat = () => {
 };
 
 const format = winston.format.combine(
-  winston.format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss:ms' }),
+  winston.format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }),
   winston.format.colorize({ all: true }),
   combineMessageAndSplat(),
   winston.format.printf(

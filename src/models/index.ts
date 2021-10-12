@@ -1,5 +1,6 @@
 export * from './account';
 export * from './challenge';
+export * from './challenge-organizer';
 export * from './challenge-platform';
 export * from './challenge-readme';
 export * from './organization';

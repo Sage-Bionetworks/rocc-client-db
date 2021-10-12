@@ -5,6 +5,7 @@ import * as path from 'path';
 import { promises } from 'fs';
 import {
   ChallengeModel,
+  ChallengeOrganizerModel,
   ChallengePlatformModel,
   ChallengeReadmeModel,
   OrganizationModel,
@@ -59,6 +60,7 @@ export const seedDatabase = async (directory: string): Promise<boolean> => {
     { name: 'challengePlatforms', model: ChallengePlatformModel },
     { name: 'challenges', model: ChallengeModel },
     { name: 'challengeReadmes', model: ChallengeReadmeModel },
+    { name: 'challengeOrganizers', model: ChallengeOrganizerModel },
   ] as any[];
   for (const seed of seeds) {
     await seedCollection(seedFiles[seed.name], seed.name, seed.model);

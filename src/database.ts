@@ -8,6 +8,7 @@ import {
   ChallengeOrganizerModel,
   ChallengePlatformModel,
   ChallengeReadmeModel,
+  ChallengeSponsorModel,
   OrganizationModel,
   OrgMembershipModel,
   UserModel,
@@ -53,6 +54,7 @@ export const pingDatabase = async (): Promise<boolean> => {
 export const seedDatabase = async (directory: string): Promise<boolean> => {
   await removeCollections();
   const seedFiles = await listSeedFiles(directory);
+  // The order of the seeds matters
   const seeds = [
     { name: 'users', model: UserModel },
     { name: 'organizations', model: OrganizationModel },
@@ -61,6 +63,7 @@ export const seedDatabase = async (directory: string): Promise<boolean> => {
     { name: 'challenges', model: ChallengeModel },
     { name: 'challengeReadmes', model: ChallengeReadmeModel },
     { name: 'challengeOrganizers', model: ChallengeOrganizerModel },
+    { name: 'challengeSponsors', model: ChallengeSponsorModel },
   ] as any[];
   for (const seed of seeds) {
     await seedCollection(seedFiles[seed.name], seed.name, seed.model);

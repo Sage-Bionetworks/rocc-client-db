@@ -1,0 +1,11 @@
+{
+  "challengeSponsors": [
+    {
+      "_id": "61676d7c930508cd88980afc",
+      "login": "ibm",
+      "name": "IBM",
+      "roles": ["CloudProvider", "DataProvider"],
+      "challengeId": "6166d00a014b66e55c8b03f6"
+    }
+  ]
+}

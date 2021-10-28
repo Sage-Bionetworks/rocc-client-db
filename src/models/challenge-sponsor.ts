@@ -3,7 +3,7 @@ import { model, ObjectId, Schema } from 'mongoose';
 /* eslint-disable no-unused-vars */
 export enum ChallengeSponsorRole {
   ChallengeOrganizer = 'ChallengeOrganizer',
-  CloudProvider = 'CloudProvider',
+  ComputeProvider = 'ComputeProvider',
   DataProvider = 'DataProvider',
   Funder = 'Funder',
   Other = 'Other'

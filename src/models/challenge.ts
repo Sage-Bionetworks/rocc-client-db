@@ -21,6 +21,7 @@ export interface Challenge {
   startDate?: Date;
   endDate?: Date;
   platformId: ObjectId;
+  readmeId: ObjectId;
   topics?: string[];
   doi?: string;
   createdAt: Date;
@@ -54,6 +55,11 @@ export const ChallengeSchema = new Schema<Challenge>(
     platformId: {
       type: Schema.Types.ObjectId,
       ref: 'ChallengePlatform',
+      required: true,
+    },
+    readmeId: {
+      type: Schema.Types.ObjectId,
+      ref: 'ChallengeReadme',
       required: true,
     },
     topics: { type: [String], default: [] },

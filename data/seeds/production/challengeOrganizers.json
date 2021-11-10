@@ -1,4309 +1,4309 @@
 {
   "challengeOrganizers": [
     {
-      "_id": "61679d1b014b66e55c8b169d",
+      "_id": "618bca2fd183d8e150b30671",
       "login": "apratap",
       "name": "Abhi Pratap",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b182a",
+      "_id": "618bca2fd183d8e150b307fe",
       "login": "aberger",
       "name": "Adam Berger",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b1838",
+      "_id": "618bca2fd183d8e150b3080c",
       "login": "aberger",
       "name": "Adam Berger",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b1848",
+      "_id": "618bca2fd183d8e150b3081c",
       "login": "aberger",
       "name": "Adam Berger",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b1812",
+      "_id": "618bca2fd183d8e150b307e6",
       "login": "aflanders",
       "name": "Adam Flanders",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1661",
+      "_id": "618bca2fd183d8e150b30635",
       "login": "amargolin",
       "name": "Adam Margolin",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ac",
+      "_id": "618bca2fd183d8e150b30680",
       "login": "amargolin",
       "name": "Adam Margolin",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fe"
+      "challengeId": "618bc9fed183d8e150b305d2"
     },
     {
-      "_id": "61679d1b014b66e55c8b16c7",
+      "_id": "618bca2fd183d8e150b3069b",
       "login": "amargolin",
       "name": "Adam Margolin",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ab",
+      "_id": "618bca2fd183d8e150b3077f",
       "login": "amargolin",
       "name": "Adam Margolin",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b1778",
+      "_id": "618bca2fd183d8e150b3074c",
       "login": "altarca",
       "name": "Adi L. Tarca",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1616"
+      "challengeId": "618bc9fed183d8e150b305ea"
     },
     {
-      "_id": "61679d1b014b66e55c8b1864",
+      "_id": "618bca2fd183d8e150b30838",
       "login": "aalaoui",
       "name": "Adil Alaoui",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164d"
+      "challengeId": "618bc9fed183d8e150b30621"
     },
     {
-      "_id": "61679d1b014b66e55c8b178f",
+      "_id": "618bca2fd183d8e150b30763",
       "login": "agranados",
       "name": "Alejandro Granados",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b167e",
+      "_id": "618bca2fd183d8e150b30652",
       "login": "avillaverde",
       "name": "Alejandro Villaverde",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b16b3",
+      "_id": "618bca2fd183d8e150b30687",
       "login": "abisberg",
       "name": "Alex Bisberg",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b17d0",
+      "_id": "618bca2fd183d8e150b307a4",
       "login": "amariakakis",
       "name": "Alex Mariakakis",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1752",
+      "_id": "618bca2fd183d8e150b30726",
       "login": "atropsha",
       "name": "Alex Tropsha",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1612"
+      "challengeId": "618bc9fed183d8e150b305e6"
     },
     {
-      "_id": "61679d1b014b66e55c8b186b",
+      "_id": "618bca2fd183d8e150b3083f",
       "login": "ahoffman",
       "name": "Allison Hoffman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b1886",
+      "_id": "618bca2fd183d8e150b3085a",
       "login": "apurnell",
       "name": "Amanda Purnell",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b176c",
+      "_id": "618bca2fd183d8e150b30740",
       "login": "aghouila",
       "name": "Amel Ghouila",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b16b4",
+      "_id": "618bca2fd183d8e150b30688",
       "login": "aaqutub",
       "name": "Amina Ann Qutub",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1762",
+      "_id": "618bca2fd183d8e150b30736",
       "login": "atruong",
       "name": "Amy Truong",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1614"
+      "challengeId": "618bc9fed183d8e150b305e8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1790",
+      "_id": "618bca2fd183d8e150b30764",
       "login": "atruong",
       "name": "Amy Truong",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b179e",
+      "_id": "618bca2fd183d8e150b30772",
       "login": "atruong",
       "name": "Amy Truong",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ac",
+      "_id": "618bca2fd183d8e150b30780",
       "login": "atruong",
       "name": "Amy Truong",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17db",
+      "_id": "618bca2fd183d8e150b307af",
       "login": "atruong",
       "name": "Amy Truong",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b169e",
+      "_id": "618bca2fd183d8e150b30672",
       "login": "afalcao",
       "name": "Andre Falcao",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b16e8",
+      "_id": "618bca2fd183d8e150b306bc",
       "login": "afalcao",
       "name": "Andre Falcao",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b16b5",
+      "_id": "618bca2fd183d8e150b30689",
       "login": "aschultz",
       "name": "Andre Schultz",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b167b",
+      "_id": "618bca2fd183d8e150b3064f",
       "login": "acalifano",
       "name": "Andrea Califano",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b179f",
+      "_id": "618bca2fd183d8e150b30773",
       "login": "acalifano",
       "name": "Andrea Califano",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17dc",
+      "_id": "618bca2fd183d8e150b307b0",
       "login": "acalifano",
       "name": "Andrea Califano",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16e9",
+      "_id": "618bca2fd183d8e150b306bd",
       "login": "akeller",
       "name": "Andreas Keller",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1763",
+      "_id": "618bca2fd183d8e150b30737",
       "login": "alamb",
       "name": "Andrew Lamb",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1614"
+      "challengeId": "618bc9fed183d8e150b305e8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1667",
+      "_id": "618bca2fd183d8e150b3063b",
       "login": "atrister",
       "name": "Andrew Trister",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b1820",
+      "_id": "618bca2fd183d8e150b307f4",
       "login": "akryshtafovych",
       "name": "Andriy Kryshtafovych",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1647"
+      "challengeId": "618bc9fed183d8e150b3061b"
     },
     {
-      "_id": "61679d1b014b66e55c8b1825",
+      "_id": "618bca2fd183d8e150b307f9",
       "login": "akryshtafovych",
       "name": "Andriy Kryshtafovych",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1646"
+      "challengeId": "618bc9fed183d8e150b3061a"
     },
     {
-      "_id": "61679d1b014b66e55c8b18a0",
+      "_id": "618bca2fd183d8e150b30874",
       "login": "akennedy",
       "name": "Andy Kennedy",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b16d7",
+      "_id": "618bca2fd183d8e150b306ab",
       "login": "asimmons",
       "name": "Andy Simmons",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b189b",
+      "_id": "618bca2fd183d8e150b3086f",
       "login": "aprasanna",
       "name": "Anish Prasanna",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b18a7",
+      "_id": "618bca2fd183d8e150b3087b",
       "login": "aprasanna",
       "name": "Anish Prasanna",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18b5",
+      "_id": "618bca2fd183d8e150b30889",
       "login": "aprasanna",
       "name": "Anish Prasanna",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b1889",
+      "_id": "618bca2fd183d8e150b3085d",
       "login": "akastorf",
       "name": "Anjali Kastorf",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b1891",
+      "_id": "618bca2fd183d8e150b30865",
       "login": "akastorf",
       "name": "Anjali Kastorf",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1651"
+      "challengeId": "618bc9fed183d8e150b30625"
     },
     {
-      "_id": "61679d1b014b66e55c8b1764",
+      "_id": "618bca2fd183d8e150b30738",
       "login": "acichonska",
       "name": "Anna Cichonska",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1614"
+      "challengeId": "618bc9fed183d8e150b305e8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1724",
+      "_id": "618bca2fd183d8e150b306f8",
       "login": "agoldenberg",
       "name": "Anna Goldenberg",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160b"
+      "challengeId": "618bc9fed183d8e150b305df"
     },
     {
-      "_id": "61679d1b014b66e55c8b18c0",
+      "_id": "618bca2fd183d8e150b30894",
       "login": "areinke",
       "name": "Annika Reinke",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1655"
+      "challengeId": "618bc9fed183d8e150b30629"
     },
     {
-      "_id": "61679d1b014b66e55c8b171b",
+      "_id": "618bca2fd183d8e150b306ef",
       "login": "akundaje",
       "name": "Anshul Kundaje",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160a"
+      "challengeId": "618bc9fed183d8e150b305de"
     },
     {
-      "_id": "61679d1b014b66e55c8b16d8",
+      "_id": "618bca2fd183d8e150b306ac",
       "login": "aklein",
       "name": "Arno Klein",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b17d1",
+      "_id": "618bca2fd183d8e150b307a5",
       "login": "ajayaraman",
       "name": "Arun Jayaraman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b16b6",
+      "_id": "618bca2fd183d8e150b3068a",
       "login": "amahadevan",
       "name": "Arun Mahadevan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b189f",
+      "_id": "618bca2fd183d8e150b30873",
       "login": "awilson",
       "name": "Asya Wilson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b18a6",
+      "_id": "618bca2fd183d8e150b3087a",
       "login": "awilson",
       "name": "Asya Wilson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18b4",
+      "_id": "618bca2fd183d8e150b30888",
       "login": "awilson",
       "name": "Asya Wilson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b175a",
+      "_id": "618bca2fd183d8e150b3072e",
       "login": "agabor",
       "name": "Attila Gabor",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1613"
+      "challengeId": "618bc9fed183d8e150b305e7"
     },
     {
-      "_id": "61679d1b014b66e55c8b1780",
+      "_id": "618bca2fd183d8e150b30754",
       "login": "agabor",
       "name": "Attila Gabor",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1617"
+      "challengeId": "618bc9fed183d8e150b305eb"
     },
     {
-      "_id": "61679d1b014b66e55c8b16c8",
+      "_id": "618bca2fd183d8e150b3069c",
       "login": "atsherniak",
       "name": "Aviad Tsherniak",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1753",
+      "_id": "618bca2fd183d8e150b30727",
       "login": "aschlessinger",
       "name": "Avner Schlessinger",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1612"
+      "challengeId": "618bc9fed183d8e150b305e6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1765",
+      "_id": "618bca2fd183d8e150b30739",
       "login": "bravikumar",
       "name": "Balaguru Ravikumar",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1614"
+      "challengeId": "618bc9fed183d8e150b305e8"
     },
     {
-      "_id": "61679d1b014b66e55c8b16c9",
+      "_id": "618bca2fd183d8e150b3069d",
       "login": "bweir",
       "name": "Barbara Weir",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1896",
+      "_id": "618bca2fd183d8e150b3086a",
       "login": "bbusby",
       "name": "Ben Busby",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1651"
+      "challengeId": "618bc9fed183d8e150b30625"
     },
     {
-      "_id": "61679d1b014b66e55c8b17a0",
+      "_id": "618bca2fd183d8e150b30774",
       "login": "bszalai",
       "name": "Bence Szalai",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17dd",
+      "_id": "618bca2fd183d8e150b307b1",
       "login": "bszalai",
       "name": "Bence Szalai",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16d9",
+      "_id": "618bca2fd183d8e150b306ad",
       "login": "blogsdon",
       "name": "Benjamin Logsdon",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b17f0",
+      "_id": "618bca2fd183d8e150b307c4",
       "login": "bvincent",
       "name": "Benjamin Vincent",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1781",
+      "_id": "618bca2fd183d8e150b30755",
       "login": "bbodenmiller",
       "name": "Bernd Bodenmiller",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1617"
+      "challengeId": "618bc9fed183d8e150b305eb"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ca",
+      "_id": "618bca2fd183d8e150b3069e",
       "login": "bhahn",
       "name": "Bill Hahn",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b183b",
+      "_id": "618bca2fd183d8e150b3080f",
       "login": "bzhang",
       "name": "Bing Zhang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b184b",
+      "_id": "618bca2fd183d8e150b3081f",
       "login": "bzhang",
       "name": "Bing Zhang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b1814",
+      "_id": "618bca2fd183d8e150b307e8",
       "login": "bmenze",
       "name": "Bjoern Menze",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b183c",
+      "_id": "618bca2fd183d8e150b30810",
       "login": "bwen",
       "name": "Bo Wen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b184c",
+      "_id": "618bca2fd183d8e150b30820",
       "login": "bwen",
       "name": "Bo Wen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b1779",
+      "_id": "618bca2fd183d8e150b3074d",
       "login": "bdone",
       "name": "Bogdan Done",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1616"
+      "challengeId": "618bc9fed183d8e150b305ea"
     },
     {
-      "_id": "61679d1b014b66e55c8b167f",
+      "_id": "618bca2fd183d8e150b30653",
       "login": "ballgood",
       "name": "Brandon Allgood",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1664",
+      "_id": "618bca2fd183d8e150b30638",
       "login": "bbot",
       "name": "Brian Bot",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b1680",
+      "_id": "618bca2fd183d8e150b30654",
       "login": "bbot",
       "name": "Brian Bot",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1731",
+      "_id": "618bca2fd183d8e150b30705",
       "login": "boconnor",
       "name": "Brian O'Connor",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160f"
+      "challengeId": "618bc9fed183d8e150b305e3"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ad",
+      "_id": "618bca2fd183d8e150b30781",
       "login": "bwhite",
       "name": "Brian White",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b1665",
+      "_id": "618bca2fd183d8e150b30639",
       "login": "bmecham",
       "name": "Brig Mecham",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ba",
+      "_id": "618bca2fd183d8e150b3078e",
       "login": "bkisler",
       "name": "Bron Kisler",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b1681",
+      "_id": "618bca2fd183d8e150b30655",
       "login": "bhoff",
       "name": "Bruce Hoff",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1691",
+      "_id": "618bca2fd183d8e150b30665",
       "login": "bhoff",
       "name": "Bruce Hoff",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b169f",
+      "_id": "618bca2fd183d8e150b30673",
       "login": "bhoff",
       "name": "Bruce Hoff",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b16b7",
+      "_id": "618bca2fd183d8e150b3068b",
       "login": "bhoff",
       "name": "Bruce Hoff",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b16cb",
+      "_id": "618bca2fd183d8e150b3069f",
       "login": "bhoff",
       "name": "Bruce Hoff",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ea",
+      "_id": "618bca2fd183d8e150b306be",
       "login": "bhoff",
       "name": "Bruce Hoff",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b171c",
+      "_id": "618bca2fd183d8e150b306f0",
       "login": "bhoff",
       "name": "Bruce Hoff",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160a"
+      "challengeId": "618bc9fed183d8e150b305de"
     },
     {
-      "_id": "61679d1b014b66e55c8b16b8",
+      "_id": "618bca2fd183d8e150b3068c",
       "login": "blong",
       "name": "Bryon Long",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1819",
+      "_id": "618bca2fd183d8e150b307ed",
       "login": "cgreene",
       "name": "Casey Greene",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1645"
+      "challengeId": "618bc9fed183d8e150b30619"
     },
     {
-      "_id": "61679d1b014b66e55c8b1668",
+      "_id": "618bca2fd183d8e150b3063c",
       "login": "cferte",
       "name": "Charles Ferte",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ae",
+      "_id": "618bca2fd183d8e150b30782",
       "login": "cgoldthwaite",
       "name": "Charles Goldthwaite",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b1678",
+      "_id": "618bca2fd183d8e150b3064c",
       "login": "ckaran",
       "name": "Charles Karan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b18a1",
+      "_id": "618bca2fd183d8e150b30875",
       "login": "cdavidson",
       "name": "Chelsea Davidson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b16b9",
+      "_id": "618bca2fd183d8e150b3068d",
       "login": "chu",
       "name": "Chenyue Hu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1725",
+      "_id": "618bca2fd183d8e150b306f9",
       "login": "cazencott",
       "name": "Chloe-Agathe Azencott",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160b"
+      "challengeId": "618bc9fed183d8e150b305df"
     },
     {
-      "_id": "61679d1b014b66e55c8b1832",
+      "_id": "618bca2fd183d8e150b30806",
       "login": "cstefan",
       "name": "Chris Stefan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b1682",
+      "_id": "618bca2fd183d8e150b30656",
       "login": "cbasile",
       "name": "Christian Basile",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1884",
+      "_id": "618bca2fd183d8e150b30858",
       "login": "clee",
       "name": "Christine Lee",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b16a0",
+      "_id": "618bca2fd183d8e150b30674",
       "login": "csuver",
       "name": "Christine Suver",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ba",
+      "_id": "618bca2fd183d8e150b3068e",
       "login": "csuver",
       "name": "Christine Suver",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b16cc",
+      "_id": "618bca2fd183d8e150b306a0",
       "login": "csuver",
       "name": "Christine Suver",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16da",
+      "_id": "618bca2fd183d8e150b306ae",
       "login": "csuver",
       "name": "Christine Suver",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b16eb",
+      "_id": "618bca2fd183d8e150b306bf",
       "login": "csuver",
       "name": "Christine Suver",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1710",
+      "_id": "618bca2fd183d8e150b306e4",
       "login": "csuver",
       "name": "Christine Suver",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     },
     {
-      "_id": "61679d1b014b66e55c8b16db",
+      "_id": "618bca2fd183d8e150b306af",
       "login": "cbare",
       "name": "Christopher Bare",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1729",
+      "_id": "618bca2fd183d8e150b306fd",
       "login": "cmaher",
       "name": "Christopher Maher",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160c"
+      "challengeId": "618bc9fed183d8e150b305e0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17af",
+      "_id": "618bca2fd183d8e150b30783",
       "login": "cdeleon",
       "name": "Cindy Deleon",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17de",
+      "_id": "618bca2fd183d8e150b307b2",
       "login": "ccaescu",
       "name": "Cristina Caescu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1737",
+      "_id": "618bca2fd183d8e150b3070b",
       "login": "ddaeschler",
       "name": "Daisy Daeschler",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b167c",
+      "_id": "618bca2fd183d8e150b30650",
       "login": "dgallahan",
       "name": "Dan Gallahan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b17f1",
+      "_id": "618bca2fd183d8e150b307c5",
       "login": "dhuston",
       "name": "Daniel Huston",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b16cd",
+      "_id": "618bca2fd183d8e150b306a1",
       "login": "dmarbach",
       "name": "Daniel Marbach",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1711",
+      "_id": "618bca2fd183d8e150b306e5",
       "login": "dmarbach",
       "name": "Daniel Marbach",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     },
     {
-      "_id": "61679d1b014b66e55c8b1738",
+      "_id": "618bca2fd183d8e150b3070c",
       "login": "dbrunner",
       "name": "Daniela Brunner",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b17a1",
+      "_id": "618bca2fd183d8e150b30775",
       "login": "dgerhard",
       "name": "Daniela Gerhard",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17b0",
+      "_id": "618bca2fd183d8e150b30784",
       "login": "dgerhard",
       "name": "Daniela Gerhard",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17df",
+      "_id": "618bca2fd183d8e150b307b3",
       "login": "dgerhard",
       "name": "Daniela Gerhard",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b17d2",
+      "_id": "618bca2fd183d8e150b307a6",
       "login": "dalonso",
       "name": "David Alonso",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b17f2",
+      "_id": "618bca2fd183d8e150b307c6",
       "login": "dcarbone",
       "name": "David Carbone",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b16dc",
+      "_id": "618bca2fd183d8e150b306b0",
       "login": "dfardo",
       "name": "David Fardo",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1745",
+      "_id": "618bca2fd183d8e150b30719",
       "login": "dfenyo",
       "name": "David Fenyo",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1712",
+      "_id": "618bca2fd183d8e150b306e6",
       "login": "dlamparter",
       "name": "David Lamparter",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     },
     {
-      "_id": "61679d1b014b66e55c8b16bb",
+      "_id": "618bca2fd183d8e150b3068f",
       "login": "dnoren",
       "name": "David Noren",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1670",
+      "_id": "618bca2fd183d8e150b30644",
       "login": "dschoenfeld",
       "name": "David Schoenfeld",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f8"
+      "challengeId": "618bc9fed183d8e150b305cc"
     },
     {
-      "_id": "61679d1b014b66e55c8b18a2",
+      "_id": "618bca2fd183d8e150b30876",
       "login": "dshapinsky",
       "name": "David Shapinsky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b1707",
+      "_id": "618bca2fd183d8e150b306db",
       "login": "dwedge",
       "name": "David Wedge",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1607"
+      "challengeId": "618bc9fed183d8e150b305db"
     },
     {
-      "_id": "61679d1b014b66e55c8b165e",
+      "_id": "618bca2fd183d8e150b30632",
       "login": "dchandran",
       "name": "Deepak Chandran",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f6"
+      "challengeId": "618bc9fed183d8e150b305ca"
     },
     {
-      "_id": "61679d1b014b66e55c8b1683",
+      "_id": "618bca2fd183d8e150b30657",
       "login": "dchandran",
       "name": "Deepak Chandran",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1732",
+      "_id": "618bca2fd183d8e150b30706",
       "login": "dyuen",
       "name": "Denis Yuen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160f"
+      "challengeId": "618bc9fed183d8e150b305e3"
     },
     {
-      "_id": "61679d1b014b66e55c8b17bb",
+      "_id": "618bca2fd183d8e150b3078f",
       "login": "dwarzel",
       "name": "Denise Warzel",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b167d",
+      "_id": "618bca2fd183d8e150b30651",
       "login": "dsinger",
       "name": "Dinah Singer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b18af",
+      "_id": "618bca2fd183d8e150b30883",
       "login": "dfreed",
       "name": "Donald Freed",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18bd",
+      "_id": "618bca2fd183d8e150b30891",
       "login": "dfreed",
       "name": "Donald Freed",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b17c6",
+      "_id": "618bca2fd183d8e150b3079a",
       "login": "dsun",
       "name": "Dongmei Sun",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161e"
+      "challengeId": "618bc9fed183d8e150b305f2"
     },
     {
-      "_id": "61679d1b014b66e55c8b17f3",
+      "_id": "618bca2fd183d8e150b307c7",
       "login": "dvalentine",
       "name": "Doreen Valentine",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1801",
+      "_id": "618bca2fd183d8e150b307d5",
       "login": "dbassett",
       "name": "Doug Bassett",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1623"
+      "challengeId": "618bc9fed183d8e150b305f7"
     },
     {
-      "_id": "61679d1b014b66e55c8b1888",
+      "_id": "618bca2fd183d8e150b3085c",
       "login": "ddeer",
       "name": "Doug Deer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b1890",
+      "_id": "618bca2fd183d8e150b30864",
       "login": "ddeer",
       "name": "Doug Deer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1651"
+      "challengeId": "618bc9fed183d8e150b30625"
     },
     {
-      "_id": "61679d1b014b66e55c8b1899",
+      "_id": "618bca2fd183d8e150b3086d",
       "login": "ddeer",
       "name": "Doug Deer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b1791",
+      "_id": "618bca2fd183d8e150b30765",
       "login": "eshapiro",
       "name": "Ehud Shapiro",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b1828",
+      "_id": "618bca2fd183d8e150b307fc",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b1835",
+      "_id": "618bca2fd183d8e150b30809",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b1845",
+      "_id": "618bca2fd183d8e150b30819",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b1855",
+      "_id": "618bca2fd183d8e150b30829",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b1860",
+      "_id": "618bca2fd183d8e150b30834",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164d"
+      "challengeId": "618bc9fed183d8e150b30621"
     },
     {
-      "_id": "61679d1b014b66e55c8b1869",
+      "_id": "618bca2fd183d8e150b3083d",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b1878",
+      "_id": "618bca2fd183d8e150b3084c",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b1881",
+      "_id": "618bca2fd183d8e150b30855",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b188f",
+      "_id": "618bca2fd183d8e150b30863",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1651"
+      "challengeId": "618bc9fed183d8e150b30625"
     },
     {
-      "_id": "61679d1b014b66e55c8b1898",
+      "_id": "618bca2fd183d8e150b3086c",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b18a3",
+      "_id": "618bca2fd183d8e150b30877",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18b1",
+      "_id": "618bca2fd183d8e150b30885",
       "login": "ejohanson",
       "name": "Elaine Johanson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b1857",
+      "_id": "618bca2fd183d8e150b3082b",
       "login": "ethompson",
       "name": "Elaine Thompson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b16a1",
+      "_id": "618bca2fd183d8e150b30675",
       "login": "estahl",
       "name": "Eli Stahl",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b1879",
+      "_id": "618bca2fd183d8e150b3084d",
       "login": "eboja",
       "name": "Emily Boja",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b1882",
+      "_id": "618bca2fd183d8e150b30856",
       "login": "eboja",
       "name": "Emily Boja",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b188e",
+      "_id": "618bca2fd183d8e150b30862",
       "login": "eboja",
       "name": "Emily Boja",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1651"
+      "challengeId": "618bc9fed183d8e150b30625"
     },
     {
-      "_id": "61679d1b014b66e55c8b1662",
+      "_id": "618bca2fd183d8e150b30636",
       "login": "ebilal",
       "name": "Erhan Bilal",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b17bc",
+      "_id": "618bca2fd183d8e150b30790",
       "login": "ejohnson",
       "name": "Eric Johnson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b1666",
+      "_id": "618bca2fd183d8e150b3063a",
       "login": "ehuang",
       "name": "Erich Huang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b16bc",
+      "_id": "618bca2fd183d8e150b30690",
       "login": "eengquist",
       "name": "Erik Engquist",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1739",
+      "_id": "618bca2fd183d8e150b3070d",
       "login": "esoderberg",
       "name": "Erin Soderberg",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1808",
+      "_id": "618bca2fd183d8e150b307dc",
       "login": "ecolak",
       "name": "Errol Colak",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b17a2",
+      "_id": "618bca2fd183d8e150b30776",
       "login": "edouglass",
       "name": "Eugene Douglass",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17e0",
+      "_id": "618bca2fd183d8e150b307b4",
       "login": "edouglass",
       "name": "Eugene Douglass",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1807",
+      "_id": "618bca2fd183d8e150b307db",
       "login": "ecalabrese",
       "name": "Evan Calabrese",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b173a",
+      "_id": "618bca2fd183d8e150b3070e",
       "login": "fparisi",
       "name": "Federico Parisi",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1813",
+      "_id": "618bca2fd183d8e150b307e7",
       "login": "fckitamura",
       "name": "Felipe C. Kitamura",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1746",
+      "_id": "618bca2fd183d8e150b3071a",
       "login": "fpetralia",
       "name": "Francesca Petralia",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b177a",
+      "_id": "618bca2fd183d8e150b3074e",
       "login": "gandreoletti",
       "name": "Gaia Andreoletti",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1616"
+      "challengeId": "618bc9fed183d8e150b305ea"
     },
     {
-      "_id": "61679d1b014b66e55c8b176d",
+      "_id": "618bca2fd183d8e150b30741",
       "login": "gsiwo",
       "name": "Geoffrey Siwo",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b17bd",
+      "_id": "618bca2fd183d8e150b30791",
       "login": "gfragoso",
       "name": "Gilberto Fragoso",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ec",
+      "_id": "618bca2fd183d8e150b306c0",
       "login": "gcecchi",
       "name": "Guillermo Cecchi",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b165d",
+      "_id": "618bca2fd183d8e150b30631",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f6"
+      "challengeId": "618bc9fed183d8e150b305ca"
     },
     {
-      "_id": "61679d1b014b66e55c8b1669",
+      "_id": "618bca2fd183d8e150b3063d",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b1671",
+      "_id": "618bca2fd183d8e150b30645",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f8"
+      "challengeId": "618bc9fed183d8e150b305cc"
     },
     {
-      "_id": "61679d1b014b66e55c8b1679",
+      "_id": "618bca2fd183d8e150b3064d",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b1684",
+      "_id": "618bca2fd183d8e150b30658",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1692",
+      "_id": "618bca2fd183d8e150b30666",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b16a2",
+      "_id": "618bca2fd183d8e150b30676",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ad",
+      "_id": "618bca2fd183d8e150b30681",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fe"
+      "challengeId": "618bc9fed183d8e150b305d2"
     },
     {
-      "_id": "61679d1b014b66e55c8b16bd",
+      "_id": "618bca2fd183d8e150b30691",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ce",
+      "_id": "618bca2fd183d8e150b306a2",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16dd",
+      "_id": "618bca2fd183d8e150b306b1",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ed",
+      "_id": "618bca2fd183d8e150b306c1",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b16f3",
+      "_id": "618bca2fd183d8e150b306c7",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1604"
+      "challengeId": "618bc9fed183d8e150b305d8"
     },
     {
-      "_id": "61679d1b014b66e55c8b16fc",
+      "_id": "618bca2fd183d8e150b306d0",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1605"
+      "challengeId": "618bc9fed183d8e150b305d9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1702",
+      "_id": "618bca2fd183d8e150b306d6",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1606"
+      "challengeId": "618bc9fed183d8e150b305da"
     },
     {
-      "_id": "61679d1b014b66e55c8b1708",
+      "_id": "618bca2fd183d8e150b306dc",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1607"
+      "challengeId": "618bc9fed183d8e150b305db"
     },
     {
-      "_id": "61679d1b014b66e55c8b1713",
+      "_id": "618bca2fd183d8e150b306e7",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     },
     {
-      "_id": "61679d1b014b66e55c8b171d",
+      "_id": "618bca2fd183d8e150b306f1",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160a"
+      "challengeId": "618bc9fed183d8e150b305de"
     },
     {
-      "_id": "61679d1b014b66e55c8b1726",
+      "_id": "618bca2fd183d8e150b306fa",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160b"
+      "challengeId": "618bc9fed183d8e150b305df"
     },
     {
-      "_id": "61679d1b014b66e55c8b172a",
+      "_id": "618bca2fd183d8e150b306fe",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160c"
+      "challengeId": "618bc9fed183d8e150b305e0"
     },
     {
-      "_id": "61679d1b014b66e55c8b1747",
+      "_id": "618bca2fd183d8e150b3071b",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b175b",
+      "_id": "618bca2fd183d8e150b3072f",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1613"
+      "challengeId": "618bc9fed183d8e150b305e7"
     },
     {
-      "_id": "61679d1b014b66e55c8b1766",
+      "_id": "618bca2fd183d8e150b3073a",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1614"
+      "challengeId": "618bc9fed183d8e150b305e8"
     },
     {
-      "_id": "61679d1b014b66e55c8b176e",
+      "_id": "618bca2fd183d8e150b30742",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b177b",
+      "_id": "618bca2fd183d8e150b3074f",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1616"
+      "challengeId": "618bc9fed183d8e150b305ea"
     },
     {
-      "_id": "61679d1b014b66e55c8b17a3",
+      "_id": "618bca2fd183d8e150b30777",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17c7",
+      "_id": "618bca2fd183d8e150b3079b",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161e"
+      "challengeId": "618bc9fed183d8e150b305f2"
     },
     {
-      "_id": "61679d1b014b66e55c8b17e1",
+      "_id": "618bca2fd183d8e150b307b5",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1840",
+      "_id": "618bca2fd183d8e150b30814",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b1850",
+      "_id": "618bca2fd183d8e150b30824",
       "login": "gstolovitzky",
       "name": "Gustavo Stolovitzky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b185a",
+      "_id": "618bca2fd183d8e150b3082e",
       "login": "hking",
       "name": "Hadley King",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b17f4",
+      "_id": "618bca2fd183d8e150b307c8",
       "login": "hchang",
       "name": "Han Chang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b18b0",
+      "_id": "618bca2fd183d8e150b30884",
       "login": "hfeng",
       "name": "Hanying Feng",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18be",
+      "_id": "618bca2fd183d8e150b30892",
       "login": "hfeng",
       "name": "Hanying Feng",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b1754",
+      "_id": "618bca2fd183d8e150b30728",
       "login": "hcarlson",
       "name": "Heather Carlson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1612"
+      "challengeId": "618bc9fed183d8e150b305e6"
     },
     {
-      "_id": "61679d1b014b66e55c8b182f",
+      "_id": "618bca2fd183d8e150b30803",
       "login": "hsichtig",
       "name": "Heike Sichtig",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b1693",
+      "_id": "618bca2fd183d8e150b30667",
       "login": "hkoeppl",
       "name": "Heinz Koeppl",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b1748",
+      "_id": "618bca2fd183d8e150b3071c",
       "login": "hrodriguez",
       "name": "Henry Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b165a",
+      "_id": "618bca2fd183d8e150b3062e",
       "login": "hsauro",
       "name": "Herbert Sauro",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f6"
+      "challengeId": "618bc9fed183d8e150b305ca"
     },
     {
-      "_id": "61679d1b014b66e55c8b185d",
+      "_id": "618bca2fd183d8e150b30831",
       "login": "hstephens",
       "name": "Holly Stephens",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b1866",
+      "_id": "618bca2fd183d8e150b3083a",
       "login": "hstephens",
       "name": "Holly Stephens",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164d"
+      "challengeId": "618bc9fed183d8e150b30621"
     },
     {
-      "_id": "61679d1b014b66e55c8b1872",
+      "_id": "618bca2fd183d8e150b30846",
       "login": "hstephens",
       "name": "Holly Stephens",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b187f",
+      "_id": "618bca2fd183d8e150b30853",
       "login": "hstephens",
       "name": "Holly Stephens",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b188b",
+      "_id": "618bca2fd183d8e150b3085f",
       "login": "hstephens",
       "name": "Holly Stephens",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b1893",
+      "_id": "618bca2fd183d8e150b30867",
       "login": "hstephens",
       "name": "Holly Stephens",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1651"
+      "challengeId": "618bc9fed183d8e150b30625"
     },
     {
-      "_id": "61679d1b014b66e55c8b189d",
+      "_id": "618bca2fd183d8e150b30871",
       "login": "hstephens",
       "name": "Holly Stephens",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b18a5",
+      "_id": "618bca2fd183d8e150b30879",
       "login": "hstephens",
       "name": "Holly Stephens",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18b3",
+      "_id": "618bca2fd183d8e150b30887",
       "login": "hstephens",
       "name": "Holly Stephens",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b1803",
+      "_id": "618bca2fd183d8e150b307d7",
       "login": "ifriedberg",
       "name": "Iddo Friedberg",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1645"
+      "challengeId": "618bc9fed183d8e150b30619"
     },
     {
-      "_id": "61679d1b014b66e55c8b1792",
+      "_id": "618bca2fd183d8e150b30766",
       "login": "isalvador",
       "name": "Irepan Salvador",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b17b1",
+      "_id": "618bca2fd183d8e150b30785",
       "login": "jroberts",
       "name": "Jacob Roberts",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17c8",
+      "_id": "618bca2fd183d8e150b3079c",
       "login": "jychen",
       "name": "Jake Y. Chen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161e"
+      "challengeId": "618bc9fed183d8e150b305f2"
     },
     {
-      "_id": "61679d1b014b66e55c8b1675",
+      "_id": "618bca2fd183d8e150b30649",
       "login": "jcostello",
       "name": "James Costello",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b171e",
+      "_id": "618bca2fd183d8e150b306f2",
       "login": "jcostello",
       "name": "James Costello",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160a"
+      "challengeId": "618bc9fed183d8e150b305de"
     },
     {
-      "_id": "61679d1b014b66e55c8b177c",
+      "_id": "618bca2fd183d8e150b30750",
       "login": "jcostello",
       "name": "James Costello",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1616"
+      "challengeId": "618bc9fed183d8e150b305ea"
     },
     {
-      "_id": "61679d1b014b66e55c8b17c9",
+      "_id": "618bca2fd183d8e150b3079d",
       "login": "jcostello",
       "name": "James Costello",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161e"
+      "challengeId": "618bc9fed183d8e150b305f2"
     },
     {
-      "_id": "61679d1b014b66e55c8b1733",
+      "_id": "618bca2fd183d8e150b30707",
       "login": "jeddy",
       "name": "James Eddy",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160f"
+      "challengeId": "618bc9fed183d8e150b305e3"
     },
     {
-      "_id": "61679d1b014b66e55c8b17be",
+      "_id": "618bca2fd183d8e150b30792",
       "login": "jeddy",
       "name": "James Eddy",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b180f",
+      "_id": "618bca2fd183d8e150b307e3",
       "login": "jeddy",
       "name": "James Eddy",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b187e",
+      "_id": "618bca2fd183d8e150b30852",
       "login": "jchin",
       "name": "Jason Chin",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b1834",
+      "_id": "618bca2fd183d8e150b30808",
       "login": "jkralj",
       "name": "Jason Kralj",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b1685",
+      "_id": "618bca2fd183d8e150b30659",
       "login": "jhodgson",
       "name": "Jay Hodgson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1694",
+      "_id": "618bca2fd183d8e150b30668",
       "login": "jhodgson",
       "name": "Jay Hodgson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b1793",
+      "_id": "618bca2fd183d8e150b30767",
       "login": "jshendure",
       "name": "Jay Shendure",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b16a3",
+      "_id": "618bca2fd183d8e150b30677",
       "login": "jgreenberg",
       "name": "Jeff Greenberg",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b1817",
+      "_id": "618bca2fd183d8e150b307eb",
       "login": "jdrudie",
       "name": "Jeffrey D. Rudie",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b17b2",
+      "_id": "618bca2fd183d8e150b30786",
       "login": "jtyner",
       "name": "Jeffrey Tyner",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ca",
+      "_id": "618bca2fd183d8e150b3079e",
       "login": "jwang",
       "name": "Jelai Wang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161e"
+      "challengeId": "618bc9fed183d8e150b305f2"
     },
     {
-      "_id": "61679d1b014b66e55c8b17f5",
+      "_id": "618bca2fd183d8e150b307c9",
       "login": "jsanzari",
       "name": "Jenine Sanzari",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b17bf",
+      "_id": "618bca2fd183d8e150b30793",
       "login": "jcouch",
       "name": "Jennifer Couch",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b16cf",
+      "_id": "618bca2fd183d8e150b306a3",
       "login": "jboehm",
       "name": "Jesse Boehm",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1686",
+      "_id": "618bca2fd183d8e150b3065a",
       "login": "jyu",
       "name": "Jessen Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1810",
+      "_id": "618bca2fd183d8e150b307e4",
       "login": "jzheng",
       "name": "Jiaxin Zheng",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b16a4",
+      "_id": "618bca2fd183d8e150b30678",
       "login": "jcui",
       "name": "Jing Cui",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b167a",
+      "_id": "618bca2fd183d8e150b3064e",
       "login": "jgray",
       "name": "Joe Gray",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b182e",
+      "_id": "618bca2fd183d8e150b30802",
       "login": "jdidion",
       "name": "John Didion",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b1842",
+      "_id": "618bca2fd183d8e150b30816",
       "login": "jdidion",
       "name": "John Didion",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b1852",
+      "_id": "618bca2fd183d8e150b30826",
       "login": "jdidion",
       "name": "John Didion",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b185b",
+      "_id": "618bca2fd183d8e150b3082f",
       "login": "jdidion",
       "name": "John Didion",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b186f",
+      "_id": "618bca2fd183d8e150b30843",
       "login": "jdidion",
       "name": "John Didion",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b187c",
+      "_id": "618bca2fd183d8e150b30850",
       "login": "jdidion",
       "name": "John Didion",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b18aa",
+      "_id": "618bca2fd183d8e150b3087e",
       "login": "jdidion",
       "name": "John Didion",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18b8",
+      "_id": "618bca2fd183d8e150b3088c",
       "login": "jdidion",
       "name": "John Didion",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b16de",
+      "_id": "618bca2fd183d8e150b306b2",
       "login": "jkauwe",
       "name": "John Kauwe",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b181e",
+      "_id": "618bca2fd183d8e150b307f2",
       "login": "jmoult",
       "name": "John Moult",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1647"
+      "challengeId": "618bc9fed183d8e150b3061b"
     },
     {
-      "_id": "61679d1b014b66e55c8b1823",
+      "_id": "618bca2fd183d8e150b307f7",
       "login": "jmoult",
       "name": "John Moult",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1646"
+      "challengeId": "618bc9fed183d8e150b3061a"
     },
     {
-      "_id": "61679d1b014b66e55c8b16fd",
+      "_id": "618bca2fd183d8e150b306d1",
       "login": "jdry",
       "name": "Jonathan Dry",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1605"
+      "challengeId": "618bc9fed183d8e150b305d9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1687",
+      "_id": "618bca2fd183d8e150b3065b",
       "login": "jkarr",
       "name": "Jonathan Karr",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1859",
+      "_id": "618bca2fd183d8e150b3082d",
       "login": "jkeeney",
       "name": "Jonathon Keeney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b186a",
+      "_id": "618bca2fd183d8e150b3083e",
       "login": "jfranklin",
       "name": "Joseph Franklin",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b17f6",
+      "_id": "618bca2fd183d8e150b307ca",
       "login": "jszustakowski",
       "name": "Joseph Szustakowski",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1887",
+      "_id": "618bca2fd183d8e150b3085b",
       "login": "jpatterson",
       "name": "Josh Patterson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b1871",
+      "_id": "618bca2fd183d8e150b30845",
       "login": "jphipps",
       "name": "Josh Phipps",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ae",
+      "_id": "618bca2fd183d8e150b30682",
       "login": "jstuart",
       "name": "Josh Stuart",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fe"
+      "challengeId": "618bc9fed183d8e150b305d2"
     },
     {
-      "_id": "61679d1b014b66e55c8b1703",
+      "_id": "618bca2fd183d8e150b306d7",
       "login": "jstuart",
       "name": "Josh Stuart",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1606"
+      "challengeId": "618bc9fed183d8e150b305da"
     },
     {
-      "_id": "61679d1b014b66e55c8b172b",
+      "_id": "618bca2fd183d8e150b306ff",
       "login": "jstuart",
       "name": "Josh Stuart",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160c"
+      "challengeId": "618bc9fed183d8e150b305e0"
     },
     {
-      "_id": "61679d1b014b66e55c8b1709",
+      "_id": "618bca2fd183d8e150b306dd",
       "login": "jmstuart",
       "name": "Joshua M. Stuart",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1607"
+      "challengeId": "618bc9fed183d8e150b305db"
     },
     {
-      "_id": "61679d1b014b66e55c8b175c",
+      "_id": "618bca2fd183d8e150b30730",
       "login": "jtanevski",
       "name": "Jovan Tanevski",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1613"
+      "challengeId": "618bc9fed183d8e150b305e7"
     },
     {
-      "_id": "61679d1b014b66e55c8b17d3",
+      "_id": "618bca2fd183d8e150b307a7",
       "login": "jkeefe",
       "name": "Julia Keefe",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b176f",
+      "_id": "618bca2fd183d8e150b30743",
       "login": "jbletz",
       "name": "Julie Bletz",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1782",
+      "_id": "618bca2fd183d8e150b30756",
       "login": "jbletz",
       "name": "Julie Bletz",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1617"
+      "challengeId": "618bc9fed183d8e150b305eb"
     },
     {
-      "_id": "61679d1b014b66e55c8b1794",
+      "_id": "618bca2fd183d8e150b30768",
       "login": "jbletz",
       "name": "Julie Bletz",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b17a4",
+      "_id": "618bca2fd183d8e150b30778",
       "login": "jbletz",
       "name": "Julie Bletz",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17b3",
+      "_id": "618bca2fd183d8e150b30787",
       "login": "jbletz",
       "name": "Julie Bletz",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17e2",
+      "_id": "618bca2fd183d8e150b307b6",
       "login": "jbletz",
       "name": "Julie Bletz",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b165c",
+      "_id": "618bca2fd183d8e150b30630",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f6"
+      "challengeId": "618bc9fed183d8e150b305ca"
     },
     {
-      "_id": "61679d1b014b66e55c8b1676",
+      "_id": "618bca2fd183d8e150b3064a",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b1688",
+      "_id": "618bca2fd183d8e150b3065c",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1695",
+      "_id": "618bca2fd183d8e150b30669",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b16fe",
+      "_id": "618bca2fd183d8e150b306d2",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1605"
+      "challengeId": "618bc9fed183d8e150b305d9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1714",
+      "_id": "618bca2fd183d8e150b306e8",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     },
     {
-      "_id": "61679d1b014b66e55c8b1749",
+      "_id": "618bca2fd183d8e150b3071d",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b175d",
+      "_id": "618bca2fd183d8e150b30731",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1613"
+      "challengeId": "618bc9fed183d8e150b305e7"
     },
     {
-      "_id": "61679d1b014b66e55c8b1783",
+      "_id": "618bca2fd183d8e150b30757",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1617"
+      "challengeId": "618bc9fed183d8e150b305eb"
     },
     {
-      "_id": "61679d1b014b66e55c8b17a5",
+      "_id": "618bca2fd183d8e150b30779",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17e3",
+      "_id": "618bca2fd183d8e150b307b7",
       "login": "jsaezrodriguez",
       "name": "Julio Saez-Rodriguez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ff",
+      "_id": "618bca2fd183d8e150b306d3",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1605"
+      "challengeId": "618bc9fed183d8e150b305d9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1734",
+      "_id": "618bca2fd183d8e150b30708",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160f"
+      "challengeId": "618bc9fed183d8e150b305e3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1755",
+      "_id": "618bca2fd183d8e150b30729",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1612"
+      "challengeId": "618bc9fed183d8e150b305e6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1767",
+      "_id": "618bca2fd183d8e150b3073b",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1614"
+      "challengeId": "618bc9fed183d8e150b305e8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1788",
+      "_id": "618bca2fd183d8e150b3075c",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1618"
+      "challengeId": "618bc9fed183d8e150b305ec"
     },
     {
-      "_id": "61679d1b014b66e55c8b17a6",
+      "_id": "618bca2fd183d8e150b3077a",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17b4",
+      "_id": "618bca2fd183d8e150b30788",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17c0",
+      "_id": "618bca2fd183d8e150b30794",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b17e4",
+      "_id": "618bca2fd183d8e150b307b8",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b17e7",
+      "_id": "618bca2fd183d8e150b307bb",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1621"
+      "challengeId": "618bc9fed183d8e150b305f5"
     },
     {
-      "_id": "61679d1b014b66e55c8b17f7",
+      "_id": "618bca2fd183d8e150b307cb",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1802",
+      "_id": "618bca2fd183d8e150b307d6",
       "login": "jguinney",
       "name": "Justin Guinney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1623"
+      "challengeId": "618bc9fed183d8e150b305f7"
     },
     {
-      "_id": "61679d1b014b66e55c8b1789",
+      "_id": "618bca2fd183d8e150b3075d",
       "login": "jprosser",
       "name": "Justin Prosser",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1618"
+      "challengeId": "618bc9fed183d8e150b305ec"
     },
     {
-      "_id": "61679d1b014b66e55c8b17e8",
+      "_id": "618bca2fd183d8e150b307bc",
       "login": "jprosser",
       "name": "Justin Prosser",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1621"
+      "challengeId": "618bc9fed183d8e150b305f5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1876",
+      "_id": "618bca2fd183d8e150b3084a",
       "login": "jwagner",
       "name": "Justin Wagner",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b1875",
+      "_id": "618bca2fd183d8e150b30849",
       "login": "jzook",
       "name": "Justin Zook",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b16be",
+      "_id": "618bca2fd183d8e150b30692",
       "login": "kwlin",
       "name": "Ka Wai Lin",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1689",
+      "_id": "618bca2fd183d8e150b3065d",
       "login": "krhrissorrakrai",
       "name": "Kahn Rhrissorrakrai",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b16bf",
+      "_id": "618bca2fd183d8e150b30693",
       "login": "krhrissorrakrai",
       "name": "Kahn Rhrissorrakrai",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b16a5",
+      "_id": "618bca2fd183d8e150b30679",
       "login": "kmichaud",
       "name": "Kaleb Michaud",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b1715",
+      "_id": "618bca2fd183d8e150b306e9",
       "login": "klage",
       "name": "Kasper Lage",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     },
     {
-      "_id": "61679d1b014b66e55c8b1795",
+      "_id": "618bca2fd183d8e150b30769",
       "login": "krichmond",
       "name": "Kathryn Richmond",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b1770",
+      "_id": "618bca2fd183d8e150b30744",
       "login": "kbuttonsimons",
       "name": "Katrina Button-Simons",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b16f4",
+      "_id": "618bca2fd183d8e150b306c8",
       "login": "knorel",
       "name": "Kely Norel",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1604"
+      "challengeId": "618bc9fed183d8e150b305d8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1735",
+      "_id": "618bca2fd183d8e150b30709",
       "login": "kosborn",
       "name": "Kevin Osborn",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160f"
+      "challengeId": "618bc9fed183d8e150b305e3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1805",
+      "_id": "618bca2fd183d8e150b307d9",
       "login": "kfarahani",
       "name": "Keyvan Farahani",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b181d",
+      "_id": "618bca2fd183d8e150b307f1",
       "login": "kreynolds",
       "name": "Kimberly Reynolds",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1645"
+      "challengeId": "618bc9fed183d8e150b30619"
     },
     {
-      "_id": "61679d1b014b66e55c8b1756",
+      "_id": "618bca2fd183d8e150b3072a",
       "login": "kdang",
       "name": "Kristen Dang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1612"
+      "challengeId": "618bc9fed183d8e150b305e6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1768",
+      "_id": "618bca2fd183d8e150b3073c",
       "login": "kdang",
       "name": "Kristen Dang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1614"
+      "challengeId": "618bc9fed183d8e150b305e8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1865",
+      "_id": "618bca2fd183d8e150b30839",
       "login": "kbhuvaneshwar",
       "name": "Krithika Bhuvaneshwar",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164d"
+      "challengeId": "618bc9fed183d8e150b30621"
     },
     {
-      "_id": "61679d1b014b66e55c8b17b5",
+      "_id": "618bca2fd183d8e150b30789",
       "login": "krivers",
       "name": "Krystal Rivers",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b181f",
+      "_id": "618bca2fd183d8e150b307f3",
       "login": "kfidelis",
       "name": "Krzysztof Fidelis",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1647"
+      "challengeId": "618bc9fed183d8e150b3061b"
     },
     {
-      "_id": "61679d1b014b66e55c8b1824",
+      "_id": "618bca2fd183d8e150b307f8",
       "login": "kfidelis",
       "name": "Krzysztof Fidelis",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1646"
+      "challengeId": "618bc9fed183d8e150b3061a"
     },
     {
-      "_id": "61679d1b014b66e55c8b170a",
+      "_id": "618bca2fd183d8e150b306de",
       "login": "kellrott",
       "name": "Kyle Ellrott",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1607"
+      "challengeId": "618bc9fed183d8e150b305db"
     },
     {
-      "_id": "61679d1b014b66e55c8b172c",
+      "_id": "618bca2fd183d8e150b30700",
       "login": "kellrott",
       "name": "Kyle Ellrott",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160c"
+      "challengeId": "618bc9fed183d8e150b305e0"
     },
     {
-      "_id": "61679d1b014b66e55c8b165f",
+      "_id": "618bca2fd183d8e150b30633",
       "login": "kkim",
       "name": "Kyung-Hyuk Kim",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f6"
+      "challengeId": "618bc9fed183d8e150b305ca"
     },
     {
-      "_id": "61679d1b014b66e55c8b16a6",
+      "_id": "618bca2fd183d8e150b3067a",
       "login": "lmangravite",
       "name": "Lara Mangravite",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b16df",
+      "_id": "618bca2fd183d8e150b306b3",
       "login": "lmangravite",
       "name": "Lara Mangravite",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b16f5",
+      "_id": "618bca2fd183d8e150b306c9",
       "login": "lmangravite",
       "name": "Lara Mangravite",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1604"
+      "challengeId": "618bc9fed183d8e150b305d8"
     },
     {
-      "_id": "61679d1b014b66e55c8b173b",
+      "_id": "618bca2fd183d8e150b3070f",
       "login": "lmangravite",
       "name": "Lara Mangravite",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b173c",
+      "_id": "618bca2fd183d8e150b30710",
       "login": "lomberg",
       "name": "Larsson Omberg",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b17d4",
+      "_id": "618bca2fd183d8e150b307a8",
       "login": "lomberg",
       "name": "Larsson Omberg",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1673",
+      "_id": "618bca2fd183d8e150b30647",
       "login": "lheiser",
       "name": "Laura Heiser",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b1696",
+      "_id": "618bca2fd183d8e150b3066a",
       "login": "lheiser",
       "name": "Laura Heiser",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b171f",
+      "_id": "618bca2fd183d8e150b306f3",
       "login": "lheiser",
       "name": "Laura Heiser",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160a"
+      "challengeId": "618bc9fed183d8e150b305de"
     },
     {
-      "_id": "61679d1b014b66e55c8b166b",
+      "_id": "618bca2fd183d8e150b3063f",
       "login": "lvveer",
       "name": "Laura Van't Veer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b173d",
+      "_id": "618bca2fd183d8e150b30711",
       "login": "lbataille",
       "name": "Lauren Bataille",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ee",
+      "_id": "618bca2fd183d8e150b306c2",
       "login": "lvosshall",
       "name": "Leslie Vosshall",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b18ad",
+      "_id": "618bca2fd183d8e150b30881",
       "login": "lchen",
       "name": "Li Chen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18bb",
+      "_id": "618bca2fd183d8e150b3088f",
       "login": "lchen",
       "name": "Li Chen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b16af",
+      "_id": "618bca2fd183d8e150b30683",
       "login": "ldstein",
       "name": "Lincoln D. Stein",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fe"
+      "challengeId": "618bc9fed183d8e150b305d2"
     },
     {
-      "_id": "61679d1b014b66e55c8b16c0",
+      "_id": "618bca2fd183d8e150b30694",
       "login": "lgeda",
       "name": "Lisa Geda",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b186c",
+      "_id": "618bca2fd183d8e150b30840",
       "login": "lsmith",
       "name": "Lonnie Smith",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b17d5",
+      "_id": "618bca2fd183d8e150b307a9",
       "login": "lsmolensky",
       "name": "Luba Smolensky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b17d6",
+      "_id": "618bca2fd183d8e150b307aa",
       "login": "lfoschini",
       "name": "Luca Foschini",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1816",
+      "_id": "618bca2fd183d8e150b307ea",
       "login": "lmprevedello",
       "name": "Luciano M. Prevedello",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b17a7",
+      "_id": "618bca2fd183d8e150b3077b",
       "login": "maburi",
       "name": "Mahalaxmi Aburi",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b1839",
+      "_id": "618bca2fd183d8e150b3080d",
       "login": "mhaznadar",
       "name": "Majda Haznadar",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b1849",
+      "_id": "618bca2fd183d8e150b3081d",
       "login": "mhaznadar",
       "name": "Majda Haznadar",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b1784",
+      "_id": "618bca2fd183d8e150b30758",
       "login": "mtognetti",
       "name": "Marco Tognetti",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1617"
+      "challengeId": "618bc9fed183d8e150b305eb"
     },
     {
-      "_id": "61679d1b014b66e55c8b177d",
+      "_id": "618bca2fd183d8e150b30751",
       "login": "msirota",
       "name": "Marina Sirota",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1616"
+      "challengeId": "618bc9fed183d8e150b305ea"
     },
     {
-      "_id": "61679d1b014b66e55c8b17d7",
+      "_id": "618bca2fd183d8e150b307ab",
       "login": "mfrasier",
       "name": "Mark Frasier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b181c",
+      "_id": "618bca2fd183d8e150b307f0",
       "login": "mwass",
       "name": "Mark Wass",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1645"
+      "challengeId": "618bc9fed183d8e150b30619"
     },
     {
-      "_id": "61679d1b014b66e55c8b168a",
+      "_id": "618bca2fd183d8e150b3065e",
       "login": "mcovert",
       "name": "Markus Covert",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b17cb",
+      "_id": "618bca2fd183d8e150b3079f",
       "login": "mfrazier",
       "name": "Mason Frazier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161e"
+      "challengeId": "618bc9fed183d8e150b305f2"
     },
     {
-      "_id": "61679d1b014b66e55c8b1796",
+      "_id": "618bca2fd183d8e150b3076a",
       "login": "mtelford",
       "name": "Max Telford",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b1822",
+      "_id": "618bca2fd183d8e150b307f6",
       "login": "mtopf",
       "name": "Maya Topf",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1647"
+      "challengeId": "618bc9fed183d8e150b3061b"
     },
     {
-      "_id": "61679d1b014b66e55c8b1827",
+      "_id": "618bca2fd183d8e150b307fb",
       "login": "mtopf",
       "name": "Maya Topf",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1646"
+      "challengeId": "618bc9fed183d8e150b3061a"
     },
     {
-      "_id": "61679d1b014b66e55c8b16d0",
+      "_id": "618bca2fd183d8e150b306a4",
       "login": "mgonen",
       "name": "Mehmet Gonen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b166e",
+      "_id": "618bca2fd183d8e150b30642",
       "login": "mleitner",
       "name": "Melanie Leitner",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f8"
+      "challengeId": "618bc9fed183d8e150b305cc"
     },
     {
-      "_id": "61679d1b014b66e55c8b17c1",
+      "_id": "618bca2fd183d8e150b30795",
       "login": "mhaendel",
       "name": "Melissa Haendel",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b16f6",
+      "_id": "618bca2fd183d8e150b306ca",
       "login": "mcudkowicz",
       "name": "Merit Cudkowicz",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1604"
+      "challengeId": "618bc9fed183d8e150b305d8"
     },
     {
-      "_id": "61679d1b014b66e55c8b16e0",
+      "_id": "618bca2fd183d8e150b306b4",
       "login": "mpeters",
       "name": "Mette Peters",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b174a",
+      "_id": "618bca2fd183d8e150b3071e",
       "login": "myang",
       "name": "Mi Yang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1797",
+      "_id": "618bca2fd183d8e150b3076b",
       "login": "melowitz",
       "name": "Michael Elowitz",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b1771",
+      "_id": "618bca2fd183d8e150b30745",
       "login": "mmason",
       "name": "Michael Mason",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1798",
+      "_id": "618bca2fd183d8e150b3076c",
       "login": "mmason",
       "name": "Michael Mason",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b17b6",
+      "_id": "618bca2fd183d8e150b3078a",
       "login": "mmason",
       "name": "Michael Mason",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17f8",
+      "_id": "618bca2fd183d8e150b307cc",
       "login": "mmason",
       "name": "Michael Mason",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1677",
+      "_id": "618bca2fd183d8e150b3064b",
       "login": "mmenden",
       "name": "Michael Menden",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b1772",
+      "_id": "618bca2fd183d8e150b30746",
       "login": "mtferdig",
       "name": "Michael T. Ferdig",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1697",
+      "_id": "618bca2fd183d8e150b3066b",
       "login": "munger",
       "name": "Michael Unger",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17e9",
+      "_id": "618bca2fd183d8e150b307bd",
       "login": "mmason",
       "name": "Micheal Mason",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1621"
+      "challengeId": "618bc9fed183d8e150b305f5"
     },
     {
-      "_id": "61679d1b014b66e55c8b180a",
+      "_id": "618bca2fd183d8e150b307de",
       "login": "mbilello",
       "name": "Michel Bilello",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1663",
+      "_id": "618bca2fd183d8e150b30637",
       "login": "mkellen",
       "name": "Mike Kellen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b168b",
+      "_id": "618bca2fd183d8e150b3065f",
       "login": "mkellen",
       "name": "Mike Kellen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b1698",
+      "_id": "618bca2fd183d8e150b3066c",
       "login": "mkellen",
       "name": "Mike Kellen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17f9",
+      "_id": "618bca2fd183d8e150b307cd",
       "login": "mshaikh",
       "name": "Mohammad Shaikh",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1674",
+      "_id": "618bca2fd183d8e150b30648",
       "login": "mbansal",
       "name": "Mukesh Bansal",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f9"
+      "challengeId": "618bc9fed183d8e150b305cd"
     },
     {
-      "_id": "61679d1b014b66e55c8b1877",
+      "_id": "618bca2fd183d8e150b3084b",
       "login": "nolson",
       "name": "Nate Olson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b1720",
+      "_id": "618bca2fd183d8e150b306f4",
       "login": "nboley",
       "name": "Nathan Boley",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160a"
+      "challengeId": "618bc9fed183d8e150b305de"
     },
     {
-      "_id": "61679d1b014b66e55c8b1672",
+      "_id": "618bca2fd183d8e150b30646",
       "login": "nzach",
       "name": "Neta Zach",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f8"
+      "challengeId": "618bc9fed183d8e150b305cc"
     },
     {
-      "_id": "61679d1b014b66e55c8b16f7",
+      "_id": "618bca2fd183d8e150b306cb",
       "login": "nzach",
       "name": "Neta Zach",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1604"
+      "challengeId": "618bc9fed183d8e150b305d8"
     },
     {
-      "_id": "61679d1b014b66e55c8b17d8",
+      "_id": "618bca2fd183d8e150b307ac",
       "login": "nshawen",
       "name": "Nicholas Shawen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b16e1",
+      "_id": "618bca2fd183d8e150b306b5",
       "login": "ntustison",
       "name": "Nicholas Tustison",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1773",
+      "_id": "618bca2fd183d8e150b30747",
       "login": "nmulder",
       "name": "Nicola Mulder",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1799",
+      "_id": "618bca2fd183d8e150b3076d",
       "login": "nhuber",
       "name": "Nicole Huber",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b175e",
+      "_id": "618bca2fd183d8e150b30732",
       "login": "nrajewsky",
       "name": "Nikolaus Rajewsky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1613"
+      "challengeId": "618bc9fed183d8e150b305e7"
     },
     {
-      "_id": "61679d1b014b66e55c8b175f",
+      "_id": "618bca2fd183d8e150b30733",
       "login": "nkaraiskos",
       "name": "Nikos Karaiskos",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1613"
+      "challengeId": "618bc9fed183d8e150b305e7"
     },
     {
-      "_id": "61679d1b014b66e55c8b177e",
+      "_id": "618bca2fd183d8e150b30752",
       "login": "naghaeepour",
       "name": "Nima Aghaeepour",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1616"
+      "challengeId": "618bc9fed183d8e150b305ea"
     },
     {
-      "_id": "61679d1b014b66e55c8b179a",
+      "_id": "618bca2fd183d8e150b3076e",
       "login": "oraz",
       "name": "Ofir Raz",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b17fa",
+      "_id": "618bca2fd183d8e150b307ce",
       "login": "omoiseyenko",
       "name": "Oleg Moiseyenko",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b186e",
+      "_id": "618bca2fd183d8e150b30842",
       "login": "oserang",
       "name": "Omar Serang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b187b",
+      "_id": "618bca2fd183d8e150b3084f",
       "login": "oserang",
       "name": "Omar Serang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b1895",
+      "_id": "618bca2fd183d8e150b30869",
       "login": "oserang",
       "name": "Omar Serang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1651"
+      "challengeId": "618bc9fed183d8e150b30625"
     },
     {
-      "_id": "61679d1b014b66e55c8b16f8",
+      "_id": "618bca2fd183d8e150b306cc",
       "login": "ohardiman",
       "name": "Orla Hardiman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1604"
+      "challengeId": "618bc9fed183d8e150b305d8"
     },
     {
-      "_id": "61679d1b014b66e55c8b165b",
+      "_id": "618bca2fd183d8e150b3062f",
       "login": "pmeyer",
       "name": "Pablo Meyer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f6"
+      "challengeId": "618bc9fed183d8e150b305ca"
     },
     {
-      "_id": "61679d1b014b66e55c8b168c",
+      "_id": "618bca2fd183d8e150b30660",
       "login": "pmeyer",
       "name": "Pablo Meyer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ef",
+      "_id": "618bca2fd183d8e150b306c3",
       "login": "pmeyer",
       "name": "Pablo Meyer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1760",
+      "_id": "618bca2fd183d8e150b30734",
       "login": "pmeyer",
       "name": "Pablo Meyer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1613"
+      "challengeId": "618bc9fed183d8e150b305e7"
     },
     {
-      "_id": "61679d1b014b66e55c8b1774",
+      "_id": "618bca2fd183d8e150b30748",
       "login": "pmeyer",
       "name": "Pablo Meyer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b179b",
+      "_id": "618bca2fd183d8e150b3076f",
       "login": "pmeyer",
       "name": "Pablo Meyer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b17b7",
+      "_id": "618bca2fd183d8e150b3078b",
       "login": "pbirriel",
       "name": "Pamela Birriel",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b1785",
+      "_id": "618bca2fd183d8e150b30759",
       "login": "ppicotti",
       "name": "Paola Picotti",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1617"
+      "challengeId": "618bc9fed183d8e150b305eb"
     },
     {
-      "_id": "61679d1b014b66e55c8b173e",
+      "_id": "618bca2fd183d8e150b30712",
       "login": "pbonato",
       "name": "Paolo Bonato",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16d1",
+      "_id": "618bca2fd183d8e150b306a5",
       "login": "pvazquez",
       "name": "Paquita Vazquez",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b17fb",
+      "_id": "618bca2fd183d8e150b307cf",
       "login": "pdoshi",
       "name": "Parul Doshi",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b173f",
+      "_id": "618bca2fd183d8e150b30713",
       "login": "paubin",
       "name": "Patrick Aubin",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16b0",
+      "_id": "618bca2fd183d8e150b30684",
       "login": "pcboutros",
       "name": "Paul C. Boutros",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fe"
+      "challengeId": "618bc9fed183d8e150b305d2"
     },
     {
-      "_id": "61679d1b014b66e55c8b1704",
+      "_id": "618bca2fd183d8e150b306d8",
       "login": "pcboutros",
       "name": "Paul C. Boutros",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1606"
+      "challengeId": "618bc9fed183d8e150b305da"
     },
     {
-      "_id": "61679d1b014b66e55c8b170b",
+      "_id": "618bca2fd183d8e150b306df",
       "login": "pcboutros",
       "name": "Paul C. Boutros",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1607"
+      "challengeId": "618bc9fed183d8e150b305db"
     },
     {
-      "_id": "61679d1b014b66e55c8b172e",
+      "_id": "618bca2fd183d8e150b30702",
       "login": "pcboutros",
       "name": "Paul C. Boutros",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160c"
+      "challengeId": "618bc9fed183d8e150b305e0"
     },
     {
-      "_id": "61679d1b014b66e55c8b174b",
+      "_id": "618bca2fd183d8e150b3071f",
       "login": "pcboutros",
       "name": "Paul C. Boutros",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b172d",
+      "_id": "618bca2fd183d8e150b30701",
       "login": "pspellman",
       "name": "Paul Spellman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160c"
+      "challengeId": "618bc9fed183d8e150b305e0"
     },
     {
-      "_id": "61679d1b014b66e55c8b174c",
+      "_id": "618bca2fd183d8e150b30720",
       "login": "pwang",
       "name": "Pei Wang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b183e",
+      "_id": "618bca2fd183d8e150b30812",
       "login": "pwang",
       "name": "Pei Wang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b184e",
+      "_id": "618bca2fd183d8e150b30822",
       "login": "pwang",
       "name": "Pei Wang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b17cc",
+      "_id": "618bca2fd183d8e150b307a0",
       "login": "psgulko",
       "name": "Percio S. Gulko",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161e"
+      "challengeId": "618bc9fed183d8e150b305f2"
     },
     {
-      "_id": "61679d1b014b66e55c8b1740",
+      "_id": "618bca2fd183d8e150b30714",
       "login": "pbanda",
       "name": "Peter Banda",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16a7",
+      "_id": "618bca2fd183d8e150b3067b",
       "login": "pgregersen",
       "name": "Peter Gregersen",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b170c",
+      "_id": "618bca2fd183d8e150b306e0",
       "login": "pvloo",
       "name": "Peter Van Loo",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1607"
+      "challengeId": "618bc9fed183d8e150b305db"
     },
     {
-      "_id": "61679d1b014b66e55c8b17d9",
+      "_id": "618bca2fd183d8e150b307ad",
       "login": "psnyder",
       "name": "Phil Snyder",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b168d",
+      "_id": "618bca2fd183d8e150b30661",
       "login": "ploh",
       "name": "Po-Ru Loh",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b181a",
+      "_id": "618bca2fd183d8e150b307ee",
       "login": "pradivojac",
       "name": "Predrag Radivojac",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1645"
+      "challengeId": "618bc9fed183d8e150b30619"
     },
     {
-      "_id": "61679d1b014b66e55c8b18ab",
+      "_id": "618bca2fd183d8e150b3087f",
       "login": "qmao",
       "name": "Qing Mao",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18b9",
+      "_id": "618bca2fd183d8e150b3088d",
       "login": "qmao",
       "name": "Qing Mao",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b170d",
+      "_id": "618bca2fd183d8e150b306e1",
       "login": "qdmorris",
       "name": "Quaid D. Morris",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1607"
+      "challengeId": "618bc9fed183d8e150b305db"
     },
     {
-      "_id": "61679d1b014b66e55c8b18ae",
+      "_id": "618bca2fd183d8e150b30882",
       "login": "raldana",
       "name": "Rafael Aldana",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18bc",
+      "_id": "618bca2fd183d8e150b30890",
       "login": "raldana",
       "name": "Rafael Aldana",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b18ac",
+      "_id": "618bca2fd183d8e150b30880",
       "login": "rpatidar",
       "name": "Rajesh Patidar",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18ba",
+      "_id": "618bca2fd183d8e150b3088e",
       "login": "rpatidar",
       "name": "Rajesh Patidar",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b16c1",
+      "_id": "618bca2fd183d8e150b30695",
       "login": "rsweidan",
       "name": "Ramy Sweidan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b166f",
+      "_id": "618bca2fd183d8e150b30643",
       "login": "rnorel",
       "name": "Raquel Norel",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f8"
+      "challengeId": "618bc9fed183d8e150b305cc"
     },
     {
-      "_id": "61679d1b014b66e55c8b16c2",
+      "_id": "618bca2fd183d8e150b30696",
       "login": "rnorel",
       "name": "Raquel Norel",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b16f0",
+      "_id": "618bca2fd183d8e150b306c4",
       "login": "rnorel",
       "name": "Raquel Norel",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1885",
+      "_id": "618bca2fd183d8e150b30859",
       "login": "rgoud",
       "name": "Ravi Goud",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b1741",
+      "_id": "618bca2fd183d8e150b30715",
       "login": "rdorsey",
       "name": "Ray Dorsey",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b166c",
+      "_id": "618bca2fd183d8e150b30640",
       "login": "rbetensky",
       "name": "Rebecca Betensky",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f8"
+      "challengeId": "618bc9fed183d8e150b305cc"
     },
     {
-      "_id": "61679d1b014b66e55c8b174d",
+      "_id": "618bca2fd183d8e150b30721",
       "login": "rghanadan",
       "name": "Reza Ghanadan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b16e2",
+      "_id": "618bca2fd183d8e150b306b6",
       "login": "rdobson",
       "name": "Richard Dobson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1757",
+      "_id": "618bca2fd183d8e150b3072b",
       "login": "rallaway",
       "name": "Robert Allaway",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1612"
+      "challengeId": "618bc9fed183d8e150b305e6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1769",
+      "_id": "618bca2fd183d8e150b3073d",
       "login": "rallaway",
       "name": "Robert Allaway",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1614"
+      "challengeId": "618bc9fed183d8e150b305e8"
     },
     {
-      "_id": "61679d1b014b66e55c8b17a8",
+      "_id": "618bca2fd183d8e150b3077c",
       "login": "rallaway",
       "name": "Robert Allaway",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17cd",
+      "_id": "618bca2fd183d8e150b307a1",
       "login": "rallaway",
       "name": "Robert Allaway",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161e"
+      "challengeId": "618bc9fed183d8e150b305f2"
     },
     {
-      "_id": "61679d1b014b66e55c8b17e5",
+      "_id": "618bca2fd183d8e150b307b9",
       "login": "rallaway",
       "name": "Robert Allaway",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b166d",
+      "_id": "618bca2fd183d8e150b30641",
       "login": "rkueffner",
       "name": "Robert Kueffner",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f8"
+      "challengeId": "618bc9fed183d8e150b305cc"
     },
     {
-      "_id": "61679d1b014b66e55c8b16f9",
+      "_id": "618bca2fd183d8e150b306cd",
       "login": "rkuffner",
       "name": "Robert Kuffner",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1604"
+      "challengeId": "618bc9fed183d8e150b305d8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1721",
+      "_id": "618bca2fd183d8e150b306f5",
       "login": "rkuffner",
       "name": "Robert Kuffner",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160a"
+      "challengeId": "618bc9fed183d8e150b305de"
     },
     {
-      "_id": "61679d1b014b66e55c8b16a8",
+      "_id": "618bca2fd183d8e150b3067c",
       "login": "rplenge",
       "name": "Robert Plenge",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b177f",
+      "_id": "618bca2fd183d8e150b30753",
       "login": "rromero",
       "name": "Roberto Romero",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1616"
+      "challengeId": "618bc9fed183d8e150b305ea"
     },
     {
-      "_id": "61679d1b014b66e55c8b17fc",
+      "_id": "618bca2fd183d8e150b307d0",
       "login": "rchai",
       "name": "Rong Chai",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1811",
+      "_id": "618bca2fd183d8e150b307e5",
       "login": "rchai",
       "name": "Rong Chai",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1758",
+      "_id": "618bca2fd183d8e150b3072c",
       "login": "rcagan",
       "name": "Ross Cagan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1612"
+      "challengeId": "618bc9fed183d8e150b305e6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1759",
+      "_id": "618bca2fd183d8e150b3072d",
       "login": "rabagyan",
       "name": "Ruben Abagyan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1612"
+      "challengeId": "618bc9fed183d8e150b305e6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1818",
+      "_id": "618bca2fd183d8e150b307ec",
       "login": "rtshinohara",
       "name": "Russell T. Shinohara",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1829",
+      "_id": "618bca2fd183d8e150b307fd",
       "login": "rbandler",
       "name": "Ruth Bandler",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b1836",
+      "_id": "618bca2fd183d8e150b3080a",
       "login": "rbandler",
       "name": "Ruth Bandler",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b1846",
+      "_id": "618bca2fd183d8e150b3081a",
       "login": "rbandler",
       "name": "Ruth Bandler",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b1856",
+      "_id": "618bca2fd183d8e150b3082a",
       "login": "rbandler",
       "name": "Ruth Bandler",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b1861",
+      "_id": "618bca2fd183d8e150b30835",
       "login": "rbandler",
       "name": "Ruth Bandler",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164d"
+      "challengeId": "618bc9fed183d8e150b30621"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ce",
+      "_id": "618bca2fd183d8e150b307a2",
       "login": "slbjr",
       "name": "S. Louis Bridges Jr.",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161e"
+      "challengeId": "618bc9fed183d8e150b305f2"
     },
     {
-      "_id": "61679d1b014b66e55c8b1699",
+      "_id": "618bca2fd183d8e150b3066d",
       "login": "smukherjee",
       "name": "Sach Mukherjee",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b1775",
+      "_id": "618bca2fd183d8e150b30749",
       "login": "sdavis",
       "name": "Sage Davis",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1870",
+      "_id": "618bca2fd183d8e150b30844",
       "login": "swestreich",
       "name": "Sam Westreich",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b187d",
+      "_id": "618bca2fd183d8e150b30851",
       "login": "swestreich",
       "name": "Sam Westreich",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b188d",
+      "_id": "618bca2fd183d8e150b30861",
       "login": "swestreich",
       "name": "Sam Westreich",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b1897",
+      "_id": "618bca2fd183d8e150b3086b",
       "login": "swestreich",
       "name": "Sam Westreich",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1651"
+      "challengeId": "618bc9fed183d8e150b30625"
     },
     {
-      "_id": "61679d1b014b66e55c8b189e",
+      "_id": "618bca2fd183d8e150b30872",
       "login": "swestreich",
       "name": "Sam Westreich",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b18a9",
+      "_id": "618bca2fd183d8e150b3087d",
       "login": "swestreich",
       "name": "Sam Westreich",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18b7",
+      "_id": "618bca2fd183d8e150b3088b",
       "login": "swestreich",
       "name": "Sam Westreich",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b1883",
+      "_id": "618bca2fd183d8e150b30857",
       "login": "slababidi",
       "name": "Samir Lababidi",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b174e",
+      "_id": "618bca2fd183d8e150b30722",
       "login": "spayne",
       "name": "Samuel Payne",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b183a",
+      "_id": "618bca2fd183d8e150b3080e",
       "login": "spayne",
       "name": "Samuel Payne",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b184a",
+      "_id": "618bca2fd183d8e150b3081e",
       "login": "spayne",
       "name": "Samuel Payne",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b16d2",
+      "_id": "618bca2fd183d8e150b306a6",
       "login": "showell",
       "name": "Sara Howell",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1844",
+      "_id": "618bca2fd183d8e150b30818",
       "login": "sprezek",
       "name": "Sarah Prezek",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b1854",
+      "_id": "618bca2fd183d8e150b30828",
       "login": "sprezek",
       "name": "Sarah Prezek",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b185e",
+      "_id": "618bca2fd183d8e150b30832",
       "login": "sprezek",
       "name": "Sarah Prezek",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b189c",
+      "_id": "618bca2fd183d8e150b30870",
       "login": "sprezek",
       "name": "Sarah Prezek",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b18a8",
+      "_id": "618bca2fd183d8e150b3087c",
       "login": "sprezek",
       "name": "Sarah Prezek",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18b6",
+      "_id": "618bca2fd183d8e150b3088a",
       "login": "sprezek",
       "name": "Sarah Prezek",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b1716",
+      "_id": "618bca2fd183d8e150b306ea",
       "login": "schoobdar",
       "name": "Sarvenaz Choobdar",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     },
     {
-      "_id": "61679d1b014b66e55c8b16e3",
+      "_id": "618bca2fd183d8e150b306b7",
       "login": "sghosh",
       "name": "Satrajit Ghosh",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b180b",
+      "_id": "618bca2fd183d8e150b307df",
       "login": "sghodasara",
       "name": "Satyam Ghodasara",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b17fd",
+      "_id": "618bca2fd183d8e150b307d1",
       "login": "schasalow",
       "name": "Scott Chasalow",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1833",
+      "_id": "618bca2fd183d8e150b30807",
       "login": "sjackson",
       "name": "Scott Jackson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b178a",
+      "_id": "618bca2fd183d8e150b3075e",
       "login": "smooney",
       "name": "Sean Mooney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1618"
+      "challengeId": "618bc9fed183d8e150b305ec"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ea",
+      "_id": "618bca2fd183d8e150b307be",
       "login": "smooney",
       "name": "Sean Mooney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1621"
+      "challengeId": "618bc9fed183d8e150b305f5"
     },
     {
-      "_id": "61679d1b014b66e55c8b181b",
+      "_id": "618bca2fd183d8e150b307ef",
       "login": "smooney",
       "name": "Sean Mooney",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1645"
+      "challengeId": "618bc9fed183d8e150b30619"
     },
     {
-      "_id": "61679d1b014b66e55c8b185f",
+      "_id": "618bca2fd183d8e150b30833",
       "login": "swatford",
       "name": "Sean Watford",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b1867",
+      "_id": "618bca2fd183d8e150b3083b",
       "login": "swatford",
       "name": "Sean Watford",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164d"
+      "challengeId": "618bc9fed183d8e150b30621"
     },
     {
-      "_id": "61679d1b014b66e55c8b1873",
+      "_id": "618bca2fd183d8e150b30847",
       "login": "swatford",
       "name": "Sean Watford",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b188c",
+      "_id": "618bca2fd183d8e150b30860",
       "login": "swatford",
       "name": "Sean Watford",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b1894",
+      "_id": "618bca2fd183d8e150b30868",
       "login": "swatford",
       "name": "Sean Watford",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1651"
+      "challengeId": "618bc9fed183d8e150b30625"
     },
     {
-      "_id": "61679d1b014b66e55c8b183f",
+      "_id": "618bca2fd183d8e150b30813",
       "login": "syoo",
       "name": "Seungyeul Yoo",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b184f",
+      "_id": "618bca2fd183d8e150b30823",
       "login": "syoo",
       "name": "Seungyeul Yoo",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b16d3",
+      "_id": "618bca2fd183d8e150b306a7",
       "login": "scarter",
       "name": "Shannon Carter",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b17c2",
+      "_id": "618bca2fd183d8e150b30796",
       "login": "sdcoronado",
       "name": "Sherri De Coronado",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b168e",
+      "_id": "618bca2fd183d8e150b30662",
       "login": "swilkinson",
       "name": "Simon Wilkinson",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b182d",
+      "_id": "618bca2fd183d8e150b30801",
       "login": "sma",
       "name": "Singer Ma",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b1841",
+      "_id": "618bca2fd183d8e150b30815",
       "login": "sma",
       "name": "Singer Ma",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b1851",
+      "_id": "618bca2fd183d8e150b30825",
       "login": "sma",
       "name": "Singer Ma",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b16a9",
+      "_id": "618bca2fd183d8e150b3067d",
       "login": "ssieberts",
       "name": "Solly Sieberts",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b1742",
+      "_id": "618bca2fd183d8e150b30716",
       "login": "ssieberts",
       "name": "Solly Sieberts",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b17da",
+      "_id": "618bca2fd183d8e150b307ae",
       "login": "ssieberts",
       "name": "Solly Sieberts",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161f"
+      "challengeId": "618bc9fed183d8e150b305f3"
     },
     {
-      "_id": "61679d1b014b66e55c8b1804",
+      "_id": "618bca2fd183d8e150b307d8",
       "login": "sbakas",
       "name": "Spyridon Bakas",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b18bf",
+      "_id": "618bca2fd183d8e150b30893",
       "login": "sbakas",
       "name": "Spyridon Bakas",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1655"
+      "challengeId": "618bc9fed183d8e150b30629"
     },
     {
-      "_id": "61679d1b014b66e55c8b166a",
+      "_id": "618bca2fd183d8e150b3063e",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f7"
+      "challengeId": "618bc9fed183d8e150b305cb"
     },
     {
-      "_id": "61679d1b014b66e55c8b16aa",
+      "_id": "618bca2fd183d8e150b3067e",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b16b1",
+      "_id": "618bca2fd183d8e150b30685",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fe"
+      "challengeId": "618bc9fed183d8e150b305d2"
     },
     {
-      "_id": "61679d1b014b66e55c8b16c3",
+      "_id": "618bca2fd183d8e150b30697",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b16d4",
+      "_id": "618bca2fd183d8e150b306a8",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16e4",
+      "_id": "618bca2fd183d8e150b306b8",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b16f1",
+      "_id": "618bca2fd183d8e150b306c5",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b16fa",
+      "_id": "618bca2fd183d8e150b306ce",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1604"
+      "challengeId": "618bc9fed183d8e150b305d8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1700",
+      "_id": "618bca2fd183d8e150b306d4",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1605"
+      "challengeId": "618bc9fed183d8e150b305d9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1705",
+      "_id": "618bca2fd183d8e150b306d9",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1606"
+      "challengeId": "618bc9fed183d8e150b305da"
     },
     {
-      "_id": "61679d1b014b66e55c8b170e",
+      "_id": "618bca2fd183d8e150b306e2",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1607"
+      "challengeId": "618bc9fed183d8e150b305db"
     },
     {
-      "_id": "61679d1b014b66e55c8b1717",
+      "_id": "618bca2fd183d8e150b306eb",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     },
     {
-      "_id": "61679d1b014b66e55c8b1722",
+      "_id": "618bca2fd183d8e150b306f6",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160a"
+      "challengeId": "618bc9fed183d8e150b305de"
     },
     {
-      "_id": "61679d1b014b66e55c8b1727",
+      "_id": "618bca2fd183d8e150b306fb",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160b"
+      "challengeId": "618bc9fed183d8e150b305df"
     },
     {
-      "_id": "61679d1b014b66e55c8b172f",
+      "_id": "618bca2fd183d8e150b30703",
       "login": "sfriend",
       "name": "Stephen Friend",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160c"
+      "challengeId": "618bc9fed183d8e150b305e0"
     },
     {
-      "_id": "61679d1b014b66e55c8b16e5",
+      "_id": "618bca2fd183d8e150b306b9",
       "login": "snewhouse",
       "name": "Stephen Newhouse",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b169a",
+      "_id": "618bca2fd183d8e150b3066e",
       "login": "shill",
       "name": "Steven Hill",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b16c4",
+      "_id": "618bca2fd183d8e150b30698",
       "login": "smkornblau",
       "name": "Steven M. Kornblau",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b176a",
+      "_id": "618bca2fd183d8e150b3073e",
       "login": "ssimon",
       "name": "Stockard Simon",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1614"
+      "challengeId": "618bc9fed183d8e150b305e8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1862",
+      "_id": "618bca2fd183d8e150b30836",
       "login": "smadhavan",
       "name": "Subha Madhavan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164d"
+      "challengeId": "618bc9fed183d8e150b30621"
     },
     {
-      "_id": "61679d1b014b66e55c8b1776",
+      "_id": "618bca2fd183d8e150b3074a",
       "login": "spanji",
       "name": "Sumir Panji",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1815",
+      "_id": "618bca2fd183d8e150b307e9",
       "login": "smohan",
       "name": "Suyash Mohan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1718",
+      "_id": "618bca2fd183d8e150b306ec",
       "login": "sbergmann",
       "name": "Sven Bergmann",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     },
     {
-      "_id": "61679d1b014b66e55c8b16e6",
+      "_id": "618bca2fd183d8e150b306ba",
       "login": "tmaxwell",
       "name": "Taylor Maxwell",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b176b",
+      "_id": "618bca2fd183d8e150b3073f",
       "login": "taittokallio",
       "name": "Tero Aittokallio",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1614"
+      "challengeId": "618bc9fed183d8e150b305e8"
     },
     {
-      "_id": "61679d1b014b66e55c8b168f",
+      "_id": "618bca2fd183d8e150b30663",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b169b",
+      "_id": "618bca2fd183d8e150b3066f",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b16ab",
+      "_id": "618bca2fd183d8e150b3067f",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fd"
+      "challengeId": "618bc9fed183d8e150b305d1"
     },
     {
-      "_id": "61679d1b014b66e55c8b16b2",
+      "_id": "618bca2fd183d8e150b30686",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fe"
+      "challengeId": "618bc9fed183d8e150b305d2"
     },
     {
-      "_id": "61679d1b014b66e55c8b16c5",
+      "_id": "618bca2fd183d8e150b30699",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b16d5",
+      "_id": "618bca2fd183d8e150b306a9",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b16e7",
+      "_id": "618bca2fd183d8e150b306bb",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1601"
+      "challengeId": "618bc9fed183d8e150b305d5"
     },
     {
-      "_id": "61679d1b014b66e55c8b16f2",
+      "_id": "618bca2fd183d8e150b306c6",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1602"
+      "challengeId": "618bc9fed183d8e150b305d6"
     },
     {
-      "_id": "61679d1b014b66e55c8b16fb",
+      "_id": "618bca2fd183d8e150b306cf",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1604"
+      "challengeId": "618bc9fed183d8e150b305d8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1701",
+      "_id": "618bca2fd183d8e150b306d5",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1605"
+      "challengeId": "618bc9fed183d8e150b305d9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1706",
+      "_id": "618bca2fd183d8e150b306da",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1606"
+      "challengeId": "618bc9fed183d8e150b305da"
     },
     {
-      "_id": "61679d1b014b66e55c8b170f",
+      "_id": "618bca2fd183d8e150b306e3",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1607"
+      "challengeId": "618bc9fed183d8e150b305db"
     },
     {
-      "_id": "61679d1b014b66e55c8b1719",
+      "_id": "618bca2fd183d8e150b306ed",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     },
     {
-      "_id": "61679d1b014b66e55c8b1723",
+      "_id": "618bca2fd183d8e150b306f7",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160a"
+      "challengeId": "618bc9fed183d8e150b305de"
     },
     {
-      "_id": "61679d1b014b66e55c8b1728",
+      "_id": "618bca2fd183d8e150b306fc",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160b"
+      "challengeId": "618bc9fed183d8e150b305df"
     },
     {
-      "_id": "61679d1b014b66e55c8b1730",
+      "_id": "618bca2fd183d8e150b30704",
       "login": "tnorman",
       "name": "Thea Norman",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160c"
+      "challengeId": "618bc9fed183d8e150b305e0"
     },
     {
-      "_id": "61679d1b014b66e55c8b1660",
+      "_id": "618bca2fd183d8e150b30634",
       "login": "tcokelaer",
       "name": "Thomas Cokelaer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15f6"
+      "challengeId": "618bc9fed183d8e150b305ca"
     },
     {
-      "_id": "61679d1b014b66e55c8b1690",
+      "_id": "618bca2fd183d8e150b30664",
       "login": "tcokelaer",
       "name": "Thomas Cokelaer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fb"
+      "challengeId": "618bc9fed183d8e150b305cf"
     },
     {
-      "_id": "61679d1b014b66e55c8b169c",
+      "_id": "618bca2fd183d8e150b30670",
       "login": "tcokelaer",
       "name": "Thomas Cokelaer",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15fc"
+      "challengeId": "618bc9fed183d8e150b305d0"
     },
     {
-      "_id": "61679d1b014b66e55c8b178b",
+      "_id": "618bca2fd183d8e150b3075f",
       "login": "tschaffter",
       "name": "Thomas Schaffter",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1618"
+      "challengeId": "618bc9fed183d8e150b305ec"
     },
     {
-      "_id": "61679d1b014b66e55c8b17c3",
+      "_id": "618bca2fd183d8e150b30797",
       "login": "tschaffter",
       "name": "Thomas Schaffter",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b17eb",
+      "_id": "618bca2fd183d8e150b307bf",
       "login": "tschaffter",
       "name": "Thomas Schaffter",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1621"
+      "challengeId": "618bc9fed183d8e150b305f5"
     },
     {
-      "_id": "61679d1b014b66e55c8b180c",
+      "_id": "618bca2fd183d8e150b307e0",
       "login": "tschaffter",
       "name": "Thomas Schaffter",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1736",
+      "_id": "618bca2fd183d8e150b3070a",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b160f"
+      "challengeId": "618bc9fed183d8e150b305e3"
     },
     {
-      "_id": "61679d1b014b66e55c8b174f",
+      "_id": "618bca2fd183d8e150b30723",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1761",
+      "_id": "618bca2fd183d8e150b30735",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1613"
+      "challengeId": "618bc9fed183d8e150b305e7"
     },
     {
-      "_id": "61679d1b014b66e55c8b1777",
+      "_id": "618bca2fd183d8e150b3074b",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1615"
+      "challengeId": "618bc9fed183d8e150b305e9"
     },
     {
-      "_id": "61679d1b014b66e55c8b1786",
+      "_id": "618bca2fd183d8e150b3075a",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1617"
+      "challengeId": "618bc9fed183d8e150b305eb"
     },
     {
-      "_id": "61679d1b014b66e55c8b178c",
+      "_id": "618bca2fd183d8e150b30760",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1618"
+      "challengeId": "618bc9fed183d8e150b305ec"
     },
     {
-      "_id": "61679d1b014b66e55c8b179c",
+      "_id": "618bca2fd183d8e150b30770",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b17a9",
+      "_id": "618bca2fd183d8e150b3077d",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17b8",
+      "_id": "618bca2fd183d8e150b3078c",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17c4",
+      "_id": "618bca2fd183d8e150b30798",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b17cf",
+      "_id": "618bca2fd183d8e150b307a3",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161e"
+      "challengeId": "618bc9fed183d8e150b305f2"
     },
     {
-      "_id": "61679d1b014b66e55c8b17fe",
+      "_id": "618bca2fd183d8e150b307d2",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b180d",
+      "_id": "618bca2fd183d8e150b307e1",
       "login": "tyu",
       "name": "Thomas Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b16c6",
+      "_id": "618bca2fd183d8e150b3069a",
       "login": "ttang",
       "name": "Tien Tang",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b15ff"
+      "challengeId": "618bc9fed183d8e150b305d3"
     },
     {
-      "_id": "61679d1b014b66e55c8b178d",
+      "_id": "618bca2fd183d8e150b30761",
       "login": "tbergquist",
       "name": "Tim Bergquist",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1618"
+      "challengeId": "618bc9fed183d8e150b305ec"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ec",
+      "_id": "618bca2fd183d8e150b307c0",
       "login": "tbergquist",
       "name": "Tim Bergquist",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1621"
+      "challengeId": "618bc9fed183d8e150b305f5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1809",
+      "_id": "618bca2fd183d8e150b307dd",
       "login": "tbergquist",
       "name": "Timothy Bergquist",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1831",
+      "_id": "618bca2fd183d8e150b30805",
       "login": "tminogue",
       "name": "Timothy Minogue",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b16d6",
+      "_id": "618bca2fd183d8e150b306aa",
       "login": "tgolub",
       "name": "Todd Golub",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1600"
+      "challengeId": "618bc9fed183d8e150b305d4"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ed",
+      "_id": "618bca2fd183d8e150b307c1",
       "login": "tyu",
       "name": "Tom Yu",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1621"
+      "challengeId": "618bc9fed183d8e150b305f5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1821",
+      "_id": "618bca2fd183d8e150b307f5",
       "login": "tschwede",
       "name": "Torsten Schwede",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1647"
+      "challengeId": "618bc9fed183d8e150b3061b"
     },
     {
-      "_id": "61679d1b014b66e55c8b1826",
+      "_id": "618bca2fd183d8e150b307fa",
       "login": "tschwede",
       "name": "Torsten Schwede",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1646"
+      "challengeId": "618bc9fed183d8e150b3061a"
     },
     {
-      "_id": "61679d1b014b66e55c8b186d",
+      "_id": "618bca2fd183d8e150b30841",
       "login": "tperyea",
       "name": "Tyler Peryea",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b1743",
+      "_id": "618bca2fd183d8e150b30717",
       "login": "urubin",
       "name": "Udi Rubin",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1806",
+      "_id": "618bca2fd183d8e150b307da",
       "login": "ubaid",
       "name": "Ujjwal Baid",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1787",
+      "_id": "618bca2fd183d8e150b3075b",
       "login": "vchung",
       "name": "Verena Chung",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1617"
+      "challengeId": "618bc9fed183d8e150b305eb"
     },
     {
-      "_id": "61679d1b014b66e55c8b179d",
+      "_id": "618bca2fd183d8e150b30771",
       "login": "vchung",
       "name": "Verena Chung",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1619"
+      "challengeId": "618bc9fed183d8e150b305ed"
     },
     {
-      "_id": "61679d1b014b66e55c8b17aa",
+      "_id": "618bca2fd183d8e150b3077e",
       "login": "vchung",
       "name": "Verena Chung",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161b"
+      "challengeId": "618bc9fed183d8e150b305ef"
     },
     {
-      "_id": "61679d1b014b66e55c8b17b9",
+      "_id": "618bca2fd183d8e150b3078d",
       "login": "vchung",
       "name": "Verena Chung",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161c"
+      "challengeId": "618bc9fed183d8e150b305f0"
     },
     {
-      "_id": "61679d1b014b66e55c8b17c5",
+      "_id": "618bca2fd183d8e150b30799",
       "login": "vchung",
       "name": "Verena Chung",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b161d"
+      "challengeId": "618bc9fed183d8e150b305f1"
     },
     {
-      "_id": "61679d1b014b66e55c8b17e6",
+      "_id": "618bca2fd183d8e150b307ba",
       "login": "vchung",
       "name": "Verena Chung",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1620"
+      "challengeId": "618bc9fed183d8e150b305f4"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ff",
+      "_id": "618bca2fd183d8e150b307d3",
       "login": "vchung",
       "name": "Verena Chung",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b180e",
+      "_id": "618bca2fd183d8e150b307e2",
       "login": "vchung",
       "name": "Verena Chung",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1624"
+      "challengeId": "618bc9fed183d8e150b305f8"
     },
     {
-      "_id": "61679d1b014b66e55c8b1800",
+      "_id": "618bca2fd183d8e150b307d4",
       "login": "wgeese",
       "name": "William Geese",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1622"
+      "challengeId": "618bc9fed183d8e150b305f6"
     },
     {
-      "_id": "61679d1b014b66e55c8b1744",
+      "_id": "618bca2fd183d8e150b30718",
       "login": "wmarks",
       "name": "William Marks",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1610"
+      "challengeId": "618bc9fed183d8e150b305e4"
     },
     {
-      "_id": "61679d1b014b66e55c8b1750",
+      "_id": "618bca2fd183d8e150b30724",
       "login": "xsong",
       "name": "Xiaoyu Song",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b178e",
+      "_id": "618bca2fd183d8e150b30762",
       "login": "yyan",
       "name": "Yao Yan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1618"
+      "challengeId": "618bc9fed183d8e150b305ec"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ee",
+      "_id": "618bca2fd183d8e150b307c2",
       "login": "yyan",
       "name": "Yao Yan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1621"
+      "challengeId": "618bc9fed183d8e150b305f5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1830",
+      "_id": "618bca2fd183d8e150b30804",
       "login": "yyan",
       "name": "Yi Yan",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b17ef",
+      "_id": "618bca2fd183d8e150b307c3",
       "login": "ychae",
       "name": "Yooree Chae",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1621"
+      "challengeId": "618bc9fed183d8e150b305f5"
     },
     {
-      "_id": "61679d1b014b66e55c8b1863",
+      "_id": "618bca2fd183d8e150b30837",
       "login": "ygusev",
       "name": "Yuriy Gusev",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164d"
+      "challengeId": "618bc9fed183d8e150b30621"
     },
     {
-      "_id": "61679d1b014b66e55c8b182c",
+      "_id": "618bca2fd183d8e150b30800",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b1843",
+      "_id": "618bca2fd183d8e150b30817",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b1853",
+      "_id": "618bca2fd183d8e150b30827",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b185c",
+      "_id": "618bca2fd183d8e150b30830",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b1868",
+      "_id": "618bca2fd183d8e150b3083c",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164d"
+      "challengeId": "618bc9fed183d8e150b30621"
     },
     {
-      "_id": "61679d1b014b66e55c8b1874",
+      "_id": "618bca2fd183d8e150b30848",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164e"
+      "challengeId": "618bc9fed183d8e150b30622"
     },
     {
-      "_id": "61679d1b014b66e55c8b1880",
+      "_id": "618bca2fd183d8e150b30854",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b188a",
+      "_id": "618bca2fd183d8e150b3085e",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1650"
+      "challengeId": "618bc9fed183d8e150b30624"
     },
     {
-      "_id": "61679d1b014b66e55c8b1892",
+      "_id": "618bca2fd183d8e150b30866",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1651"
+      "challengeId": "618bc9fed183d8e150b30625"
     },
     {
-      "_id": "61679d1b014b66e55c8b189a",
+      "_id": "618bca2fd183d8e150b3086e",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1652"
+      "challengeId": "618bc9fed183d8e150b30626"
     },
     {
-      "_id": "61679d1b014b66e55c8b18a4",
+      "_id": "618bca2fd183d8e150b30878",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1653"
+      "challengeId": "618bc9fed183d8e150b30627"
     },
     {
-      "_id": "61679d1b014b66e55c8b18b2",
+      "_id": "618bca2fd183d8e150b30886",
       "login": "zmaier",
       "name": "Zeke Maier",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1654"
+      "challengeId": "618bc9fed183d8e150b30628"
     },
     {
-      "_id": "61679d1b014b66e55c8b1751",
+      "_id": "618bca2fd183d8e150b30725",
       "login": "zli",
       "name": "Zhi Li",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1611"
+      "challengeId": "618bc9fed183d8e150b305e5"
     },
     {
-      "_id": "61679d1b014b66e55c8b183d",
+      "_id": "618bca2fd183d8e150b30811",
       "login": "zshi",
       "name": "Zhiao Shi",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b184d",
+      "_id": "618bca2fd183d8e150b30821",
       "login": "zshi",
       "name": "Zhiao Shi",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b182b",
+      "_id": "618bca2fd183d8e150b307ff",
       "login": "ztezak",
       "name": "Zivana Tezak",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1649"
+      "challengeId": "618bc9fed183d8e150b3061d"
     },
     {
-      "_id": "61679d1b014b66e55c8b1837",
+      "_id": "618bca2fd183d8e150b3080b",
       "login": "ztezak",
       "name": "Zivana Tezak",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164a"
+      "challengeId": "618bc9fed183d8e150b3061e"
     },
     {
-      "_id": "61679d1b014b66e55c8b1847",
+      "_id": "618bca2fd183d8e150b3081b",
       "login": "ztezak",
       "name": "Zivana Tezak",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164b"
+      "challengeId": "618bc9fed183d8e150b3061f"
     },
     {
-      "_id": "61679d1b014b66e55c8b1858",
+      "_id": "618bca2fd183d8e150b3082c",
       "login": "ztezak",
       "name": "Zivana Tezak",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164c"
+      "challengeId": "618bc9fed183d8e150b30620"
     },
     {
-      "_id": "61679d1b014b66e55c8b187a",
+      "_id": "618bca2fd183d8e150b3084e",
       "login": "ztezak",
       "name": "Zivana Tezak",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b164f"
+      "challengeId": "618bc9fed183d8e150b30623"
     },
     {
-      "_id": "61679d1b014b66e55c8b171a",
+      "_id": "618bca2fd183d8e150b306ee",
       "login": "zkutalik",
       "name": "Zoltan Kutalik",
       "roles": [],
-      "challengeId": "61679d1a014b66e55c8b1609"
+      "challengeId": "618bc9fed183d8e150b305dd"
     }
   ]
 }

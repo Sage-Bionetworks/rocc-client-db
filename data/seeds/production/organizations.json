@@ -1,7 +1,7 @@
 {
   "organizations": [
     {
-      "_id": "61679cff014b66e55c8b124c",
+      "_id": "618bc909d183d8e150b301bc",
       "login": "allen-institute",
       "name": "Allen Institute",
       "description": "This is an awesome organization",
@@ -9,7 +9,7 @@
       "websiteUrl": "https://alleninstitute.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b124d",
+      "_id": "618bc909d183d8e150b301bd",
       "login": "als-therapy-alliance",
       "name": "ALS Therapy Alliance",
       "description": "This is an awesome organization",
@@ -17,7 +17,7 @@
       "websiteUrl": "https://alstherapyalliance.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b124e",
+      "_id": "618bc909d183d8e150b301be",
       "login": "alzheimer-s-disease-neuroimaging-initiative",
       "name": "Alzheimer's Disease Neuroimaging Initiative",
       "description": "This is an awesome organization",
@@ -25,7 +25,7 @@
       "websiteUrl": "http://adni.loni.usc.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1310",
+      "_id": "618bc909d183d8e150b30280",
       "login": "alzheimer-s-research-uk",
       "name": "Alzheimer's Research UK",
       "description": "This is an awesome organization",
@@ -33,7 +33,7 @@
       "websiteUrl": "https://www.alzheimersresearchuk.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b131c",
+      "_id": "618bc909d183d8e150b3028c",
       "login": "amazon-web-services",
       "name": "Amazon Web Services",
       "description": "This is an awesome organization",
@@ -41,7 +41,7 @@
       "websiteUrl": "https://aws.amazon.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1312",
+      "_id": "618bc909d183d8e150b30282",
       "login": "american-joint-committee-on-cancer",
       "name": "American Joint Committee on Cancer",
       "description": "This is an awesome organization",
@@ -49,7 +49,7 @@
       "websiteUrl": "https://www.facs.org/quality-programs/cancer/ajcc"
     },
     {
-      "_id": "61679cff014b66e55c8b1250",
+      "_id": "618bc909d183d8e150b301c0",
       "login": "apollo-network",
       "name": "APOLLO network",
       "description": "This is an awesome organization",
@@ -57,7 +57,7 @@
       "websiteUrl": "https://proteomics.cancer.gov/programs/apollo-network"
     },
     {
-      "_id": "61679cff014b66e55c8b124f",
+      "_id": "618bc909d183d8e150b301bf",
       "login": "apple-health",
       "name": "Apple Health",
       "description": "This is an awesome organization",
@@ -65,7 +65,7 @@
       "websiteUrl": "https://www.hca.wa.gov/health-care-services-supports/apple-health-medicaid-coverage"
     },
     {
-      "_id": "61679cff014b66e55c8b130c",
+      "_id": "618bc909d183d8e150b3027c",
       "login": "arthritis-foundation",
       "name": "Arthritis Foundation",
       "description": "This is an awesome organization",
@@ -73,7 +73,7 @@
       "websiteUrl": "https://www.arthritis.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1251",
+      "_id": "618bc909d183d8e150b301c1",
       "login": "arthritis-internet-registry",
       "name": "Arthritis Internet Registry",
       "description": "This is an awesome organization",
@@ -81,7 +81,7 @@
       "websiteUrl": "https://www.arthritis-research.org/join-research/arthritis-internet-registry"
     },
     {
-      "_id": "61679cff014b66e55c8b1252",
+      "_id": "618bc909d183d8e150b301c2",
       "login": "astrazeneca",
       "name": "AstraZeneca",
       "description": "This is an awesome organization",
@@ -89,7 +89,7 @@
       "websiteUrl": "https://www.astrazeneca.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1253",
+      "_id": "618bc909d183d8e150b301c3",
       "login": "autodesk",
       "name": "Autodesk",
       "description": "This is an awesome organization",
@@ -97,7 +97,7 @@
       "websiteUrl": "https://www.autodesk.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1254",
+      "_id": "618bc909d183d8e150b301c4",
       "login": "bc-cancer-research-centre",
       "name": "BC Cancer Research Centre",
       "description": "This is an awesome organization",
@@ -105,7 +105,7 @@
       "websiteUrl": "https://www.bccrc.ca/"
     },
     {
-      "_id": "61679cff014b66e55c8b1255",
+      "_id": "618bc909d183d8e150b301c5",
       "login": "bellvitge-institute-for-biomedical-research",
       "name": "Bellvitge Institute for Biomedical Research",
       "description": "This is an awesome organization",
@@ -113,7 +113,7 @@
       "websiteUrl": "https://www.ub.edu/web/ub/en/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/idibell.html"
     },
     {
-      "_id": "61679cff014b66e55c8b12da",
+      "_id": "618bc909d183d8e150b3024a",
       "login": "berlin-institute-of-health",
       "name": "Berlin Institute of Health",
       "description": "This is an awesome organization",
@@ -121,7 +121,7 @@
       "websiteUrl": "https://www.bihealth.org/en/"
     },
     {
-      "_id": "61679cff014b66e55c8b1324",
+      "_id": "618bc909d183d8e150b30294",
       "login": "bill-and-melinda-gates-foundation",
       "name": "Bill and Melinda Gates Foundation",
       "description": "This is an awesome organization",
@@ -129,7 +129,7 @@
       "websiteUrl": "https://www.gatesfoundation.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1302",
+      "_id": "618bc909d183d8e150b30272",
       "login": "biocreative",
       "name": "BioCreative",
       "description": "This is an awesome organization",
@@ -138,7 +138,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/biocreative.png"
     },
     {
-      "_id": "61679cff014b66e55c8b1313",
+      "_id": "618bc909d183d8e150b30283",
       "login": "biogen",
       "name": "Biogen",
       "description": "This is an awesome organization",
@@ -146,7 +146,7 @@
       "websiteUrl": "https://www.biogen.com/en_us/home.html"
     },
     {
-      "_id": "61679cff014b66e55c8b12e1",
+      "_id": "618bc909d183d8e150b30251",
       "login": "biomarin-pharmaceutical-inc",
       "name": "BioMarin Pharmaceutical Inc.",
       "description": "This is an awesome organization",
@@ -154,7 +154,7 @@
       "websiteUrl": "https://www.biomarin.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b12f4",
+      "_id": "618bc909d183d8e150b30264",
       "login": "booz-allen-hamilton",
       "name": "Booz Allen Hamilton",
       "description": "This is an awesome organization",
@@ -162,7 +162,7 @@
       "websiteUrl": "https://www.boozallen.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1331",
+      "_id": "618bc909d183d8e150b302a1",
       "login": "braille-authority-of-north-america",
       "name": "Braille Authority of North America",
       "description": "This is an awesome organization",
@@ -170,7 +170,7 @@
       "websiteUrl": "http://www.brailleauthority.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1256",
+      "_id": "618bc909d183d8e150b301c6",
       "login": "breast-cancer-surveillance-consortium",
       "name": "Breast Cancer Surveillance Consortium",
       "description": "This is an awesome organization",
@@ -178,7 +178,7 @@
       "websiteUrl": "https://www.bcsc-research.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1257",
+      "_id": "618bc909d183d8e150b301c7",
       "login": "brigham-and-women-s-hospital",
       "name": "Brigham And Women's Hospital",
       "description": "This is an awesome organization",
@@ -186,7 +186,7 @@
       "websiteUrl": "https://www.brighamandwomens.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1258",
+      "_id": "618bc909d183d8e150b301c8",
       "login": "brigham-young-university",
       "name": "Brigham Young University",
       "description": "This is an awesome organization",
@@ -194,7 +194,7 @@
       "websiteUrl": "https://www.byu.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b131f",
+      "_id": "618bc909d183d8e150b3028f",
       "login": "brightfocus-foundation",
       "name": "BrightFocus Foundation",
       "description": "This is an awesome organization",
@@ -202,7 +202,7 @@
       "websiteUrl": "https://www.brightfocus.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1259",
+      "_id": "618bc909d183d8e150b301c9",
       "login": "bristol-myers-squibb",
       "name": "Bristol Myers Squibb",
       "description": "This is an awesome organization",
@@ -210,7 +210,7 @@
       "websiteUrl": "https://www.bms.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b125a",
+      "_id": "618bc909d183d8e150b301ca",
       "login": "broad-institute",
       "name": "Broad Institute",
       "description": "This is an awesome organization",
@@ -218,7 +218,7 @@
       "websiteUrl": "https://www.broadinstitute.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b12de",
+      "_id": "618bc909d183d8e150b3024e",
       "login": "brown-university",
       "name": "Brown University",
       "description": "This is an awesome organization",
@@ -226,7 +226,7 @@
       "websiteUrl": "https://www.brown.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12ec",
+      "_id": "618bc909d183d8e150b3025c",
       "login": "cafa",
       "name": "CAFA",
       "description": "This is an awesome organization",
@@ -235,7 +235,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/cafa.png"
     },
     {
-      "_id": "61679cff014b66e55c8b12fd",
+      "_id": "618bc909d183d8e150b3026d",
       "login": "cagi",
       "name": "CAGI",
       "description": "This is an awesome organization",
@@ -244,7 +244,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/cagi.png"
     },
     {
-      "_id": "61679cff014b66e55c8b125b",
+      "_id": "618bc909d183d8e150b301cb",
       "login": "california-institute-of-technology",
       "name": "California Institute of Technology",
       "description": "This is an awesome organization",
@@ -252,7 +252,7 @@
       "websiteUrl": "https://www.caltech.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12fe",
+      "_id": "618bc909d183d8e150b3026e",
       "login": "camda",
       "name": "CAMDA",
       "description": "This is an awesome organization",
@@ -261,7 +261,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/camda.png"
     },
     {
-      "_id": "61679cff014b66e55c8b1305",
+      "_id": "618bc909d183d8e150b30275",
       "login": "cami",
       "name": "CAMI",
       "description": "This is an awesome organization",
@@ -269,7 +269,7 @@
       "websiteUrl": "http://cami-challenge.org"
     },
     {
-      "_id": "61679cff014b66e55c8b125c",
+      "_id": "618bc909d183d8e150b301cc",
       "login": "cancer-imaging-archive",
       "name": "Cancer Imaging Archive",
       "description": "This is an awesome organization",
@@ -277,7 +277,7 @@
       "websiteUrl": "https://www.cancerimagingarchive.net/"
     },
     {
-      "_id": "61679cff014b66e55c8b125d",
+      "_id": "618bc909d183d8e150b301cd",
       "login": "cancer-research-uk",
       "name": "Cancer Research UK",
       "description": "This is an awesome organization",
@@ -285,7 +285,7 @@
       "websiteUrl": "https://www.cancerresearchuk.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b125e",
+      "_id": "618bc909d183d8e150b301ce",
       "login": "cancer-target-discovery-and-development",
       "name": "Cancer Target Discovery and Development",
       "description": "This is an awesome organization",
@@ -293,7 +293,7 @@
       "websiteUrl": "https://ocg.cancer.gov/programs/ctd2"
     },
     {
-      "_id": "61679cff014b66e55c8b12ff",
+      "_id": "618bc909d183d8e150b3026f",
       "login": "casp",
       "name": "CASP",
       "description": "This is an awesome organization",
@@ -302,7 +302,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/casp.png"
     },
     {
-      "_id": "61679cff014b66e55c8b125f",
+      "_id": "618bc909d183d8e150b301cf",
       "login": "celgene",
       "name": "Celgene",
       "description": "This is an awesome organization",
@@ -310,7 +310,7 @@
       "websiteUrl": "https://www.celgene.com"
     },
     {
-      "_id": "61679cff014b66e55c8b1260",
+      "_id": "618bc909d183d8e150b301d0",
       "login": "center-for-research-computing",
       "name": "Center for Research Computing",
       "description": "This is an awesome organization",
@@ -318,7 +318,7 @@
       "websiteUrl": "https://crc.nd.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1261",
+      "_id": "618bc909d183d8e150b301d1",
       "login": "cincinnati-children-s-hospital-medical-center",
       "name": "Cincinnati Children's Hospital Medical Center",
       "description": "This is an awesome organization",
@@ -326,7 +326,7 @@
       "websiteUrl": "https://www.cincinnatichildrens.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b132d",
+      "_id": "618bc909d183d8e150b3029d",
       "login": "climb-4-kidney-cancer",
       "name": "Climb 4 Kidney Cancer",
       "description": "This is an awesome organization",
@@ -334,7 +334,7 @@
       "websiteUrl": "https://climb4kc.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1262",
+      "_id": "618bc909d183d8e150b301d2",
       "login": "clinical-proteomic-tumor-analysis-consortium",
       "name": "Clinical Proteomic Tumor Analysis Consortium",
       "description": "This is an awesome organization",
@@ -342,7 +342,7 @@
       "websiteUrl": "https://proteomics.cancer.gov/programs/cptac"
     },
     {
-      "_id": "61679cff014b66e55c8b1263",
+      "_id": "618bc909d183d8e150b301d3",
       "login": "columbia-university",
       "name": "Columbia University",
       "description": "This is an awesome organization",
@@ -350,7 +350,7 @@
       "websiteUrl": "https://www.columbia.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12f9",
+      "_id": "618bc909d183d8e150b30269",
       "login": "conceptant",
       "name": "Conceptant",
       "description": "This is an awesome organization",
@@ -358,7 +358,7 @@
       "websiteUrl": "https://www.conceptant.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1264",
+      "_id": "618bc909d183d8e150b301d4",
       "login": "consejo-superior-de-investigaciones-cientificas",
       "name": "Consejo Superior de Investigaciones Cientificas",
       "description": "This is an awesome organization",
@@ -366,7 +366,7 @@
       "websiteUrl": "https://www.csic.es/"
     },
     {
-      "_id": "61679cff014b66e55c8b1265",
+      "_id": "618bc909d183d8e150b301d5",
       "login": "corevitas",
       "name": "CorEvitas",
       "description": "This is an awesome organization",
@@ -374,7 +374,7 @@
       "websiteUrl": "https://www.corevitas.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1266",
+      "_id": "618bc909d183d8e150b301d6",
       "login": "corrona",
       "name": "Corrona",
       "description": "This is an awesome organization",
@@ -382,7 +382,7 @@
       "websiteUrl": "https://www.corrona.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b130a",
+      "_id": "618bc909d183d8e150b3027a",
       "login": "covert-lab",
       "name": "Covert Lab",
       "description": "This is an awesome organization",
@@ -390,7 +390,7 @@
       "websiteUrl": "https://www.covert.stanford.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1267",
+      "_id": "618bc909d183d8e150b301d7",
       "login": "dana-farber-cancer-institute",
       "name": "Dana-Farber Cancer Institute",
       "description": "This is an awesome organization",
@@ -398,7 +398,7 @@
       "websiteUrl": "https://www.dana-farber.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1268",
+      "_id": "618bc909d183d8e150b301d8",
       "login": "defense-advanced-research-projects-agency",
       "name": "Defense Advanced Research Projects Agency",
       "description": "This is an awesome organization",
@@ -406,7 +406,7 @@
       "websiteUrl": "https://www.darpa.mil/"
     },
     {
-      "_id": "61679cff014b66e55c8b1329",
+      "_id": "618bc909d183d8e150b30299",
       "login": "department-of-energy",
       "name": "Department of Energy",
       "description": "This is an awesome organization",
@@ -414,7 +414,7 @@
       "websiteUrl": "https://www.energy.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b1308",
+      "_id": "618bc909d183d8e150b30278",
       "login": "diagnosticos-da-america-sa",
       "name": "Diagnosticos da America SA",
       "description": "This is an awesome organization",
@@ -422,7 +422,7 @@
       "websiteUrl": "https://dasa.com.br/"
     },
     {
-      "_id": "61679cff014b66e55c8b12f5",
+      "_id": "618bc909d183d8e150b30265",
       "login": "dnanexus",
       "name": "DNAnexus",
       "description": "This is an awesome organization",
@@ -430,7 +430,7 @@
       "websiteUrl": "https://www.dnanexus.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1269",
+      "_id": "618bc909d183d8e150b301d9",
       "login": "dockstore",
       "name": "Dockstore",
       "description": "This is an awesome organization",
@@ -438,7 +438,7 @@
       "websiteUrl": "https://dockstore.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1304",
+      "_id": "618bc909d183d8e150b30274",
       "login": "dream",
       "name": "DREAM",
       "description": "This is an awesome organization",
@@ -447,7 +447,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/dream.png"
     },
     {
-      "_id": "61679cff014b66e55c8b126a",
+      "_id": "618bc909d183d8e150b301da",
       "login": "duke-university",
       "name": "Duke University",
       "description": "This is an awesome organization",
@@ -455,7 +455,7 @@
       "websiteUrl": "https://duke.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b126b",
+      "_id": "618bc909d183d8e150b301db",
       "login": "durham-va-health-care-system",
       "name": "Durham VA Health Care System",
       "description": "This is an awesome organization",
@@ -463,7 +463,7 @@
       "websiteUrl": "https://www.durham.va.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b126c",
+      "_id": "618bc909d183d8e150b301dc",
       "login": "durham-va-medical-center",
       "name": "Durham VA Medical Center",
       "description": "This is an awesome organization",
@@ -471,7 +471,7 @@
       "websiteUrl": "https://www.durham.va.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b126d",
+      "_id": "618bc909d183d8e150b301dd",
       "login": "early-signal-foundation",
       "name": "Early Signal Foundation",
       "description": "This is an awesome organization",
@@ -479,7 +479,7 @@
       "websiteUrl": "http://www.earlysignal.org"
     },
     {
-      "_id": "61679cff014b66e55c8b126e",
+      "_id": "618bc909d183d8e150b301de",
       "login": "eck-institute-for-global-health",
       "name": "Eck Institute for Global Health",
       "description": "This is an awesome organization",
@@ -487,7 +487,7 @@
       "websiteUrl": "https://globalhealth.nd.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1314",
+      "_id": "618bc909d183d8e150b30284",
       "login": "eli-lilly-and-company",
       "name": "Eli Lilly and Company",
       "description": "This is an awesome organization",
@@ -495,7 +495,7 @@
       "websiteUrl": "https://www.lilly.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1328",
+      "_id": "618bc909d183d8e150b30298",
       "login": "elixir",
       "name": "Elixir",
       "description": "This is an awesome organization",
@@ -503,7 +503,7 @@
       "websiteUrl": "https://www.elixirsolutions.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b126f",
+      "_id": "618bc909d183d8e150b301df",
       "login": "encyclopedia-of-dna-elements-data-coordinating-center",
       "name": "Encyclopedia of DNA Elements Data Coordinating Center",
       "description": "This is an awesome organization",
@@ -511,7 +511,7 @@
       "websiteUrl": "https://www.encodeproject.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b12e0",
+      "_id": "618bc909d183d8e150b30250",
       "login": "enigma-consortium",
       "name": "ENIGMA Consortium",
       "description": "This is an awesome organization",
@@ -519,7 +519,7 @@
       "websiteUrl": "http://enigma.ini.usc.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1270",
+      "_id": "618bc909d183d8e150b301e0",
       "login": "eth-zurich",
       "name": "ETH Zurich",
       "description": "This is an awesome organization",
@@ -527,7 +527,7 @@
       "websiteUrl": "https://ethz.ch/en.html"
     },
     {
-      "_id": "61679cff014b66e55c8b1271",
+      "_id": "618bc909d183d8e150b301e1",
       "login": "eunice-kennedy-shriver-national-institute",
       "name": "Eunice Kennedy Shriver National Institute",
       "description": "This is an awesome organization",
@@ -535,7 +535,7 @@
       "websiteUrl": "https://www.nichd.nih.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b1272",
+      "_id": "618bc909d183d8e150b301e2",
       "login": "european-bioinformatics-institute",
       "name": "European Bioinformatics Institute",
       "description": "This is an awesome organization",
@@ -543,7 +543,7 @@
       "websiteUrl": "https://www.ebi.ac.uk/"
     },
     {
-      "_id": "61679cff014b66e55c8b1320",
+      "_id": "618bc909d183d8e150b30290",
       "login": "european-medicines-agency",
       "name": "European Medicines Agency",
       "description": "This is an awesome organization",
@@ -551,7 +551,7 @@
       "websiteUrl": "https://www.ema.europa.eu/en"
     },
     {
-      "_id": "61679cff014b66e55c8b1309",
+      "_id": "618bc909d183d8e150b30279",
       "login": "european-union",
       "name": "European Union",
       "description": "This is an awesome organization",
@@ -559,7 +559,7 @@
       "websiteUrl": "https://europa.eu/european-union/index_en"
     },
     {
-      "_id": "61679cff014b66e55c8b1273",
+      "_id": "618bc909d183d8e150b301e3",
       "login": "evidation-health",
       "name": "Evidation Health",
       "description": "This is an awesome organization",
@@ -567,7 +567,7 @@
       "websiteUrl": "https://evidation.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1334",
+      "_id": "618bc909d183d8e150b302a4",
       "login": "fehling-instruments",
       "name": "Fehling Instruments",
       "description": "This is an awesome organization",
@@ -575,7 +575,7 @@
       "websiteUrl": "https://www.fehling-instruments.de/en/"
     },
     {
-      "_id": "61679cff014b66e55c8b1274",
+      "_id": "618bc909d183d8e150b301e4",
       "login": "feinstein-institutes-for-medical-research",
       "name": "Feinstein Institutes for Medical Research",
       "description": "This is an awesome organization",
@@ -583,7 +583,7 @@
       "websiteUrl": "https://feinstein.northwell.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1275",
+      "_id": "618bc909d183d8e150b301e5",
       "login": "francis-crick-institute",
       "name": "Francis Crick Institute",
       "description": "This is an awesome organization",
@@ -591,7 +591,7 @@
       "websiteUrl": "https://www.crick.ac.uk/"
     },
     {
-      "_id": "61679cff014b66e55c8b131a",
+      "_id": "618bc909d183d8e150b3028a",
       "login": "fred-hutchinson-cancer-research-center",
       "name": "Fred Hutchinson Cancer Research Center",
       "description": "This is an awesome organization",
@@ -599,7 +599,7 @@
       "websiteUrl": "https://www.fredhutch.org/en/about/education-outreach/coding-for-cancer.html"
     },
     {
-      "_id": "61679cff014b66e55c8b1315",
+      "_id": "618bc909d183d8e150b30285",
       "login": "genome-canada",
       "name": "Genome Canada",
       "description": "This is an awesome organization",
@@ -607,7 +607,7 @@
       "websiteUrl": "https://www.genomecanada.ca/"
     },
     {
-      "_id": "61679cff014b66e55c8b1276",
+      "_id": "618bc909d183d8e150b301e6",
       "login": "george-washington-university",
       "name": "George Washington University",
       "description": "This is an awesome organization",
@@ -615,7 +615,7 @@
       "websiteUrl": "https://www.gwu.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12f8",
+      "_id": "618bc909d183d8e150b30268",
       "login": "georgetown-university",
       "name": "Georgetown University",
       "description": "This is an awesome organization",
@@ -623,7 +623,7 @@
       "websiteUrl": "https://www.georgetown.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1306",
+      "_id": "618bc909d183d8e150b30276",
       "login": "german-cancer-research-center",
       "name": "German Cancer Research Center",
       "description": "This is an awesome organization",
@@ -631,7 +631,7 @@
       "websiteUrl": "https://www.dkfz.de/en/index.html"
     },
     {
-      "_id": "61679cff014b66e55c8b1277",
+      "_id": "618bc909d183d8e150b301e7",
       "login": "global-alliance-for-genomics-and-health",
       "name": "Global Alliance for Genomics and Health",
       "description": "This is an awesome organization",
@@ -639,7 +639,7 @@
       "websiteUrl": "https://www.ga4gh.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1278",
+      "_id": "618bc909d183d8e150b301e8",
       "login": "h-lee-moffitt-cancer-center-and-research-institute",
       "name": "H. Lee Moffitt Cancer Center and Research Institute",
       "description": "This is an awesome organization",
@@ -647,7 +647,7 @@
       "websiteUrl": "https://moffitt.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1279",
+      "_id": "618bc909d183d8e150b301e9",
       "login": "h3abionet",
       "name": "H3ABioNet",
       "description": "This is an awesome organization",
@@ -655,7 +655,7 @@
       "websiteUrl": "https://h3abionet.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b127a",
+      "_id": "618bc909d183d8e150b301ea",
       "login": "harvard-university",
       "name": "Harvard University",
       "description": "This is an awesome organization",
@@ -663,7 +663,7 @@
       "websiteUrl": "https://www.harvard.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b127b",
+      "_id": "618bc909d183d8e150b301eb",
       "login": "heidelberg-university",
       "name": "Heidelberg University",
       "description": "This is an awesome organization",
@@ -671,7 +671,7 @@
       "websiteUrl": "https://www.heidelberg.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b127c",
+      "_id": "618bc909d183d8e150b301ec",
       "login": "helmholtz-zentrum-munchen",
       "name": "Helmholtz Zentrum Munchen",
       "description": "This is an awesome organization",
@@ -679,7 +679,7 @@
       "websiteUrl": "https://www.helmholtz-muenchen.de/helmholtz-zentrum-muenchen/index.html"
     },
     {
-      "_id": "61679cff014b66e55c8b127d",
+      "_id": "618bc909d183d8e150b301ed",
       "login": "heritage-provider-network",
       "name": "Heritage Provider Network",
       "description": "This is an awesome organization",
@@ -687,7 +687,7 @@
       "websiteUrl": "http://www.heritageprovidernetwork.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b132b",
+      "_id": "618bc909d183d8e150b3029b",
       "login": "histosonics-inc",
       "name": "HistoSonics Inc.",
       "description": "This is an awesome organization",
@@ -695,7 +695,7 @@
       "websiteUrl": "https://histosonics.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b127e",
+      "_id": "618bc909d183d8e150b301ee",
       "login": "hospital-for-sick-children",
       "name": "Hospital for Sick Children",
       "description": "This is an awesome organization",
@@ -703,7 +703,7 @@
       "websiteUrl": "https://www.sickkids.ca/Research/"
     },
     {
-      "_id": "61679cff014b66e55c8b127f",
+      "_id": "618bc909d183d8e150b301ef",
       "login": "ibm",
       "name": "IBM",
       "description": "This is an awesome organization",
@@ -711,7 +711,7 @@
       "websiteUrl": "https://www.research.ibm.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1301",
+      "_id": "618bc909d183d8e150b30271",
       "login": "idash",
       "name": "iDASH",
       "description": "This is an awesome organization",
@@ -720,7 +720,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/idash.png"
     },
     {
-      "_id": "61679cff014b66e55c8b1280",
+      "_id": "618bc909d183d8e150b301f0",
       "login": "innovative-medicines-initiative",
       "name": "Innovative Medicines Initiative",
       "description": "This is an awesome organization",
@@ -728,7 +728,7 @@
       "websiteUrl": "http://www.imi.europa.eu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1281",
+      "_id": "618bc909d183d8e150b301f1",
       "login": "institut-curie",
       "name": "Institut Curie",
       "description": "This is an awesome organization",
@@ -736,7 +736,7 @@
       "websiteUrl": "https://institut-curie.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1282",
+      "_id": "618bc909d183d8e150b301f2",
       "login": "institute-for-molecular-medicine-finland",
       "name": "Institute for Molecular Medicine Finland",
       "description": "This is an awesome organization",
@@ -744,7 +744,7 @@
       "websiteUrl": "https://www.fimm.fi/en/"
     },
     {
-      "_id": "61679cff014b66e55c8b1326",
+      "_id": "618bc909d183d8e150b30296",
       "login": "institute-of-translational-health-sciences",
       "name": "Institute of Translational Health Sciences",
       "description": "This is an awesome organization",
@@ -752,7 +752,7 @@
       "websiteUrl": "https://www.iths.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b132e",
+      "_id": "618bc909d183d8e150b3029e",
       "login": "intel",
       "name": "Intel",
       "description": "This is an awesome organization",
@@ -760,7 +760,7 @@
       "websiteUrl": "https://www.intel.com/content/www/us/en/homepage.html"
     },
     {
-      "_id": "61679cff014b66e55c8b1283",
+      "_id": "618bc909d183d8e150b301f3",
       "login": "international-cancer-genome-consortium",
       "name": "International Cancer Genome Consortium",
       "description": "This is an awesome organization",
@@ -768,7 +768,7 @@
       "websiteUrl": "https://dcc.icgc.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1311",
+      "_id": "618bc909d183d8e150b30281",
       "login": "international-flavors-and-fragrances-inc",
       "name": "International Flavors and Fragrances Inc.",
       "description": "This is an awesome organization",
@@ -776,7 +776,7 @@
       "websiteUrl": "https://www.iff.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1284",
+      "_id": "618bc909d183d8e150b301f4",
       "login": "international-genome-sample-resource",
       "name": "International Genome Sample Resource",
       "description": "This is an awesome organization",
@@ -784,7 +784,7 @@
       "websiteUrl": "https://www.internationalgenome.org/home"
     },
     {
-      "_id": "61679cff014b66e55c8b12eb",
+      "_id": "618bc909d183d8e150b3025b",
       "login": "international-society-for-computational-biology",
       "name": "International Society for Computational Biology",
       "description": "This is an awesome organization",
@@ -792,7 +792,7 @@
       "websiteUrl": "https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/function"
     },
     {
-      "_id": "61679cff014b66e55c8b132c",
+      "_id": "618bc909d183d8e150b3029c",
       "login": "intuitive-surgical-inc",
       "name": "Intuitive Surgical Inc.",
       "description": "This is an awesome organization",
@@ -800,7 +800,7 @@
       "websiteUrl": "https://www.intuitive.com/en-us"
     },
     {
-      "_id": "61679cff014b66e55c8b12e9",
+      "_id": "618bc909d183d8e150b30259",
       "login": "iowa-state-university",
       "name": "Iowa State University",
       "description": "This is an awesome organization",
@@ -808,7 +808,7 @@
       "websiteUrl": "https://www.iastate.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1300",
+      "_id": "618bc909d183d8e150b30270",
       "login": "kaggle",
       "name": "Kaggle",
       "description": "This is an awesome organization",
@@ -817,7 +817,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/kaggle.png"
     },
     {
-      "_id": "61679cff014b66e55c8b1285",
+      "_id": "618bc909d183d8e150b301f5",
       "login": "kaiser-permanente-washington-health-research-institute",
       "name": "Kaiser Permanente Washington Health Research Institute",
       "description": "This is an awesome organization",
@@ -825,7 +825,7 @@
       "websiteUrl": "https://www.kpwashingtonresearch.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1286",
+      "_id": "618bc909d183d8e150b301f6",
       "login": "king-s-college-london",
       "name": "King's College London",
       "description": "This is an awesome organization",
@@ -833,7 +833,7 @@
       "websiteUrl": "https://www.kcl.ac.uk/"
     },
     {
-      "_id": "61679cff014b66e55c8b1287",
+      "_id": "618bc909d183d8e150b301f7",
       "login": "knoweng",
       "name": "KnowEnG",
       "description": "This is an awesome organization",
@@ -841,7 +841,7 @@
       "websiteUrl": "https://knoweng.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b130f",
+      "_id": "618bc909d183d8e150b3027f",
       "login": "koch-institute",
       "name": "Koch Institute",
       "description": "This is an awesome organization",
@@ -849,7 +849,7 @@
       "websiteUrl": "https://ki.mit.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1319",
+      "_id": "618bc909d183d8e150b30289",
       "login": "laura-and-john-arnold-foundation",
       "name": "Laura and John Arnold Foundation",
       "description": "This is an awesome organization",
@@ -857,7 +857,7 @@
       "websiteUrl": "https://www.arnoldventures.org/people/laura-arnold-john-arnold/"
     },
     {
-      "_id": "61679cff014b66e55c8b1288",
+      "_id": "618bc909d183d8e150b301f8",
       "login": "lausanne-university-hospital",
       "name": "Lausanne University Hospital",
       "description": "This is an awesome organization",
@@ -865,7 +865,7 @@
       "websiteUrl": "https://www.lausanneuniversityhospital.com/home"
     },
     {
-      "_id": "61679cff014b66e55c8b1289",
+      "_id": "618bc909d183d8e150b301f9",
       "login": "leukemia-and-lymphoma-society",
       "name": "Leukemia and Lymphoma Society",
       "description": "This is an awesome organization",
@@ -873,7 +873,7 @@
       "websiteUrl": "https://www.lls.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b128a",
+      "_id": "618bc909d183d8e150b301fa",
       "login": "ligue-nationale-contre-le-cancer",
       "name": "Ligue Nationale Contre le Cancer",
       "description": "This is an awesome organization",
@@ -881,7 +881,7 @@
       "websiteUrl": "https://www.ligue-cancer.net/"
     },
     {
-      "_id": "61679cff014b66e55c8b128b",
+      "_id": "618bc909d183d8e150b301fb",
       "login": "london-s-global-university",
       "name": "London's Global University",
       "description": "This is an awesome organization",
@@ -889,7 +889,7 @@
       "websiteUrl": "https://www.ucl.ac.uk/"
     },
     {
-      "_id": "61679cff014b66e55c8b128c",
+      "_id": "618bc909d183d8e150b301fc",
       "login": "ludwig-maximilian-university-of-munich",
       "name": "Ludwig Maximilian University of Munich",
       "description": "This is an awesome organization",
@@ -897,7 +897,7 @@
       "websiteUrl": "https://www.en.uni-muenchen.de/index.html"
     },
     {
-      "_id": "61679cff014b66e55c8b128d",
+      "_id": "618bc909d183d8e150b301fd",
       "login": "mahidol-oxford-tropical-medicine-research-unit",
       "name": "Mahidol Oxford Tropical Medicine Research Unit",
       "description": "This is an awesome organization",
@@ -905,7 +905,7 @@
       "websiteUrl": "https://www.tropmedres.ac/"
     },
     {
-      "_id": "61679cff014b66e55c8b128e",
+      "_id": "618bc909d183d8e150b301fe",
       "login": "march-of-dimes",
       "name": "March of Dimes",
       "description": "This is an awesome organization",
@@ -913,7 +913,7 @@
       "websiteUrl": "https://www.marchofdimes.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b128f",
+      "_id": "618bc909d183d8e150b301ff",
       "login": "massachusetts-general-hospital",
       "name": "Massachusetts General Hospital",
       "description": "This is an awesome organization",
@@ -921,7 +921,7 @@
       "websiteUrl": "https://www.massgeneral.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1290",
+      "_id": "618bc909d183d8e150b30200",
       "login": "massachusetts-institute-of-technology",
       "name": "Massachusetts Institute of Technology",
       "description": "This is an awesome organization",
@@ -929,7 +929,7 @@
       "websiteUrl": "https://www.mit.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b130b",
+      "_id": "618bc909d183d8e150b3027b",
       "login": "mathworks",
       "name": "MathWorks",
       "description": "This is an awesome organization",
@@ -937,7 +937,7 @@
       "websiteUrl": "https://www.mathworks.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1291",
+      "_id": "618bc909d183d8e150b30201",
       "login": "max-delbruck-center-for-molecular-medicine",
       "name": "Max Delbruck Center for Molecular Medicine",
       "description": "This is an awesome organization",
@@ -945,7 +945,7 @@
       "websiteUrl": "https://www.mdc-berlin.de/"
     },
     {
-      "_id": "61679cff014b66e55c8b1292",
+      "_id": "618bc909d183d8e150b30202",
       "login": "md-anderson-cancer-center",
       "name": "MD Anderson Cancer Center",
       "description": "This is an awesome organization",
@@ -953,7 +953,7 @@
       "websiteUrl": "https://www.mdanderson.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1293",
+      "_id": "618bc909d183d8e150b30203",
       "login": "medical-research-council",
       "name": "Medical Research Council",
       "description": "This is an awesome organization",
@@ -961,7 +961,7 @@
       "websiteUrl": "https://mrc.ukri.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1294",
+      "_id": "618bc909d183d8e150b30204",
       "login": "memorial-sloan-kettering-cancer-center",
       "name": "Memorial Sloan Kettering Cancer Center",
       "description": "This is an awesome organization",
@@ -969,7 +969,7 @@
       "websiteUrl": "https://www.mskcc.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1295",
+      "_id": "618bc909d183d8e150b30205",
       "login": "merck-co",
       "name": "Merck Co.",
       "description": "This is an awesome organization",
@@ -977,7 +977,7 @@
       "websiteUrl": "https://www.merck.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1303",
+      "_id": "618bc909d183d8e150b30273",
       "login": "miccai",
       "name": "MICCAI",
       "description": "This is an awesome organization",
@@ -986,7 +986,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/miccai.png"
     },
     {
-      "_id": "61679cff014b66e55c8b1296",
+      "_id": "618bc909d183d8e150b30206",
       "login": "michael-j-fox-foundation",
       "name": "Michael J. Fox Foundation",
       "description": "This is an awesome organization",
@@ -994,7 +994,7 @@
       "websiteUrl": "https://www.michaeljfox.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1297",
+      "_id": "618bc909d183d8e150b30207",
       "login": "mines-paristech",
       "name": "MINES ParisTech",
       "description": "This is an awesome organization",
@@ -1002,7 +1002,7 @@
       "websiteUrl": "http://www.mines-paristech.eu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1298",
+      "_id": "618bc909d183d8e150b30208",
       "login": "mount-sinai",
       "name": "Mount Sinai",
       "description": "This is an awesome organization",
@@ -1010,7 +1010,7 @@
       "websiteUrl": "https://www.mountsinai.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1299",
+      "_id": "618bc909d183d8e150b30209",
       "login": "multiple-myeloma-research-foundation",
       "name": "Multiple Myeloma Research Foundation",
       "description": "This is an awesome organization",
@@ -1018,7 +1018,7 @@
       "websiteUrl": "https://themmrf.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b129a",
+      "_id": "618bc909d183d8e150b3020a",
       "login": "nathan-s-kline-institute-for-psychiatric-research",
       "name": "Nathan S. Kline Institute for Psychiatric Research",
       "description": "This is an awesome organization",
@@ -1026,7 +1026,7 @@
       "websiteUrl": "https://www.nki.rfmh.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b129b",
+      "_id": "618bc909d183d8e150b3020b",
       "login": "national-cancer-institute",
       "name": "National Cancer Institute",
       "description": "This is an awesome organization",
@@ -1034,7 +1034,7 @@
       "websiteUrl": "https://www.cancer.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b129c",
+      "_id": "618bc909d183d8e150b3020c",
       "login": "national-center-for-advancing-translational-sciences",
       "name": "National Center for Advancing Translational Sciences",
       "description": "This is an awesome organization",
@@ -1042,7 +1042,7 @@
       "websiteUrl": "https://ncats.nih.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b1325",
+      "_id": "618bc909d183d8e150b30295",
       "login": "national-center-for-data-to-health",
       "name": "National Center for Data to Health",
       "description": "This is an awesome organization",
@@ -1050,7 +1050,7 @@
       "websiteUrl": "https://cd2h.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b129d",
+      "_id": "618bc909d183d8e150b3020d",
       "login": "national-institute-of-environmental-health-sciences",
       "name": "National Institute of Environmental Health Sciences",
       "description": "This is an awesome organization",
@@ -1058,7 +1058,7 @@
       "websiteUrl": "https://www.niehs.nih.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b132a",
+      "_id": "618bc909d183d8e150b3029a",
       "login": "national-institute-of-general-medical-sciences",
       "name": "National Institute of General Medical Sciences",
       "description": "This is an awesome organization",
@@ -1066,7 +1066,7 @@
       "websiteUrl": "https://www.nigms.nih.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b12f2",
+      "_id": "618bc909d183d8e150b30262",
       "login": "national-institute-of-standards-and-technology",
       "name": "National Institute of Standards and Technology",
       "description": "This is an awesome organization",
@@ -1074,7 +1074,7 @@
       "websiteUrl": "https://www.nist.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b129e",
+      "_id": "618bc909d183d8e150b3020e",
       "login": "national-institutes-of-health",
       "name": "National Institutes of Health",
       "description": "This is an awesome organization",
@@ -1082,7 +1082,7 @@
       "websiteUrl": "https://www.nih.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b1327",
+      "_id": "618bc909d183d8e150b30297",
       "login": "national-science-foundation",
       "name": "National Science Foundation",
       "description": "This is an awesome organization",
@@ -1090,7 +1090,7 @@
       "websiteUrl": "https://www.nsf.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b1316",
+      "_id": "618bc909d183d8e150b30286",
       "login": "natural-sciences-and-engineering-research-council",
       "name": "Natural Sciences and Engineering Research Council",
       "description": "This is an awesome organization",
@@ -1098,7 +1098,7 @@
       "websiteUrl": "https://www.nserc-crsng.gc.ca/index_eng.asp"
     },
     {
-      "_id": "61679cff014b66e55c8b132f",
+      "_id": "618bc909d183d8e150b3029f",
       "login": "neosoma-inc",
       "name": "Neosoma Inc.",
       "description": "This is an awesome organization",
@@ -1106,7 +1106,7 @@
       "websiteUrl": "https://neosomainc.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b129f",
+      "_id": "618bc909d183d8e150b3020f",
       "login": "neurological-clinical-research-institute",
       "name": "Neurological Clinical Research Institute",
       "description": "This is an awesome organization",
@@ -1114,7 +1114,7 @@
       "websiteUrl": "https://www.massgeneral.org/ncri"
     },
     {
-      "_id": "61679cff014b66e55c8b12a0",
+      "_id": "618bc909d183d8e150b30210",
       "login": "new-york-university",
       "name": "New York University",
       "description": "This is an awesome organization",
@@ -1122,7 +1122,7 @@
       "websiteUrl": "https://www.nyu.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12a1",
+      "_id": "618bc909d183d8e150b30211",
       "login": "northeast-als-consortium",
       "name": "Northeast ALS Consortium",
       "description": "This is an awesome organization",
@@ -1130,7 +1130,7 @@
       "websiteUrl": "https://www.neals.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b12fc",
+      "_id": "618bc909d183d8e150b3026c",
       "login": "northeastern-university",
       "name": "Northeastern University",
       "description": "This is an awesome organization",
@@ -1138,7 +1138,7 @@
       "websiteUrl": "https://www.northeastern.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12a2",
+      "_id": "618bc909d183d8e150b30212",
       "login": "northwestern-university",
       "name": "Northwestern University",
       "description": "This is an awesome organization",
@@ -1146,7 +1146,7 @@
       "websiteUrl": "https://www.northwestern.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b130d",
+      "_id": "618bc909d183d8e150b3027d",
       "login": "novo-nordisk",
       "name": "Novo Nordisk",
       "description": "This is an awesome organization",
@@ -1154,7 +1154,7 @@
       "websiteUrl": "https://www.novonordisk-us.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b12a3",
+      "_id": "618bc909d183d8e150b30213",
       "login": "numerate",
       "name": "Numerate",
       "description": "This is an awesome organization",
@@ -1162,7 +1162,7 @@
       "websiteUrl": "http://www.numerate.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b131e",
+      "_id": "618bc909d183d8e150b3028e",
       "login": "nvidia",
       "name": "NVIDIA",
       "description": "This is an awesome organization",
@@ -1170,7 +1170,7 @@
       "websiteUrl": "https://www.nvidia.com/en-us/"
     },
     {
-      "_id": "61679cff014b66e55c8b12a4",
+      "_id": "618bc909d183d8e150b30214",
       "login": "ohio-state-university",
       "name": "Ohio State University",
       "description": "This is an awesome organization",
@@ -1178,7 +1178,7 @@
       "websiteUrl": "https://www.osu.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12a5",
+      "_id": "618bc909d183d8e150b30215",
       "login": "ontario-institute-for-cancer-research",
       "name": "Ontario Institute for Cancer Research",
       "description": "This is an awesome organization",
@@ -1186,7 +1186,7 @@
       "websiteUrl": "https://oicr.on.ca/"
     },
     {
-      "_id": "61679cff014b66e55c8b12a6",
+      "_id": "618bc909d183d8e150b30216",
       "login": "oregon-health-and-science-university",
       "name": "Oregon Health and Science University",
       "description": "This is an awesome organization",
@@ -1194,7 +1194,7 @@
       "websiteUrl": "https://www.ohsu.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12a7",
+      "_id": "618bc909d183d8e150b30217",
       "login": "oslo-university-hospital",
       "name": "Oslo University Hospital",
       "description": "This is an awesome organization",
@@ -1202,7 +1202,7 @@
       "websiteUrl": "https://oslo-universitetssykehus.no/oslo-university-hospital"
     },
     {
-      "_id": "61679cff014b66e55c8b12a8",
+      "_id": "618bc909d183d8e150b30218",
       "login": "pacific-northwest-national-laboratory",
       "name": "Pacific Northwest National Laboratory",
       "description": "This is an awesome organization",
@@ -1210,7 +1210,7 @@
       "websiteUrl": "https://www.pnnl.gov/"
     },
     {
-      "_id": "61679cff014b66e55c8b1321",
+      "_id": "618bc909d183d8e150b30291",
       "login": "pfizer",
       "name": "Pfizer",
       "description": "This is an awesome organization",
@@ -1218,7 +1218,7 @@
       "websiteUrl": "https://www.pfizer.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b12f3",
+      "_id": "618bc909d183d8e150b30263",
       "login": "precisionfda",
       "name": "precisionFDA",
       "description": "This is an awesome organization",
@@ -1227,7 +1227,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/precisionfda.png"
     },
     {
-      "_id": "61679cff014b66e55c8b12a9",
+      "_id": "618bc909d183d8e150b30219",
       "login": "prize4life",
       "name": "Prize4Life",
       "description": "This is an awesome organization",
@@ -1235,7 +1235,7 @@
       "websiteUrl": "https://en.wikipedia.org/wiki/Prize4Life"
     },
     {
-      "_id": "61679cff014b66e55c8b12aa",
+      "_id": "618bc909d183d8e150b3021a",
       "login": "project-data-sphere",
       "name": "Project Data Sphere",
       "description": "This is an awesome organization",
@@ -1243,7 +1243,7 @@
       "websiteUrl": "https://www.projectdatasphere.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b1317",
+      "_id": "618bc909d183d8e150b30287",
       "login": "prostate-cancer-canada",
       "name": "Prostate Cancer Canada",
       "description": "This is an awesome organization",
@@ -1251,7 +1251,7 @@
       "websiteUrl": "https://cancer.ca/en/about-us/prostate-cancer"
     },
     {
-      "_id": "61679cff014b66e55c8b12ab",
+      "_id": "618bc909d183d8e150b3021b",
       "login": "prostate-cancer-foundation",
       "name": "Prostate Cancer Foundation",
       "description": "This is an awesome organization",
@@ -1259,7 +1259,7 @@
       "websiteUrl": "https://www.pcf.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b12ac",
+      "_id": "618bc909d183d8e150b3021c",
       "login": "providence-health-and-services",
       "name": "Providence Health and Services",
       "description": "This is an awesome organization",
@@ -1267,7 +1267,7 @@
       "websiteUrl": "https://www.providence.org/en"
     },
     {
-      "_id": "61679cff014b66e55c8b12df",
+      "_id": "618bc909d183d8e150b3024f",
       "login": "qimr-berghofer-medical-research-institute",
       "name": "QIMR Berghofer Medical Research Institute",
       "description": "This is an awesome organization",
@@ -1275,7 +1275,7 @@
       "websiteUrl": "https://www.qimrberghofer.edu.au/"
     },
     {
-      "_id": "61679cff014b66e55c8b12ad",
+      "_id": "618bc909d183d8e150b3021d",
       "login": "queen-s-university",
       "name": "Queen's University",
       "description": "This is an awesome organization",
@@ -1283,7 +1283,7 @@
       "websiteUrl": "https://www.queensu.ca/"
     },
     {
-      "_id": "61679cff014b66e55c8b12ae",
+      "_id": "618bc909d183d8e150b3021e",
       "login": "radboud-university",
       "name": "Radboud University",
       "description": "This is an awesome organization",
@@ -1291,7 +1291,7 @@
       "websiteUrl": "https://www.radboudumc.nl/en/research"
     },
     {
-      "_id": "61679cff014b66e55c8b1330",
+      "_id": "618bc909d183d8e150b302a0",
       "login": "radiological-society-of-north-america",
       "name": "Radiological Society of North America",
       "description": "This is an awesome organization",
@@ -1299,7 +1299,7 @@
       "websiteUrl": "https://www.rsna.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b12af",
+      "_id": "618bc909d183d8e150b3021f",
       "login": "radish-medical-solutions",
       "name": "Radish Medical Solutions",
       "description": "This is an awesome organization",
@@ -1307,7 +1307,7 @@
       "websiteUrl": "http://www.radishmedical.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1322",
+      "_id": "618bc909d183d8e150b30292",
       "login": "ray-and-dagmar-dolby-family-fund",
       "name": "Ray and Dagmar Dolby Family Fund",
       "description": "This is an awesome organization",
@@ -1315,7 +1315,7 @@
       "websiteUrl": "http://www.dolbyventures.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b12b0",
+      "_id": "618bc909d183d8e150b30220",
       "login": "rice-university",
       "name": "Rice University",
       "description": "This is an awesome organization",
@@ -1323,7 +1323,7 @@
       "websiteUrl": "https://www.rice.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b131d",
+      "_id": "618bc909d183d8e150b3028d",
       "login": "robert-wood-johnson-foundation",
       "name": "Robert Wood Johnson Foundation",
       "description": "This is an awesome organization",
@@ -1331,7 +1331,7 @@
       "websiteUrl": "https://www.rwjf.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b12b1",
+      "_id": "618bc909d183d8e150b30221",
       "login": "rockefeller-university",
       "name": "Rockefeller University",
       "description": "This is an awesome organization",
@@ -1339,7 +1339,7 @@
       "websiteUrl": "https://www.rockefeller.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1323",
+      "_id": "618bc909d183d8e150b30293",
       "login": "rosenberg-alzheimer-s-project",
       "name": "Rosenberg Alzheimer's Project",
       "description": "This is an awesome organization",
@@ -1347,7 +1347,7 @@
       "websiteUrl": "https://en.wikipedia.org/wiki/Douglas_Rosenberg"
     },
     {
-      "_id": "61679cff014b66e55c8b12b2",
+      "_id": "618bc909d183d8e150b30222",
       "login": "rush-university-medical-center",
       "name": "Rush University Medical Center",
       "description": "This is an awesome organization",
@@ -1355,7 +1355,7 @@
       "websiteUrl": "https://www.rush.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12b3",
+      "_id": "618bc909d183d8e150b30223",
       "login": "rwth-aachen-university",
       "name": "RWTH Aachen University",
       "description": "This is an awesome organization",
@@ -1363,7 +1363,7 @@
       "websiteUrl": "https://www.rwth-aachen.de/go/id/a/?lidx=1"
     },
     {
-      "_id": "61679cff014b66e55c8b12b4",
+      "_id": "618bc909d183d8e150b30224",
       "login": "sage-bionetworks",
       "name": "Sage Bionetworks",
       "description": "This is an awesome organization",
@@ -1372,7 +1372,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/sage-bionetworks.png"
     },
     {
-      "_id": "61679cff014b66e55c8b12b5",
+      "_id": "618bc909d183d8e150b30225",
       "login": "sanofi",
       "name": "Sanofi",
       "description": "This is an awesome organization",
@@ -1380,7 +1380,7 @@
       "websiteUrl": "https://www.sanofi.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b12e3",
+      "_id": "618bc909d183d8e150b30253",
       "login": "sapienza-university-of-rome",
       "name": "Sapienza University of Rome",
       "description": "This is an awesome organization",
@@ -1388,7 +1388,7 @@
       "websiteUrl": "https://www.uniroma1.it/en/pagina-strutturale/home"
     },
     {
-      "_id": "61679cff014b66e55c8b12b6",
+      "_id": "618bc909d183d8e150b30226",
       "login": "seattle-cancer-care-alliance",
       "name": "Seattle Cancer Care Alliance",
       "description": "This is an awesome organization",
@@ -1396,7 +1396,7 @@
       "websiteUrl": "https://www.seattlecca.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b12b7",
+      "_id": "618bc909d183d8e150b30227",
       "login": "semmelweis-university",
       "name": "Semmelweis University",
       "description": "This is an awesome organization",
@@ -1404,7 +1404,7 @@
       "websiteUrl": "https://semmelweis.hu/english/"
     },
     {
-      "_id": "61679cff014b66e55c8b12fb",
+      "_id": "618bc909d183d8e150b3026b",
       "login": "sentieon",
       "name": "Sentieon",
       "description": "This is an awesome organization",
@@ -1412,7 +1412,7 @@
       "websiteUrl": "https://www.sentieon.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b1333",
+      "_id": "618bc909d183d8e150b302a3",
       "login": "siemens-healthineers",
       "name": "Siemens Healthineers",
       "description": "This is an awesome organization",
@@ -1420,7 +1420,7 @@
       "websiteUrl": "https://www.siemens-healthineers.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b12b8",
+      "_id": "618bc909d183d8e150b30228",
       "login": "stanford-university",
       "name": "Stanford University",
       "description": "This is an awesome organization",
@@ -1428,7 +1428,7 @@
       "websiteUrl": "https://www.stanford.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1318",
+      "_id": "618bc909d183d8e150b30288",
       "login": "swiss-initiative-in-systems-biology",
       "name": "Swiss Initiative in Systems Biology",
       "description": "This is an awesome organization",
@@ -1436,7 +1436,7 @@
       "websiteUrl": "http://www.systemsx.ch/"
     },
     {
-      "_id": "61679cff014b66e55c8b130e",
+      "_id": "618bc909d183d8e150b3027e",
       "login": "takeda",
       "name": "Takeda",
       "description": "This is an awesome organization",
@@ -1444,7 +1444,7 @@
       "websiteUrl": "https://www.takeda.com/en-us/"
     },
     {
-      "_id": "61679cff014b66e55c8b12b9",
+      "_id": "618bc909d183d8e150b30229",
       "login": "texas-biomedical-research-institute",
       "name": "Texas Biomedical Research Institute",
       "description": "This is an awesome organization",
@@ -1452,7 +1452,7 @@
       "websiteUrl": "https://www.txbiomed.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b12dc",
+      "_id": "618bc909d183d8e150b3024c",
       "login": "the-hospital-for-sick-children",
       "name": "The Hospital for Sick Children",
       "description": "This is an awesome organization",
@@ -1460,7 +1460,7 @@
       "websiteUrl": "https://www.sickkids.ca/"
     },
     {
-      "_id": "61679cff014b66e55c8b12f0",
+      "_id": "618bc909d183d8e150b30260",
       "login": "the-university-of-california-davis",
       "name": "The University of California-Davis",
       "description": "This is an awesome organization",
@@ -1468,7 +1468,7 @@
       "websiteUrl": "https://www.ucdavis.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12e2",
+      "_id": "618bc909d183d8e150b30252",
       "login": "the-university-of-texas-at-austin",
       "name": "The University of Texas at Austin",
       "description": "This is an awesome organization",
@@ -1476,7 +1476,7 @@
       "websiteUrl": "https://www.utexas.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1307",
+      "_id": "618bc909d183d8e150b30277",
       "login": "thomas-jefferson-university-hospital",
       "name": "Thomas Jefferson University Hospital",
       "description": "This is an awesome organization",
@@ -1484,7 +1484,7 @@
       "websiteUrl": "https://hospitals.jefferson.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b1332",
+      "_id": "618bc909d183d8e150b302a2",
       "login": "tracinnovations",
       "name": "TracInnovations",
       "description": "This is an awesome organization",
@@ -1492,7 +1492,7 @@
       "websiteUrl": "https://tracinnovations.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b12ba",
+      "_id": "618bc909d183d8e150b3022a",
       "login": "trinity-college-institute-of-neuroscience",
       "name": "Trinity College Institute of Neuroscience",
       "description": "This is an awesome organization",
@@ -1500,7 +1500,7 @@
       "websiteUrl": "https://www.tcd.ie/Neuroscience/"
     },
     {
-      "_id": "61679cff014b66e55c8b12bb",
+      "_id": "618bc909d183d8e150b3022b",
       "login": "tulane-university",
       "name": "Tulane University",
       "description": "This is an awesome organization",
@@ -1508,7 +1508,7 @@
       "websiteUrl": "https://tulane.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12bc",
+      "_id": "618bc909d183d8e150b3022c",
       "login": "u-s-food-and-drug-administration",
       "name": "U.S. Food and Drug Administration",
       "description": "This is an awesome organization",
@@ -1516,7 +1516,7 @@
       "websiteUrl": "https://www.fda.gov/home"
     },
     {
-      "_id": "61679cff014b66e55c8b12bd",
+      "_id": "618bc909d183d8e150b3022d",
       "login": "unc-eshelman-school-of-pharmacy",
       "name": "UNC Eshelman School of Pharmacy",
       "description": "This is an awesome organization",
@@ -1524,7 +1524,7 @@
       "websiteUrl": "https://pharmacy.unc.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12be",
+      "_id": "618bc909d183d8e150b3022e",
       "login": "university-of-alabama",
       "name": "University of Alabama",
       "description": "This is an awesome organization",
@@ -1532,7 +1532,7 @@
       "websiteUrl": "https://www.ua.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12bf",
+      "_id": "618bc909d183d8e150b3022f",
       "login": "university-of-alabama-at-birmingham",
       "name": "University of Alabama at Birmingham",
       "description": "This is an awesome organization",
@@ -1540,7 +1540,7 @@
       "websiteUrl": "https://www.uab.edu/home/"
     },
     {
-      "_id": "61679cff014b66e55c8b12c0",
+      "_id": "618bc909d183d8e150b30230",
       "login": "university-of-arkansas-for-medical-sciences",
       "name": "University of Arkansas for Medical Sciences",
       "description": "This is an awesome organization",
@@ -1548,7 +1548,7 @@
       "websiteUrl": "https://www.uams.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12ef",
+      "_id": "618bc909d183d8e150b3025f",
       "login": "university-of-basel",
       "name": "University of Basel",
       "description": "This is an awesome organization",
@@ -1556,7 +1556,7 @@
       "websiteUrl": "https://www.unibas.ch/en.html"
     },
     {
-      "_id": "61679cff014b66e55c8b12c1",
+      "_id": "618bc909d183d8e150b30231",
       "login": "university-of-california-san-diego",
       "name": "University of California San Diego",
       "description": "This is an awesome organization",
@@ -1564,7 +1564,7 @@
       "websiteUrl": "https://ucsd.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12c2",
+      "_id": "618bc909d183d8e150b30232",
       "login": "university-of-california-san-francisco",
       "name": "University of California San Francisco",
       "description": "This is an awesome organization",
@@ -1572,7 +1572,7 @@
       "websiteUrl": "https://www.ucsf.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12c3",
+      "_id": "618bc909d183d8e150b30233",
       "login": "university-of-california-santa-cruz",
       "name": "University of California Santa Cruz",
       "description": "This is an awesome organization",
@@ -1580,7 +1580,7 @@
       "websiteUrl": "https://www.ucsc.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12c4",
+      "_id": "618bc909d183d8e150b30234",
       "login": "university-of-cincinnati",
       "name": "University of Cincinnati",
       "description": "This is an awesome organization",
@@ -1588,7 +1588,7 @@
       "websiteUrl": "https://www.uc.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12c5",
+      "_id": "618bc909d183d8e150b30235",
       "login": "university-of-colorado-anschutz-medical-campus",
       "name": "University of Colorado Anschutz Medical Campus",
       "description": "This is an awesome organization",
@@ -1596,7 +1596,7 @@
       "websiteUrl": "https://www.cuanschutz.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12dd",
+      "_id": "618bc909d183d8e150b3024d",
       "login": "university-of-connecticut",
       "name": "University of Connecticut",
       "description": "This is an awesome organization",
@@ -1604,7 +1604,7 @@
       "websiteUrl": "https://uconn.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12f7",
+      "_id": "618bc909d183d8e150b30267",
       "login": "university-of-houston",
       "name": "University of Houston",
       "description": "This is an awesome organization",
@@ -1612,7 +1612,7 @@
       "websiteUrl": "https://www.uh.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12c6",
+      "_id": "618bc909d183d8e150b30236",
       "login": "university-of-illinois-urbana-champaign",
       "name": "University of Illinois Urbana-Champaign",
       "description": "This is an awesome organization",
@@ -1620,7 +1620,7 @@
       "websiteUrl": "https://illinois.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12ed",
+      "_id": "618bc909d183d8e150b3025d",
       "login": "university-of-kent",
       "name": "University of Kent",
       "description": "This is an awesome organization",
@@ -1628,7 +1628,7 @@
       "websiteUrl": "https://www.kent.ac.uk/"
     },
     {
-      "_id": "61679cff014b66e55c8b12c7",
+      "_id": "618bc909d183d8e150b30237",
       "login": "university-of-kentucky",
       "name": "University of Kentucky",
       "description": "This is an awesome organization",
@@ -1636,7 +1636,7 @@
       "websiteUrl": "http://www.uky.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12c8",
+      "_id": "618bc909d183d8e150b30238",
       "login": "university-of-lausanne",
       "name": "University of Lausanne",
       "description": "This is an awesome organization",
@@ -1644,7 +1644,7 @@
       "websiteUrl": "https://www.unil.ch/central/en/home.html"
     },
     {
-      "_id": "61679cff014b66e55c8b12c9",
+      "_id": "618bc909d183d8e150b30239",
       "login": "university-of-lisbon",
       "name": "University of Lisbon",
       "description": "This is an awesome organization",
@@ -1652,7 +1652,7 @@
       "websiteUrl": "https://www.ulisboa.pt/en"
     },
     {
-      "_id": "61679cff014b66e55c8b12ee",
+      "_id": "618bc909d183d8e150b3025e",
       "login": "university-of-london",
       "name": "University of London",
       "description": "This is an awesome organization",
@@ -1660,7 +1660,7 @@
       "websiteUrl": "https://london.ac.uk/"
     },
     {
-      "_id": "61679cff014b66e55c8b12ca",
+      "_id": "618bc909d183d8e150b3023a",
       "login": "university-of-luxembourg",
       "name": "University of Luxembourg",
       "description": "This is an awesome organization",
@@ -1668,7 +1668,7 @@
       "websiteUrl": "https://wwwen.uni.lu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12f1",
+      "_id": "618bc909d183d8e150b30261",
       "login": "university-of-maryland",
       "name": "University of Maryland",
       "description": "This is an awesome organization",
@@ -1676,7 +1676,7 @@
       "websiteUrl": "https://www.umd.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12cb",
+      "_id": "618bc909d183d8e150b3023b",
       "login": "university-of-michigan",
       "name": "University of Michigan",
       "description": "This is an awesome organization",
@@ -1684,7 +1684,7 @@
       "websiteUrl": "https://umich.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12cc",
+      "_id": "618bc909d183d8e150b3023c",
       "login": "university-of-north-carolina-at-chapel-hill",
       "name": "University of North Carolina at Chapel Hill",
       "description": "This is an awesome organization",
@@ -1692,7 +1692,7 @@
       "websiteUrl": "https://www.unc.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12cd",
+      "_id": "618bc909d183d8e150b3023d",
       "login": "university-of-notre-dame",
       "name": "University of Notre Dame",
       "description": "This is an awesome organization",
@@ -1700,7 +1700,7 @@
       "websiteUrl": "https://www.nd.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12e5",
+      "_id": "618bc909d183d8e150b30255",
       "login": "university-of-padova",
       "name": "University of Padova",
       "description": "This is an awesome organization",
@@ -1708,7 +1708,7 @@
       "websiteUrl": "https://www.unipd.it/en/"
     },
     {
-      "_id": "61679cff014b66e55c8b12db",
+      "_id": "618bc909d183d8e150b3024b",
       "login": "university-of-padua",
       "name": "University of Padua",
       "description": "This is an awesome organization",
@@ -1716,7 +1716,7 @@
       "websiteUrl": "https://www.unipd.it/en/"
     },
     {
-      "_id": "61679cff014b66e55c8b12ea",
+      "_id": "618bc909d183d8e150b3025a",
       "login": "university-of-pennsylvania",
       "name": "University of Pennsylvania",
       "description": "This is an awesome organization",
@@ -1724,7 +1724,7 @@
       "websiteUrl": "https://www.upenn.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12ce",
+      "_id": "618bc909d183d8e150b3023e",
       "login": "university-of-rochester",
       "name": "University of Rochester",
       "description": "This is an awesome organization",
@@ -1732,7 +1732,7 @@
       "websiteUrl": "https://www.urmedicine.org/"
     },
     {
-      "_id": "61679cff014b66e55c8b12e7",
+      "_id": "618bc909d183d8e150b30257",
       "login": "university-of-south-florida",
       "name": "University of South Florida",
       "description": "This is an awesome organization",
@@ -1740,7 +1740,7 @@
       "websiteUrl": "https://www.usf.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12e4",
+      "_id": "618bc909d183d8e150b30254",
       "login": "university-of-southampton",
       "name": "University of Southampton",
       "description": "This is an awesome organization",
@@ -1748,7 +1748,7 @@
       "websiteUrl": "https://www.southampton.ac.uk/"
     },
     {
-      "_id": "61679cff014b66e55c8b12cf",
+      "_id": "618bc909d183d8e150b3023f",
       "login": "university-of-texas-southwestern",
       "name": "University of Texas Southwestern",
       "description": "This is an awesome organization",
@@ -1756,7 +1756,7 @@
       "websiteUrl": "https://www.utsouthwestern.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12d0",
+      "_id": "618bc909d183d8e150b30240",
       "login": "university-of-toronto",
       "name": "University of Toronto",
       "description": "This is an awesome organization",
@@ -1764,7 +1764,7 @@
       "websiteUrl": "https://www.utoronto.ca/"
     },
     {
-      "_id": "61679cff014b66e55c8b12e8",
+      "_id": "618bc909d183d8e150b30258",
       "login": "university-of-vermont",
       "name": "University of Vermont",
       "description": "This is an awesome organization",
@@ -1772,7 +1772,7 @@
       "websiteUrl": "https://www.uvm.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12e6",
+      "_id": "618bc909d183d8e150b30256",
       "login": "university-of-verona",
       "name": "University of Verona",
       "description": "This is an awesome organization",
@@ -1780,7 +1780,7 @@
       "websiteUrl": "https://www.univr.it/en/international"
     },
     {
-      "_id": "61679cff014b66e55c8b12d1",
+      "_id": "618bc909d183d8e150b30241",
       "login": "university-of-virginia",
       "name": "University of Virginia",
       "description": "This is an awesome organization",
@@ -1788,7 +1788,7 @@
       "websiteUrl": "https://www.virginia.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12d2",
+      "_id": "618bc909d183d8e150b30242",
       "login": "university-of-washington",
       "name": "University of Washington",
       "description": "This is an awesome organization",
@@ -1796,7 +1796,7 @@
       "websiteUrl": "https://www.washington.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12d3",
+      "_id": "618bc909d183d8e150b30243",
       "login": "university-of-zurich",
       "name": "University of Zurich",
       "description": "This is an awesome organization",
@@ -1804,7 +1804,7 @@
       "websiteUrl": "https://www.uzh.ch/en.html"
     },
     {
-      "_id": "61679cff014b66e55c8b12d4",
+      "_id": "618bc909d183d8e150b30244",
       "login": "urban-green-energy",
       "name": "Urban Green Energy",
       "description": "This is an awesome organization",
@@ -1812,7 +1812,7 @@
       "websiteUrl": "https://www.ugei.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b12f6",
+      "_id": "618bc909d183d8e150b30266",
       "login": "us-army-medical-research-institute-of-infectious-diseases",
       "name": "US Army Medical Research Institute of Infectious Diseases",
       "description": "This is an awesome organization",
@@ -1820,7 +1820,7 @@
       "websiteUrl": "https://www.usamriid.army.mil/"
     },
     {
-      "_id": "61679cff014b66e55c8b12d5",
+      "_id": "618bc909d183d8e150b30245",
       "login": "verily",
       "name": "Verily",
       "description": "This is an awesome organization",
@@ -1828,7 +1828,7 @@
       "websiteUrl": "https://verily.com/"
     },
     {
-      "_id": "61679cff014b66e55c8b12fa",
+      "_id": "618bc909d183d8e150b3026a",
       "login": "vha-innovation-ecosystem",
       "name": "VHA Innovation Ecosystem",
       "description": "This is an awesome organization",
@@ -1836,7 +1836,7 @@
       "websiteUrl": "https://www.va.gov/innovationecosystem/"
     },
     {
-      "_id": "61679cff014b66e55c8b12d6",
+      "_id": "618bc909d183d8e150b30246",
       "login": "washington-university-in-st-louis",
       "name": "Washington University in St. Louis",
       "description": "This is an awesome organization",
@@ -1844,7 +1844,7 @@
       "websiteUrl": "https://wustl.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12d7",
+      "_id": "618bc909d183d8e150b30247",
       "login": "wayne-state-university",
       "name": "Wayne State University",
       "description": "This is an awesome organization",
@@ -1852,7 +1852,7 @@
       "websiteUrl": "https://wayne.edu/"
     },
     {
-      "_id": "61679cff014b66e55c8b12d8",
+      "_id": "618bc909d183d8e150b30248",
       "login": "weizmann-institute-of-science",
       "name": "Weizmann Institute of Science",
       "description": "This is an awesome organization",
@@ -1860,7 +1860,7 @@
       "websiteUrl": "https://www.weizmann.ac.il/pages/"
     },
     {
-      "_id": "61679cff014b66e55c8b12d9",
+      "_id": "618bc909d183d8e150b30249",
       "login": "wellcome-sanger-institute",
       "name": "Wellcome Sanger Institute",
       "description": "This is an awesome organization",
@@ -1868,7 +1868,7 @@
       "websiteUrl": "https://www.sanger.ac.uk/"
     },
     {
-      "_id": "61679cff014b66e55c8b131b",
+      "_id": "618bc909d183d8e150b3028b",
       "login": "white-house-office-of-science-and-technology-policy",
       "name": "White House Office of Science and Technology Policy",
       "description": "This is an awesome organization",

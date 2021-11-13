@@ -16,6 +16,7 @@
   ],
   "rules": {
     "comma-dangle": ["error", "only-multiline"],
-    "semi": ["error", "always"]
+    "semi": ["error", "always"],
+    "space-before-function-paren": ["error", "never"]
   }
 }

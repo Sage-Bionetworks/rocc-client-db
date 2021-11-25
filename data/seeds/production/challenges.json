@@ -18,7 +18,24 @@
       ],
       "fullName": "dream/network-topology-and-parameter-inference",
       "createdAt": "",
-      "updatedAt": ""
+      "updatedAt": "",
+      "featured": true,
+      "participantCount": 1000,
+      "viewCount": 1000,
+      "starredCount": 1000,
+      "inputDataTypes": [
+        "foo",
+        "bar"
+      ],
+      "difficulty": "GoodForBeginners",
+      "submissionTypes": [
+        "DockerImage",
+        "PredictionFile"
+      ],
+      "incentiveTypes": [
+        "Monetary",
+        "Publication"
+      ]
     },
     {
       "_id": "61956051c6d7bfd3c3fbfa33",

@@ -1,70 +1,70 @@
 {
   "challengePlatforms": [
     {
-      "_id": "61a52f20c729b92e55cc0f70",
+      "_id": "61a530f5c729b92e55cc16ef",
       "name": "cafa",
       "displayName": "CAFA",
       "websiteUrl": "https://www.biofunctionprediction.org/cafa",
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/cafa.png"
     },
     {
-      "_id": "61a52f20c729b92e55cc0f6e",
+      "_id": "61a530f5c729b92e55cc16ed",
       "name": "cagi",
       "displayName": "CAGI",
       "websiteUrl": "https://genomeinterpretation.org",
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/cagi.png"
     },
     {
-      "_id": "61a52f20c729b92e55cc0f6f",
+      "_id": "61a530f5c729b92e55cc16ee",
       "name": "camda",
       "displayName": "CAMDA",
       "websiteUrl": "http://camda.info",
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/camda.png"
     },
     {
-      "_id": "61a52f20c729b92e55cc0f76",
+      "_id": "61a530f5c729b92e55cc16f5",
       "name": "cami",
       "displayName": "CAMI",
       "websiteUrl": "https://www.microbiome-cosi.org/",
       "avatarUrl": "https://via.placeholder.com/200x200"
     },
     {
-      "_id": "61a52f20c729b92e55cc0f71",
+      "_id": "61a530f5c729b92e55cc16f0",
       "name": "casp",
       "displayName": "CASP",
       "websiteUrl": "https://predictioncenter.org",
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/casp.png"
     },
     {
-      "_id": "61a52f20c729b92e55cc0f75",
+      "_id": "61a530f5c729b92e55cc16f4",
       "name": "grand-challenges",
       "displayName": "Grand Challenges",
       "websiteUrl": "https://grand-challenge.org",
       "avatarUrl": "https://via.placeholder.com/200x200"
     },
     {
-      "_id": "61a52f20c729b92e55cc0f74",
+      "_id": "61a530f5c729b92e55cc16f3",
       "name": "kaggle",
       "displayName": "Kaggle",
       "websiteUrl": "https://www.kaggle.com/",
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/kaggle.png"
     },
     {
-      "_id": "61a52f20c729b92e55cc0f73",
+      "_id": "61a530f5c729b92e55cc16f2",
       "name": "kits",
       "displayName": "KiTS",
       "websiteUrl": "https://kits21.kits-challenge.org/",
       "avatarUrl": "https://via.placeholder.com/200x200"
     },
     {
-      "_id": "61a52f20c729b92e55cc0f72",
+      "_id": "61a530f5c729b92e55cc16f1",
       "name": "precisionfda",
       "displayName": "precisionFDA",
       "websiteUrl": "https://precision.fda.gov",
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/precisionfda.png"
     },
     {
-      "_id": "61a52f20c729b92e55cc0f6d",
+      "_id": "61a530f5c729b92e55cc16ec",
       "name": "synapse",
       "displayName": "Synapse",
       "websiteUrl": "https://synapse.org",

@@ -1,1348 +1,1336 @@
 {
   "challengeSponsors": [
     {
-      "_id": "61956052c6d7bfd3c3fbfcfd",
+      "_id": "61a530f6c729b92e55cc1a1f",
       "name": "IBM",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3b"
+      "challengeId": "61a530f5c729b92e55cc1760"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfcfe",
+      "_id": "61a530f6c729b92e55cc1a20",
       "name": "MD Anderson Cancer Center",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3b"
+      "challengeId": "61a530f5c729b92e55cc1760"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfcff",
+      "_id": "61a530f6c729b92e55cc1a21",
       "name": "Rice University",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3b"
+      "challengeId": "61a530f5c729b92e55cc1760"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd00",
+      "_id": "61a530f6c729b92e55cc1a22",
       "name": "Sage Bionetworks",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3b"
+      "challengeId": "61a530f5c729b92e55cc1760"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd01",
+      "_id": "61a530f6c729b92e55cc1a23",
       "name": "California Institute of Technology",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa55"
+      "challengeId": "61a530f5c729b92e55cc177a"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd02",
+      "_id": "61a530f6c729b92e55cc1a24",
       "name": "London's Global University",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa55"
+      "challengeId": "61a530f5c729b92e55cc177a"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd03",
+      "_id": "61a530f6c729b92e55cc1a25",
       "name": "Weizmann Institute of Science",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa55"
+      "challengeId": "61a530f5c729b92e55cc177a"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd04",
+      "_id": "61a530f6c729b92e55cc1a26",
       "name": "Biogen",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa40"
+      "challengeId": "61a530f5c729b92e55cc1765"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd05",
+      "_id": "61a530f6c729b92e55cc1a27",
       "name": "DREAM",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa40"
+      "challengeId": "61a530f5c729b92e55cc1765"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd06",
+      "_id": "61a530f6c729b92e55cc1a28",
       "name": "Eli Lilly and Company",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa40"
+      "challengeId": "61a530f5c729b92e55cc1765"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd07",
+      "_id": "61a530f6c729b92e55cc1a29",
       "name": "IBM",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa40"
+      "challengeId": "61a530f5c729b92e55cc1765"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd08",
+      "_id": "61a530f6c729b92e55cc1a2a",
       "name": "Neurological Clinical Research Institute",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa40"
+      "challengeId": "61a530f5c729b92e55cc1765"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd09",
+      "_id": "61a530f6c729b92e55cc1a2b",
       "name": "Northeast ALS Consortium",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa40"
+      "challengeId": "61a530f5c729b92e55cc1765"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd0a",
+      "_id": "61a530f6c729b92e55cc1a2c",
       "name": "Prize4Life",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa40"
+      "challengeId": "61a530f5c729b92e55cc1765"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd0b",
+      "_id": "61a530f6c729b92e55cc1a2d",
       "name": "Sage Bionetworks",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa40"
+      "challengeId": "61a530f5c729b92e55cc1765"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd0c",
+      "_id": "61a530f6c729b92e55cc1a2e",
       "name": "Alzheimer's Disease Neuroimaging Initiative",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd0d",
+      "_id": "61a530f6c729b92e55cc1a2f",
       "name": "Alzheimer's Research UK",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd0e",
+      "_id": "61a530f6c729b92e55cc1a30",
       "name": "BrightFocus Foundation",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd0f",
+      "_id": "61a530f6c729b92e55cc1a31",
       "name": "European Medicines Agency",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd10",
+      "_id": "61a530f6c729b92e55cc1a32",
       "name": "Innovative Medicines Initiative",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd11",
+      "_id": "61a530f6c729b92e55cc1a33",
       "name": "Pfizer",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd12",
+      "_id": "61a530f6c729b92e55cc1a34",
       "name": "Ray and Dagmar Dolby Family Fund",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd13",
+      "_id": "61a530f6c729b92e55cc1a35",
       "name": "Rosenberg Alzheimer's Project",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd14",
+      "_id": "61a530f6c729b92e55cc1a36",
       "name": "Rush University Medical Center",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd15",
+      "_id": "61a530f6c729b92e55cc1a37",
       "name": "Sanofi",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd16",
+      "_id": "61a530f6c729b92e55cc1a38",
       "name": "Takeda",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3d"
+      "challengeId": "61a530f5c729b92e55cc1762"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd17",
+      "_id": "61a530f6c729b92e55cc1a39",
       "name": "Bristol Myers Squibb",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa5e"
+      "challengeId": "61a530f5c729b92e55cc1783"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd18",
+      "_id": "61a530f6c729b92e55cc1a3a",
       "name": "AstraZeneca",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa41"
+      "challengeId": "61a530f5c729b92e55cc1766"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd19",
+      "_id": "61a530f6c729b92e55cc1a3b",
       "name": "Bellvitge Institute for Biomedical Research",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa41"
+      "challengeId": "61a530f5c729b92e55cc1766"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd1a",
+      "_id": "61a530f6c729b92e55cc1a3c",
       "name": "Wellcome Sanger Institute",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa41"
+      "challengeId": "61a530f5c729b92e55cc1766"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd1b",
+      "_id": "61a530f6c729b92e55cc1a3d",
       "name": "Bristol Myers Squibb",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa5a"
+      "challengeId": "61a530f5c729b92e55cc177f"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd1c",
+      "_id": "61a530f6c729b92e55cc1a3e",
       "name": "National Center for Data to Health",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa5a"
+      "challengeId": "61a530f5c729b92e55cc177f"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd1d",
+      "_id": "61a530f6c729b92e55cc1a3f",
       "name": "University of Alabama at Birmingham",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa5a"
+      "challengeId": "61a530f5c729b92e55cc177f"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd1e",
+      "_id": "61a530f6c729b92e55cc1a40",
       "name": "Michael J. Fox Foundation",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa5b"
+      "challengeId": "61a530f5c729b92e55cc1780"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd1f",
+      "_id": "61a530f6c729b92e55cc1a41",
       "name": "Northwestern University",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa5b"
+      "challengeId": "61a530f5c729b92e55cc1780"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd20",
+      "_id": "61a530f6c729b92e55cc1a42",
       "name": "Radboud University",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa5b"
+      "challengeId": "61a530f5c729b92e55cc1780"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd21",
+      "_id": "61a530f6c729b92e55cc1a43",
       "name": "University of Alabama",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa5b"
+      "challengeId": "61a530f5c729b92e55cc1780"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd22",
+      "_id": "61a530f6c729b92e55cc1a44",
       "name": "University of Cincinnati",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa5b"
+      "challengeId": "61a530f5c729b92e55cc1780"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd23",
+      "_id": "61a530f6c729b92e55cc1a45",
       "name": "University of Rochester",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa5b"
+      "challengeId": "61a530f5c729b92e55cc1780"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd24",
+      "_id": "61a530f6c729b92e55cc1a46",
       "name": "U.S. Food and Drug Administration",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa88"
+      "challengeId": "61a530f5c729b92e55cc17ab"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd25",
+      "_id": "61a530f6c729b92e55cc1a47",
       "name": "U.S. Food and Drug Administration",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa89"
+      "challengeId": "61a530f5c729b92e55cc17ac"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfd26",
-      "name": "BC Cancer Research Centre",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa33"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd27",
-      "name": "Cancer Research UK",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa33"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd28",
-      "name": "Columbia University",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa33"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd29",
-      "name": "Oslo University Hospital",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa33"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd2a",
-      "name": "Broad Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd2b",
-      "name": "Cancer Target Discovery and Development",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd2c",
-      "name": "Dana-Farber Cancer Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd2d",
-      "name": "Koch Institute",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd2e",
-      "name": "Department of Energy",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa81"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd2f",
-      "name": "Elixir",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa81"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd30",
-      "name": "National Institutes of Health",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa81"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd31",
-      "name": "National Science Foundation",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa81"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd32",
-      "name": "The University of Texas at Austin",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa66"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd33",
-      "name": "University of California San Francisco",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa68"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd34",
-      "name": "Stanford University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa6e"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd35",
-      "name": "ENIGMA Consortium",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa69"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd36",
-      "name": "QIMR Berghofer Medical Research Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa69"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd37",
-      "name": "Sapienza University of Rome",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa64"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd38",
-      "name": "BioMarin Pharmaceutical Inc.",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa67"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd39",
-      "name": "University of Padua",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa6d"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd3a",
-      "name": "Brown University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa6a"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd3b",
-      "name": "Duke University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa63"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd3c",
-      "name": "Berlin Institute of Health",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa61"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd3d",
-      "name": "University of California San Francisco",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa61"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd3e",
-      "name": "University of Washington",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa61"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd3f",
-      "name": "The Hospital for Sick Children",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa6c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd40",
-      "name": "University of Washington",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa65"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd41",
-      "name": "University of Connecticut",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa6b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd42",
-      "name": "University of South Florida",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa75"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd43",
-      "name": "University of Verona",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa74"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd44",
-      "name": "University of Toronto",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa73"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd45",
-      "name": "University of Padova",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa70"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd46",
-      "name": "Sapienza University of Rome",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa77"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd47",
-      "name": "Sapienza University of Rome",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa78"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd48",
-      "name": "University of Toronto",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa79"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd49",
-      "name": "Harvard University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa72"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd4a",
-      "name": "Broad Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa6f"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd4b",
-      "name": "Broad Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa7b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd4c",
-      "name": "The Hospital for Sick Children",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa71"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd4d",
-      "name": "University of Southampton",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa7a"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd4e",
-      "name": "University of Vermont",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa76"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd4f",
-      "name": "U.S. Food and Drug Administration",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa8b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd50",
-      "name": "Celgene",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa5f"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd51",
-      "name": "National Institute of General Medical Sciences",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa82"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd52",
-      "name": "National Institute of General Medical Sciences",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa83"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd53",
-      "name": "U.S. Food and Drug Administration",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa85"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd54",
-      "name": "U.S. Food and Drug Administration",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa84"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd55",
-      "name": "U.S. Food and Drug Administration",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa8d"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd56",
-      "name": "Braille Authority of North America",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa93"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd57",
-      "name": "NVIDIA",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa93"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd58",
-      "name": "Leukemia and Lymphoma Society",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa58"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd59",
-      "name": "Oregon Health and Science University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa58"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd5a",
-      "name": "Cancer Target Discovery and Development",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa5c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd5b",
-      "name": "Columbia University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa5c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd5c",
-      "name": "Columbia University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa57"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd5d",
-      "name": "Fehling Instruments",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa95"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd5e",
-      "name": "Amazon Web Services",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa49"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd5f",
-      "name": "Breast Cancer Surveillance Consortium",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa49"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd60",
-      "name": "Fred Hutchinson Cancer Research Center",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa49"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd61",
-      "name": "IBM",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa49"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd62",
-      "name": "Laura and John Arnold Foundation",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa49"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd63",
-      "name": "Mount Sinai",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa49"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd64",
-      "name": "White House Office of Science and Technology Policy",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa49"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd65",
-      "name": "Swiss Initiative in Systems Biology",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa45"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd66",
-      "name": "University of Lausanne",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa45"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd67",
-      "name": "Columbia University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa35"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd68",
-      "name": "National Cancer Institute",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa35"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd69",
-      "name": "Oregon Health and Science University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa35"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd6a",
-      "name": "University of Washington",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa5d"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd6b",
-      "name": "Institute of Translational Health Sciences",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa54"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd6c",
-      "name": "National Center for Data to Health",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa54"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd6d",
-      "name": "University of Washington",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa54"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd6e",
-      "name": "Encyclopedia of DNA Elements Data Coordinating Center",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa46"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd6f",
-      "name": "Broad Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd70",
-      "name": "Cincinnati Children's Hospital Medical Center",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd71",
-      "name": "Harvard University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd72",
-      "name": "International Cancer Genome Consortium",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd73",
-      "name": "KnowEnG",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd74",
-      "name": "National Cancer Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd75",
-      "name": "Ontario Institute for Cancer Research",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd76",
-      "name": "Stanford University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd77",
-      "name": "University of California Santa Cruz",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd78",
-      "name": "University of Illinois Urbana-Champaign",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4b"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd79",
-      "name": "U.S. Food and Drug Administration",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa8a"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd7a",
-      "name": "Duke University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa47"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd7b",
-      "name": "Durham VA Medical Center",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa47"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd7c",
-      "name": "National Institutes of Health",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa50"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd7d",
-      "name": "UNC Eshelman School of Pharmacy",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa50"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd7e",
-      "name": "Climb 4 Kidney Cancer",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa91"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd7f",
-      "name": "HistoSonics Inc.",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa91"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd80",
-      "name": "Intuitive Surgical Inc.",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa91"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd81",
-      "name": "National Institutes of Health",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa91"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd82",
-      "name": "Bill and Melinda Gates Foundation",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa51"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd83",
-      "name": "Mahidol Oxford Tropical Medicine Research Unit",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa51"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd84",
-      "name": "National Institutes of Health",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa51"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd85",
-      "name": "Texas Biomedical Research Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa51"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd86",
-      "name": "APOLLO network",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa59"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd87",
-      "name": "Cancer Imaging Archive",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa59"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd88",
-      "name": "National Cancer Institute",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa59"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd89",
-      "name": "U.S. Food and Drug Administration",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa86"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd8a",
-      "name": "U.S. Food and Drug Administration",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa87"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd8b",
-      "name": "Mount Sinai",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4e"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd8c",
-      "name": "Celgene",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa4a"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd8d",
-      "name": "Dana-Farber Cancer Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4a"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd8e",
-      "name": "H. Lee Moffitt Cancer Center and Research Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4a"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd8f",
-      "name": "Heidelberg University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4a"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd90",
-      "name": "Medical Research Council",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4a"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd91",
-      "name": "University of Arkansas for Medical Sciences",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4a"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd92",
-      "name": "Clinical Proteomic Tumor Analysis Consortium",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4d"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd93",
-      "name": "Defense Advanced Research Projects Agency",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa4d"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd94",
-      "name": "NVIDIA",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa4d"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd95",
-      "name": "European Union",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa32"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd96",
-      "name": "International Genome Sample Resource",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa36"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd97",
-      "name": "DREAM",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3e"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd98",
-      "name": "IBM",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3e"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd99",
-      "name": "International Flavors and Fragrances Inc.",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3e"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd9a",
-      "name": "Rockefeller University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3e"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd9b",
-      "name": "Sage Bionetworks",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3e"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd9c",
-      "name": "Michael J. Fox Foundation",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd9d",
-      "name": "Robert Wood Johnson Foundation",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa4c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd9e",
-      "name": "Sage Bionetworks",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfd9f",
-      "name": "ALS Therapy Alliance",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa34"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfda0",
-      "name": "Massachusetts General Hospital",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa34"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfda1",
-      "name": "Northeast ALS Consortium",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa34"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfda2",
-      "name": "Prize4Life",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa34"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfda3",
-      "name": "Eunice Kennedy Shriver National Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa52"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfda4",
-      "name": "March of Dimes",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa52"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfda5",
-      "name": "Wayne State University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa52"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfda6",
-      "name": "American Joint Committee on Cancer",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3f"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfda7",
-      "name": "AstraZeneca",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3f"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfda8",
-      "name": "Celgene",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3f"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfda9",
-      "name": "Memorial Sloan Kettering Cancer Center",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3f"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdaa",
-      "name": "National Cancer Institute",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3f"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdab",
-      "name": "Prostate Cancer Foundation",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa3f"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdac",
-      "name": "Sanofi",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3f"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdad",
-      "name": "Siemens Healthineers",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa94"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdae",
-      "name": "TracInnovations",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa94"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdaf",
-      "name": "Defense Advanced Research Projects Agency",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa44"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdb0",
-      "name": "Arthritis Foundation",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa39"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdb1",
-      "name": "CorEvitas",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa39"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdb2",
-      "name": "IBM",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa39"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdb3",
-      "name": "Merck Co.",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa39"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdb4",
-      "name": "Novo Nordisk",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa39"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdb5",
-      "name": "Takeda",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa39"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdb6",
+      "_id": "61a530f6c729b92e55cc1a48",
       "name": "Intel",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa92"
+      "challengeId": "61a530f5c729b92e55cc17b4"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdb7",
+      "_id": "61a530f6c729b92e55cc1a49",
       "name": "Neosoma Inc.",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa92"
+      "challengeId": "61a530f5c729b92e55cc17b4"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdb8",
+      "_id": "61a530f6c729b92e55cc1a4a",
       "name": "Radiological Society of North America",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa92"
+      "challengeId": "61a530f5c729b92e55cc17b4"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdb9",
-      "name": "ETH Zurich",
+      "_id": "61a530f6c729b92e55cc1a4b",
+      "name": "BC Cancer Research Centre",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa53"
+      "challengeId": "61a530f5c729b92e55cc1758"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdba",
-      "name": "University of Zurich",
+      "_id": "61a530f6c729b92e55cc1a4c",
+      "name": "Cancer Research UK",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa53"
+      "challengeId": "61a530f5c729b92e55cc1758"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdbb",
-      "name": "Max Delbruck Center for Molecular Medicine",
+      "_id": "61a530f6c729b92e55cc1a4d",
+      "name": "Columbia University",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1758"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a4e",
+      "name": "Oslo University Hospital",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa4f"
+      "challengeId": "61a530f5c729b92e55cc1758"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdbc",
+      "_id": "61a530f6c729b92e55cc1a4f",
+      "name": "Broad Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1761"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a50",
+      "name": "Cancer Target Discovery and Development",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1761"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a51",
+      "name": "Dana-Farber Cancer Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1761"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a52",
+      "name": "Koch Institute",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1761"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a53",
+      "name": "Department of Energy",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17a5"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a54",
+      "name": "Elixir",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17a5"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a55",
+      "name": "National Institutes of Health",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17a5"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a56",
+      "name": "National Science Foundation",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17a5"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a57",
+      "name": "The University of Texas at Austin",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc178b"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a58",
+      "name": "University of California San Francisco",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc178d"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a59",
+      "name": "Stanford University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1793"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a5a",
+      "name": "ENIGMA Consortium",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc178e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a5b",
+      "name": "QIMR Berghofer Medical Research Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc178e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a5c",
+      "name": "Sapienza University of Rome",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1789"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a5d",
+      "name": "BioMarin Pharmaceutical Inc.",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc178c"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a5e",
+      "name": "University of Padua",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1792"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a5f",
+      "name": "Brown University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc178f"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a60",
+      "name": "Duke University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1788"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a61",
+      "name": "Berlin Institute of Health",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1786"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a62",
+      "name": "University of California San Francisco",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1786"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a63",
+      "name": "University of Washington",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1786"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a64",
+      "name": "The Hospital for Sick Children",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1791"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a65",
+      "name": "University of Washington",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc178a"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a66",
+      "name": "University of Connecticut",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1790"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a67",
+      "name": "University of South Florida",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc179a"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a68",
+      "name": "University of Verona",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1799"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a69",
+      "name": "University of Toronto",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1798"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a6a",
+      "name": "University of Padova",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1795"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a6b",
+      "name": "Sapienza University of Rome",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc179c"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a6c",
+      "name": "Sapienza University of Rome",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc179d"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a6d",
+      "name": "University of Toronto",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc179e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a6e",
+      "name": "Harvard University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1797"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a6f",
+      "name": "Broad Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1794"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a70",
+      "name": "Broad Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc17a0"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a71",
+      "name": "The Hospital for Sick Children",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1796"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a72",
+      "name": "University of Southampton",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc179f"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a73",
+      "name": "University of Vermont",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc179b"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a74",
       "name": "U.S. Food and Drug Administration",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa8e"
+      "challengeId": "61a530f5c729b92e55cc17ae"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdbd",
-      "name": "International Cancer Genome Consortium",
+      "_id": "61a530f6c729b92e55cc1a75",
+      "name": "Celgene",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1784"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a76",
+      "name": "National Institute of General Medical Sciences",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17a6"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a77",
+      "name": "National Institute of General Medical Sciences",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17a7"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a78",
+      "name": "U.S. Food and Drug Administration",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17a9"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a79",
+      "name": "U.S. Food and Drug Administration",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17a8"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a7a",
+      "name": "U.S. Food and Drug Administration",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b0"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a7b",
+      "name": "Braille Authority of North America",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b5"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a7c",
+      "name": "NVIDIA",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b5"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a7d",
+      "name": "Leukemia and Lymphoma Society",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa3a"
+      "challengeId": "61a530f5c729b92e55cc177d"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdbe",
-      "name": "Genome Canada",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa42"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdbf",
-      "name": "International Cancer Genome Consortium",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa42"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdc0",
-      "name": "Natural Sciences and Engineering Research Council",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa42"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdc1",
-      "name": "Ontario Institute for Cancer Research",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa42"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdc2",
+      "_id": "61a530f6c729b92e55cc1a7e",
       "name": "Oregon Health and Science University",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa42"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdc3",
-      "name": "Sage Bionetworks",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa42"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdc4",
-      "name": "University of California Santa Cruz",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa42"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdc5",
-      "name": "Genome Canada",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa43"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdc6",
-      "name": "International Cancer Genome Consortium",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa43"
+      "challengeId": "61a530f5c729b92e55cc177d"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdc7",
-      "name": "Natural Sciences and Engineering Research Council",
+      "_id": "61a530f6c729b92e55cc1a7f",
+      "name": "Cancer Target Discovery and Development",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa43"
+      "challengeId": "61a530f5c729b92e55cc1781"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdc8",
-      "name": "Ontario Institute for Cancer Research",
+      "_id": "61a530f6c729b92e55cc1a80",
+      "name": "Columbia University",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa43"
+      "challengeId": "61a530f5c729b92e55cc1781"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdc9",
-      "name": "Prostate Cancer Canada",
+      "_id": "61a530f6c729b92e55cc1a81",
+      "name": "Columbia University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc177c"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a82",
+      "name": "Fehling Instruments",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa43"
+      "challengeId": "61a530f5c729b92e55cc17b7"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdca",
-      "name": "Genome Canada",
+      "_id": "61a530f6c729b92e55cc1a83",
+      "name": "Amazon Web Services",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa48"
+      "challengeId": "61a530f5c729b92e55cc176e"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdcb",
-      "name": "International Cancer Genome Consortium",
+      "_id": "61a530f6c729b92e55cc1a84",
+      "name": "Breast Cancer Surveillance Consortium",
       "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa48"
+      "challengeId": "61a530f5c729b92e55cc176e"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdcc",
-      "name": "National Cancer Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa48"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdcd",
-      "name": "Natural Sciences and Engineering Research Council",
+      "_id": "61a530f6c729b92e55cc1a85",
+      "name": "Fred Hutchinson Cancer Research Center",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa48"
+      "challengeId": "61a530f5c729b92e55cc176e"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdce",
-      "name": "Ontario Institute for Cancer Research",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa48"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdcf",
-      "name": "Prostate Cancer Canada",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa48"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdd0",
-      "name": "Allen Institute",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa56"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdd1",
-      "name": "California Institute of Technology",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa56"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdd2",
-      "name": "London's Global University",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa56"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdd3",
-      "name": "Sage Bionetworks",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa56"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdd4",
-      "name": "Weizmann Institute of Science",
-      "roles": ["DataProvider"],
-      "challengeId": "61956051c6d7bfd3c3fbfa56"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdd5",
-      "name": "U.S. Food and Drug Administration",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa8f"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdd6",
-      "name": "U.S. Food and Drug Administration",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa90"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdd7",
-      "name": "U.S. Food and Drug Administration",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa8c"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdd8",
-      "name": "Covert Lab",
-      "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa37"
-    },
-    {
-      "_id": "61956052c6d7bfd3c3fbfdd9",
+      "_id": "61a530f6c729b92e55cc1a86",
       "name": "IBM",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa37"
+      "challengeId": "61a530f5c729b92e55cc176e"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfdda",
-      "name": "MathWorks",
+      "_id": "61a530f6c729b92e55cc1a87",
+      "name": "Laura and John Arnold Foundation",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa37"
+      "challengeId": "61a530f5c729b92e55cc176e"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfddb",
-      "name": "Numerate",
+      "_id": "61a530f6c729b92e55cc1a88",
+      "name": "Mount Sinai",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a89",
+      "name": "White House Office of Science and Technology Policy",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa37"
+      "challengeId": "61a530f5c729b92e55cc176e"
     },
     {
-      "_id": "61956052c6d7bfd3c3fbfddc",
+      "_id": "61a530f6c729b92e55cc1a8a",
+      "name": "Swiss Initiative in Systems Biology",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc176a"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a8b",
+      "name": "University of Lausanne",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176a"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a8c",
+      "name": "Columbia University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc175a"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a8d",
+      "name": "National Cancer Institute",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175a"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a8e",
+      "name": "Oregon Health and Science University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc175a"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a8f",
+      "name": "University of Washington",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1782"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a90",
+      "name": "Institute of Translational Health Sciences",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1779"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a91",
+      "name": "National Center for Data to Health",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1779"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a92",
+      "name": "University of Washington",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1779"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a93",
+      "name": "Encyclopedia of DNA Elements Data Coordinating Center",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176b"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a94",
+      "name": "Broad Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1770"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a95",
+      "name": "Cincinnati Children's Hospital Medical Center",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1770"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a96",
+      "name": "Harvard University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1770"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a97",
+      "name": "International Cancer Genome Consortium",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1770"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a98",
+      "name": "KnowEnG",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1770"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a99",
+      "name": "National Cancer Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1770"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a9a",
+      "name": "Ontario Institute for Cancer Research",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1770"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a9b",
+      "name": "Stanford University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1770"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a9c",
+      "name": "University of California Santa Cruz",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1770"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a9d",
+      "name": "University of Illinois Urbana-Champaign",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1770"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a9e",
+      "name": "U.S. Food and Drug Administration",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17ad"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1a9f",
+      "name": "Duke University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176c"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aa0",
+      "name": "Durham VA Medical Center",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176c"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aa1",
+      "name": "National Institutes of Health",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1775"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aa2",
+      "name": "UNC Eshelman School of Pharmacy",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1775"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aa3",
+      "name": "Climb 4 Kidney Cancer",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b3"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aa4",
+      "name": "HistoSonics Inc.",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b3"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aa5",
+      "name": "Intuitive Surgical Inc.",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b3"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aa6",
+      "name": "National Institutes of Health",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b3"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aa7",
+      "name": "Bill and Melinda Gates Foundation",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1776"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aa8",
+      "name": "Mahidol Oxford Tropical Medicine Research Unit",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1776"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aa9",
+      "name": "National Institutes of Health",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1776"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aaa",
+      "name": "Texas Biomedical Research Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1776"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aab",
+      "name": "APOLLO network",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc177e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aac",
+      "name": "Cancer Imaging Archive",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc177e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aad",
+      "name": "National Cancer Institute",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc177e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aae",
+      "name": "U.S. Food and Drug Administration",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17aa"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aaf",
+      "name": "Mount Sinai",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1773"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ab0",
+      "name": "Celgene",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc176f"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ab1",
+      "name": "Dana-Farber Cancer Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176f"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ab2",
+      "name": "H. Lee Moffitt Cancer Center and Research Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176f"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ab3",
+      "name": "Heidelberg University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176f"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ab4",
+      "name": "Medical Research Council",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176f"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ab5",
+      "name": "University of Arkansas for Medical Sciences",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176f"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ab6",
+      "name": "Clinical Proteomic Tumor Analysis Consortium",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1772"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ab7",
+      "name": "Defense Advanced Research Projects Agency",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1772"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ab8",
+      "name": "NVIDIA",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1772"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ab9",
+      "name": "European Union",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1757"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aba",
+      "name": "International Genome Sample Resource",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc175b"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1abb",
+      "name": "DREAM",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1763"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1abc",
+      "name": "IBM",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1763"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1abd",
+      "name": "International Flavors and Fragrances Inc.",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1763"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1abe",
+      "name": "Rockefeller University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1763"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1abf",
       "name": "Sage Bionetworks",
       "roles": [],
-      "challengeId": "61956051c6d7bfd3c3fbfa37"
+      "challengeId": "61a530f5c729b92e55cc1763"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ac0",
+      "name": "Michael J. Fox Foundation",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1771"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ac1",
+      "name": "Robert Wood Johnson Foundation",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1771"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ac2",
+      "name": "Sage Bionetworks",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1771"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ac3",
+      "name": "ALS Therapy Alliance",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1759"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ac4",
+      "name": "Massachusetts General Hospital",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1759"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ac5",
+      "name": "Northeast ALS Consortium",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1759"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ac6",
+      "name": "Prize4Life",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1759"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ac7",
+      "name": "Eunice Kennedy Shriver National Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1777"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ac8",
+      "name": "March of Dimes",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1777"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ac9",
+      "name": "Wayne State University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1777"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aca",
+      "name": "American Joint Committee on Cancer",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1764"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1acb",
+      "name": "AstraZeneca",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1764"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1acc",
+      "name": "Celgene",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1764"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1acd",
+      "name": "Memorial Sloan Kettering Cancer Center",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1764"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ace",
+      "name": "National Cancer Institute",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1764"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1acf",
+      "name": "Prostate Cancer Foundation",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1764"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ad0",
+      "name": "Sanofi",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1764"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ad1",
+      "name": "Siemens Healthineers",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b6"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ad2",
+      "name": "TracInnovations",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b6"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ad3",
+      "name": "Defense Advanced Research Projects Agency",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1769"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ad4",
+      "name": "Arthritis Foundation",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ad5",
+      "name": "CorEvitas",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc175e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ad6",
+      "name": "IBM",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ad7",
+      "name": "Merck Co.",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ad8",
+      "name": "Novo Nordisk",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ad9",
+      "name": "Takeda",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175e"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ada",
+      "name": "ETH Zurich",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1778"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1adb",
+      "name": "University of Zurich",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1778"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1adc",
+      "name": "Max Delbruck Center for Molecular Medicine",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1774"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1add",
+      "name": "U.S. Food and Drug Administration",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b1"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ade",
+      "name": "International Cancer Genome Consortium",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc175f"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1adf",
+      "name": "Genome Canada",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1767"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ae0",
+      "name": "International Cancer Genome Consortium",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1767"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ae1",
+      "name": "Natural Sciences and Engineering Research Council",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1767"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ae2",
+      "name": "Ontario Institute for Cancer Research",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1767"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ae3",
+      "name": "Oregon Health and Science University",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1767"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ae4",
+      "name": "Sage Bionetworks",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1767"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ae5",
+      "name": "University of California Santa Cruz",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1767"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ae6",
+      "name": "Genome Canada",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1768"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ae7",
+      "name": "International Cancer Genome Consortium",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1768"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ae8",
+      "name": "Natural Sciences and Engineering Research Council",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1768"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1ae9",
+      "name": "Ontario Institute for Cancer Research",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc1768"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aea",
+      "name": "Prostate Cancer Canada",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc1768"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aeb",
+      "name": "Genome Canada",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc176d"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aec",
+      "name": "International Cancer Genome Consortium",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176d"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aed",
+      "name": "National Cancer Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176d"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aee",
+      "name": "Natural Sciences and Engineering Research Council",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc176d"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1aef",
+      "name": "Ontario Institute for Cancer Research",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc176d"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1af0",
+      "name": "Prostate Cancer Canada",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc176d"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1af1",
+      "name": "Allen Institute",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc177b"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1af2",
+      "name": "California Institute of Technology",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc177b"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1af3",
+      "name": "London's Global University",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc177b"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1af4",
+      "name": "Sage Bionetworks",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc177b"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1af5",
+      "name": "Weizmann Institute of Science",
+      "roles": ["DataProvider"],
+      "challengeId": "61a530f5c729b92e55cc177b"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1af6",
+      "name": "U.S. Food and Drug Administration",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17b2"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1af7",
+      "name": "U.S. Food and Drug Administration",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc17af"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1af8",
+      "name": "Covert Lab",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175c"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1af9",
+      "name": "IBM",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175c"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1afa",
+      "name": "MathWorks",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175c"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1afb",
+      "name": "Numerate",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175c"
+    },
+    {
+      "_id": "61a530f6c729b92e55cc1afc",
+      "name": "Sage Bionetworks",
+      "roles": [],
+      "challengeId": "61a530f5c729b92e55cc175c"
     }
   ]
 }

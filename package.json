@@ -7,7 +7,6 @@
   "scripts": {
     "start": "npm run build:live",
     "build": "tsc -p .",
-    "config": "export $(grep -v '^#' .env | xargs)",
     "build:live": "npm run config && nodemon --watch 'src/**/*.ts' --exec \"ts-node\" src/index.ts",
     "test": "npm run build && node dist/src/index.js --help",
     "package": "pkg .",

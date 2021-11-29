@@ -7,6 +7,25 @@ export enum ChallengeStatus {
   Upcoming = 'upcoming',
   Completed = 'completed',
 }
+
+export enum ChallengeDifficulty {
+  GoodForBeginners = 'GoodForBeginners',
+  Intermediate = 'Intermediate',
+  Advanced = 'Advanced',
+}
+
+export enum ChallengeSubmissionType {
+  DockerImage = 'DockerImage',
+  PredictionFile = 'PredictionFile',
+  Other = 'Other',
+}
+
+export enum ChallengeIncentiveType {
+  Monetary = 'Monetary',
+  Publication = 'Publication',
+  SpeakingEngagement = 'SpeakingEngagement',
+  Other = 'Other',
+}
 /* eslint-enable no-unused-vars */
 
 export interface Challenge {
@@ -26,6 +45,14 @@ export interface Challenge {
   doi?: string;
   createdAt: Date;
   updatedAt: Date;
+  featured: boolean;
+  participantCount: number;
+  viewCount: number;
+  starredCount: number;
+  inputDataTypes: string[];
+  difficulty: ChallengeDifficulty;
+  submissionTypes: ChallengeSubmissionType[];
+  incentiveTypes: ChallengeIncentiveType[];
 }
 
 const options = {
@@ -64,6 +91,29 @@ export const ChallengeSchema = new Schema<Challenge>(
     },
     topics: { type: [String], default: [] },
     doi: { type: String },
+    featured: { type: Boolean, default: false },
+    participantCount: {
+      type: Number,
+      minimum: 0,
+      default: 0,
+      validate: [Number.isInteger, 'invalid participantCount'],
+    },
+    viewCount: {
+      type: Number,
+      minimum: 0,
+      default: 0,
+      validate: [Number.isInteger, 'invalid viewCount'],
+    },
+    starredCount: {
+      type: Number,
+      minimum: 0,
+      default: 0,
+      validate: [Number.isInteger, 'invalid starredCount'],
+    },
+    inputDataTypes: { type: [String], default: [] },
+    difficulty: { type: String, enum: ChallengeDifficulty, required: false },
+    submissionTypes: { type: [String], enum: ChallengeSubmissionType, required: false },
+    incentiveTypes: { type: [String], enum: ChallengeIncentiveType, required: false },
   },
   options
 );

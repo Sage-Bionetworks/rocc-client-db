@@ -14,7 +14,8 @@
     "lint:fix": "eslint src/**/*.ts --fix",
     "lint-staged": "lint-staged",
     "prepare": "husky install",
-    "seed-prod": "npm run build && node dist/src/index.js seed data/seeds/production/"
+    "seed:dev": "npm run build && node dist/src/index.js seed data/seeds/development/",
+    "seed:prod": "npm run build && node dist/src/index.js seed data/seeds/production/"
   },
   "keywords": [],
   "author": {

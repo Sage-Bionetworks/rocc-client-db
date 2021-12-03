@@ -44,7 +44,7 @@ Run the client:
 
 If needed, you can manually seed the database with:
 
-    npm run build && node dist/src/index.js seed data/seeds/production/
+    npm run seed:prod
     
 Seeding is successful if you get something like the following:
 

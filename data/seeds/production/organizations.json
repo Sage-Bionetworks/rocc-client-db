@@ -1,7 +1,7 @@
 {
   "organizations": [
     {
-      "_id": "61afd96b409d3ddce19ad7b4",
+      "_id": "61afe242409d3ddce19adf68",
       "login": "cafa",
       "name": "CAFA",
       "description": "This is an awesome organization",
@@ -10,7 +10,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/cafa.png"
     },
     {
-      "_id": "61afd96b409d3ddce19ad7b5",
+      "_id": "61afe242409d3ddce19adf69",
       "login": "cagi",
       "name": "CAGI",
       "description": "This is an awesome organization",
@@ -19,7 +19,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/cagi.png"
     },
     {
-      "_id": "61afd96b409d3ddce19ad7b6",
+      "_id": "61afe242409d3ddce19adf6a",
       "login": "camda",
       "name": "CAMDA",
       "description": "This is an awesome organization",
@@ -28,7 +28,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/camda.png"
     },
     {
-      "_id": "61afd96b409d3ddce19ad7b7",
+      "_id": "61afe242409d3ddce19adf6b",
       "login": "cami",
       "name": "CAMI",
       "description": "This is an awesome organization",
@@ -36,7 +36,7 @@
       "websiteUrl": "http://cami-challenge.org"
     },
     {
-      "_id": "61afd96b409d3ddce19ad7b8",
+      "_id": "61afe242409d3ddce19adf6c",
       "login": "casp",
       "name": "CASP",
       "description": "This is an awesome organization",
@@ -45,7 +45,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/casp.png"
     },
     {
-      "_id": "61afd96b409d3ddce19ad7b9",
+      "_id": "61afe242409d3ddce19adf6d",
       "login": "dream",
       "name": "DREAM",
       "description": "This is an awesome organization",
@@ -54,7 +54,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/dream.png"
     },
     {
-      "_id": "61afd96b409d3ddce19ad7ba",
+      "_id": "61afe242409d3ddce19adf6e",
       "login": "miccai",
       "name": "MICCAI",
       "description": "This is an awesome organization",
@@ -63,7 +63,7 @@
       "avatarUrl": "https://github.com/Sage-Bionetworks/rocc-app/raw/main/images/logo/miccai.png"
     },
     {
-      "_id": "61afd96b409d3ddce19ad7bb",
+      "_id": "61afe242409d3ddce19adf6f",
       "login": "precisionfda",
       "name": "precisionFDA",
       "description": "This is an awesome organization",

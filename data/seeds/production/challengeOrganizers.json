@@ -4304,6 +4304,27 @@
       "login": "zkutalik",
       "roles": [],
       "challengeId": "61b26e5ee98893556289e226"
+    },
+    {
+      "_id": "61b36829e98893556289e5b9",
+      "name": "Gustavo Stolovitzky",
+      "login": "gstolovitzky",
+      "roles": ["InfrastructureLead"],
+      "challengeId": "61b26e5ee98893556289e22a"
+    },
+    {
+      "_id": "61b3682ae98893556289e5ba",
+      "name": "Thomas Schaffter",
+      "login": "tschaffter",
+      "roles": ["ChallengeLead", "InfrastructureLead"],
+      "challengeId": "61b26e5ee98893556289e22a"
+    },
+    {
+      "_id": "61b3682be98893556289e5bb",
+      "name": "Justin Guinney",
+      "login": "jguinney",
+      "roles": ["ChallengeLead"],
+      "challengeId": "61b26e5ee98893556289e22a"
     }
   ]
 }

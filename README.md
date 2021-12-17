@@ -17,13 +17,17 @@ Build and package the client:
     npm run build
     npm run package
 
-The following warning may be ignored if encountered:
+Note that if you receive the following error, you will need to manually seed the database (more on this under **Manual seeding**):
 
     > Warning Failed to make bytecode node16-x64 for file .../rocc-db-client/node_modules/lodash-es/lodash.js
 
 Run the client:
 
-    ./dist/rocc-db-client help
+    ./dist/rocc-db-client
+
+For example:
+
+    $ ./dist/rocc-db-client help
     Usage: rocc-client [global options] command
 
     Client for managing a ROCC DB instance.
@@ -40,15 +44,15 @@ Run the client:
       seed <directory>       seed the db with the JSON files from the directory specified
       help [command]         display help for command
 
-### Note
+### Manual seeding
 
-If needed, you can manually seed the database with:
+If your local machine was unable to package the binary files with `npm run package`, you can alternatively seed the database with:
 
     npm run seed:prod
     
 Seeding is successful if you get something like the following:
 
-    $ npm run build && node dist/src/index.js seed data/seeds/production/
+    $ npm run seed:prod
 
     > @sage-bionetworks/rocc-db-client@0.1.0 build .../rocc-db-client
     > tsc -p .

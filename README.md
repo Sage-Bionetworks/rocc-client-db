@@ -17,11 +17,13 @@ Build and package the client:
     npm run build
     npm run package
 
-`npm run package` will build a binary file for Linus; if you are using MacOS, you may encounter the following error:
+`npm run package` will build a binary file for Linux; if you are using MacOS,
+you may encounter the following error:
 
     > Warning Failed to make bytecode node16-x64 for file .../rocc-db-client/node_modules/lodash-es/lodash.js
 
-If this happens, the next step (running the client), will not work.  Instead, refer to [Using node to Seed the DB].
+If this happens, the next step (running the client), will not work.  If you
+are interested in seeding the database, refer to [Using node to Seed the DB].
 
 Run the client:
 
@@ -48,7 +50,8 @@ For example:
 
 ### Using node to Seed the DB
 
-If your local machine was unable to package the binary files with `npm run package`, you can alternatively seed the database with:
+If your local machine was unable to package the binary files with
+`npm run package`, you can alternatively seed the database with:
 
     npm run seed:prod
     
@@ -70,7 +73,8 @@ Seeding is successful if you get something like the following:
     2021-12-31 00:00:02 info: 🌱 Seeding challengeOrganizers completed
     2021-12-31 00:00:02 info: 🌱 Seeding challengeSponsors completed
 
-If you receive a `ECONNREFUSED` error, ensure that a MongoDB instance is up and running. Refer to the [ROCC API service] for more information.
+If you receive a `ECONNREFUSED` error, ensure that a MongoDB instance is up and
+running. Refer to the [ROCC API service] for more information.
 
 ## License
 

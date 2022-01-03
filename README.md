@@ -78,6 +78,6 @@ If you receive a `ECONNREFUSED` error, ensure that a MongoDB instance is up and 
 
 <!-- Links -->
 
-[Using node to Seed]: #using-node-to-seed-the-db
+[Using node to Seed the DB]: #using-node-to-seed-the-db
 [Apache License 2.0]: https://github.com/Sage-Bionetworks/rocc-db-client/blob/develop/LICENSE
 [ROCC API service]: https://github.com/Sage-Bionetworks/rocc-service#running-with-docker

@@ -12,63 +12,66 @@ Install the dependencies:
 
     npm ci
 
-Build and package the client:
+Build the client:
 
     npm run build
-    npm run package
-
-Note that if you receive the following error, you will need to manually seed the database (more on this under **Manual seeding**):
-
-    > Warning Failed to make bytecode node16-x64 for file .../rocc-db-client/node_modules/lodash-es/lodash.js
 
 Run the client:
 
-    ./dist/rocc-db-client
+    node ./dist/src/index.js
 
 For example:
 
-    $ ./dist/rocc-db-client help
-    Usage: rocc-client [global options] command
+```console
+$ node ./dist/src/index.js help
+Usage: rocc-db-client [global options] command
 
-    Client for managing a ROCC DB instance.
+Client for managing a ROCC DB instance.
 
-    Options:
-      -v, --version          output the current version
-      --uri <uri>            MongoDB uri (default: "mongodb://localhost:27017/rocc")
-      --username <username>  MongoDB username (default: "roccmongo")
-      --password <password>  MongoDB password (default: "roccmongo")
-      -h, --help             display help for command
+Options:
+  -v, --version          output the current version
+  -d, --debug            output extra debugging
+  --uri <uri>            MongoDB uri (default: "mongodb://localhost:27017/rocc")
+  --username <username>  MongoDB username (default: "roccmongo")
+  --password <password>  MongoDB password (default: "roccmongo")
+  -h, --help             display help for command
 
-    Commands:
-      ping                   ping the MongoDB instance
-      seed <directory>       seed the db with the JSON files from the directory specified
-      help [command]         display help for command
+Commands:
+  ping                   ping the MongoDB instance
+  remove-collections     remove all collections
+  seed <directory>       empty and seed the db with the JSON files from the directory specified
+  help [command]         display help for command
+```
 
 ### Manual seeding
 
-If your local machine was unable to package the binary files with `npm run package`, you can alternatively seed the database with:
+If your local machine was unable to package the binary files with `npm run
+package`, you can alternatively seed the database with:
 
     npm run seed:prod
-    
+
 Seeding is successful if you get something like the following:
 
-    $ npm run seed:prod
+```console
+$ npm run seed:prod
 
-    > @sage-bionetworks/rocc-db-client@0.1.0 build .../rocc-db-client
-    > tsc -p .
+> @sage-bionetworks/rocc-db-client@0.1.0 build .../rocc-db-client
+> tsc -p .
 
-    2021-12-31 00:00:00 info: Collection challenge removed
-    2021-12-31 00:00:00 info: Collection account removed
-    2021-12-31 00:00:00 info: 🌱 Seeding users completed
-    2021-12-31 00:00:00 info: 🌱 Seeding organizations completed
-    2021-12-31 00:00:00 info: 🌱 Seeding orgMemberships completed
-    2021-12-31 00:00:00 info: 🌱 Seeding challengePlatforms completed
-    2021-12-31 00:00:01 info: 🌱 Seeding challenges completed
-    2021-12-31 00:00:01 info: 🌱 Seeding challengeReadmes completed
-    2021-12-31 00:00:02 info: 🌱 Seeding challengeOrganizers completed
-    2021-12-31 00:00:02 info: 🌱 Seeding challengeSponsors completed
+2021-12-31 00:00:00 info: Collection challenge removed
+2021-12-31 00:00:00 info: Collection account removed
+2021-12-31 00:00:00 info: 🌱 Seeding users completed
+2021-12-31 00:00:00 info: 🌱 Seeding organizations completed
+2021-12-31 00:00:00 info: 🌱 Seeding orgMemberships completed
+2021-12-31 00:00:00 info: 🌱 Seeding challengePlatforms completed
+2021-12-31 00:00:01 info: 🌱 Seeding challenges completed
+2021-12-31 00:00:01 info: 🌱 Seeding challengeReadmes completed
+2021-12-31 00:00:02 info: 🌱 Seeding challengeOrganizers completed
+2021-12-31 00:00:02 info: 🌱 Seeding challengeSponsors completed
+```
 
-If you receive a `ECONNREFUSED` error, ensure that a MongoDB instance is up and running. Refer to the [ROCC API service] for more information.
+If you receive a `ECONNREFUSED` error, ensure that a MongoDB instance is up and
+running. Refer to the [ROCC API service] for more information.
 
 ## License
 

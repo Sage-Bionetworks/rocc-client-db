@@ -9,7 +9,6 @@
     "build": "tsc -p .",
     "build:live": "npm run config && nodemon --watch 'src/**/*.ts' --exec \"ts-node\" src/index.ts",
     "test": "npm run build && node dist/src/index.js --help",
-    "package": "pkg .",
     "lint": "eslint src/**/*.ts",
     "lint:fix": "eslint src/**/*.ts --fix",
     "lint-staged": "lint-staged",
@@ -46,19 +45,11 @@
     "husky": "^7.0.0",
     "lint-staged": "^11.2.3",
     "nodemon": "^2.0.13",
-    "pkg": "^5.3.3",
     "ts-node": "^10.2.1",
     "typescript": "^4.4.3"
   },
   "bin": {
     "rocc-db-client": "./dist/src/index.js"
-  },
-  "pkg": {
-    "scripts": "dist/**/*.js",
-    "targets": [
-      "node16-linux-x64"
-    ],
-    "outputPath": "dist"
   },
   "lint-staged": {
     "src/**/*.ts": [

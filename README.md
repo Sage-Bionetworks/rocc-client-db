@@ -46,7 +46,7 @@ Commands:
 
 ### Using node to Seed the DB
 
-You can alternatively seed the database directly with node:
+You can alternatively seed the database using the script `seed:prod`.
 
     npm run seed:prod
 

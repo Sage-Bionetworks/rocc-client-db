@@ -16,8 +16,6 @@ Build the client.
 
     npm run build
 
-If this happens, the next step (running the client), will not work.  If you
-are interested in seeding the database, refer to [Using node to Seed the DB].
 
 Run the client.
 
@@ -48,8 +46,7 @@ Commands:
 
 ### Using node to Seed the DB
 
-If your local machine was unable to package the binary files with `npm run
-package`, you can alternatively seed the database with:
+You can alternatively seed the database directly with node:
 
     npm run seed:prod
 

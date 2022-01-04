@@ -8,15 +8,18 @@ Command-line interface (CLI) for managing a ROCC DB instance.
 
 ## Usage
 
-Install the dependencies:
+Install the dependencies.
 
     npm ci
 
-Build the client:
+Build the client.
 
     npm run build
 
-Run the client:
+If this happens, the next step (running the client), will not work.  If you
+are interested in seeding the database, refer to [Using node to Seed the DB].
+
+Run the client.
 
     node ./dist/src/index.js
 
@@ -43,7 +46,7 @@ Commands:
   help [command]         display help for command
 ```
 
-### Manual seeding
+### Using node to Seed the DB
 
 If your local machine was unable to package the binary files with `npm run
 package`, you can alternatively seed the database with:
@@ -79,5 +82,6 @@ running. Refer to the [ROCC API service] for more information.
 
 <!-- Links -->
 
+[Using node to Seed the DB]: #using-node-to-seed-the-db
 [Apache License 2.0]: https://github.com/Sage-Bionetworks/rocc-db-client/blob/develop/LICENSE
 [ROCC API service]: https://github.com/Sage-Bionetworks/rocc-service#running-with-docker

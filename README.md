@@ -1,3 +1,5 @@
+> March 8, 2022: This project has been moved to [Sage-Bionetworks/challenge-registry](https://github.com/Sage-Bionetworks/challenge-registry).
+
 # ROCC DB Client
 
 [![GitHub Release](https://img.shields.io/github/release/Sage-Bionetworks/rocc-db-client.svg?include_prereleases&color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/Sage-Bionetworks/rocc-db-client/releases)
